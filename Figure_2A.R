@@ -1,9 +1,10 @@
 ###This code will make a plot similar to Figure 2A from the manuscript. For the actual figure, individual clusters were plotted and arranged. This code plots all clusters in a single heatmap in the same order as the manuscript. Can be modified to plot one cluster at a time. 
 
+###requires that "Cperk_TimeCourse_DEGanalyses.R" was run first to create scaled gene matrix and clustering objects
+
 ###libraries needed
 library(viridis)
 library(superheat)
-
 
 #get in long form for plotting
 Kmolten <- melt(kClustcentroids)
