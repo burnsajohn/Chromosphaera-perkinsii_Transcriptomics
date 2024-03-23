@@ -1,9 +1,16 @@
+###This code will make a plot similar to Figure 2B from the manuscript. 
+
+###Can be run with provided GO data tables in the /GOtables directory
+
+#Or: all required data can be generated using the two following scripts
+#First run: "Cperk_TimeCourse_DEGanalyses.R" to create scaled gene matrix and clustering objects
+#Next run: "Cperk_TimeCourse_GOanalyses.R" to create GO tables for plotting.
+
 #libraries needed
 library(ggplot2)
 library(DBI)
 library(gridExtra)
 library(Cairo)
-
 
 ###clusters renumbered based on expression patterns after initial random assignment (reproducible seed=20).
 #Old Cluster 5 becomes Cluster 1
