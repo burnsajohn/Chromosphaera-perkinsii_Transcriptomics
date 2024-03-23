@@ -10,7 +10,7 @@ library(topGO)
 ###UID mapping based GO annotations:
 geneID2GO <- readMappings(file = "Nk52_Cperk_UID.goa", IDsep=";|,")
 
-#order clusters based on expression profiles:
+#cluster order was random within the clustering algorithm (based on seed: set.seed(20)). Clusters were reordered according to expression profiles over time:
 #Old Cluster 5 becomes Cluster 1
 #Old Cluster 2 remains Cluster 2
 #Old Cluster 1 becomes Cluster 3
