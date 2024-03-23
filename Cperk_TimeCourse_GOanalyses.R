@@ -25,7 +25,7 @@ clust5<-names(kClusters[kClusters==4])
 
 myInterestingGenes <-list(clust1, clust2, clust3, clust4, clust5)
 
-###Complete GO enrichment analyses for each cluster:
+###This loop will complete GO-BP enrichment analyses for each cluster and output files with the GO enrichment table for each cluster and a dataframe containing the significant genes for each significantly enriched GO term.
 for(i in 1:length(myInterestingGenes)){
 pat<-i
 
@@ -41,7 +41,6 @@ allResBP<- GenTable(GOdataBP, weight = resultFisherBP.weight, orderBy = "weight"
 allResWeighted<- allResBP[as.numeric(gsub("<","",allResBP[,"weight"]))<0.05,]
 #head(allResBP,10)
 allResWeighted
-
 
 gotblnm<-paste(pat,"_GOPBtbls.txt",sep="")
 
