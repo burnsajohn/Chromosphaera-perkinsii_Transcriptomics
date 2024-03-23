@@ -180,6 +180,9 @@ p1 + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 
 
 #######facet plot all clusters#########################
+###plot equivalent to Figure S2B in manuscript#########
+#######################################################
+
 i=1
 #Subset the cores molten dataframe so we can plot the core
 core2 <- Kmolten[Kmolten$cluster==i,]
@@ -252,9 +255,9 @@ p2 <- ggplot(plot_data, aes(x = as.factor(time), y = value)) +
   facet_grid(cols = vars(CLUSTER)) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 
-# Print the plot
+# Print the plot Figure S2B
 print(p2)
-
+####################################################################
 
 ##############################################################################################################
 ###GO analyses of each cluster################################################################################
