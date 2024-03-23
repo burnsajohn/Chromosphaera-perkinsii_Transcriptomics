@@ -91,13 +91,16 @@ fit <- glmQLFit(y,design)
 #[5] "conditionT72"  "conditionT84"  "conditionT90"  "conditionT96" 
 
 ###run statistical tests: All vs. T52 using contrasts:
+#########################################
+#parameters in case you want to set FDR or log fold change thresholds. For the manuscript we had no log fold change threshold and used an FDR of 0.05
+thresh<-0.05
+lfc <- -10000000000000000
+########################################
+
 qlf.54vs72 <- glmQLFTest(fit,contrast=c(0,0,-1,1,0,0,0))
 summary(decideTests(qlf.54vs72))
 plotMD(qlf.54vs72)
 abline(h=c(-1, 1), col="blue")
-
-thresh<-0.05
-lfc <- -10000000000000000
 top72 <- topTags(qlf.54vs72, n=Inf)
 top72ids <- rownames(top72$table[top72$table$FDR<thresh & top72$table$logFC>=lfc,])
 
@@ -136,21 +139,23 @@ abline(h=c(-1, 1), col="blue")
 top120 <- topTags(qlf.54vs120, n=Inf)
 top120ids <- rownames(top120$table[top120$table$FDR<thresh & top120$table$logFC>=lfc,])
 
+###compile DEGs from all timepoints into a single list:
 timeDEs<-unique(c(top72ids,top84ids,top90ids,top96ids,top104ids,top120ids))
 
+###convert data to cpms and logcounts:
 cpms <- edgeR::cpm(y, offset = y$offset, log = FALSE)
 logcounts <- edgeR::cpm(y, offset = y$offset, log = TRUE)
 
 ###scale the data using differentially expressed genes only:
 scaledata <- t(scale(t(logcounts[timeDEs,])))
-
+#########################################################################################
+####cluster data#########################################################################
 ###calculate clustering stats to determine cluster number: WSS=The sum distance within the centroids
 wss <- (nrow(scaledata)-1)*sum(apply(scaledata,2,var))
 for (i in 2:20) wss[i] <- sum(kmeans(scaledata,
                                      centers=i)$withinss)
 plot(1:20, wss, type="b", xlab="Number of Clusters",
      ylab="Within groups sum of squares")
-
 
 ####Use k=5 based on wss plot:
 set.seed(20)
@@ -178,4 +183,4 @@ p1 <- ggplot(Kmolten, aes(x=sample,y=value, group=cluster, colour=as.factor(clus
   labs(title= "Cluster Expression by Time",color = "Cluster")
 p1 + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 
-
+####DEG and cluster data is used for further analyses and visualization of the data.
