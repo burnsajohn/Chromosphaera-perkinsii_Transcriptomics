@@ -298,7 +298,7 @@ allResWeighted<- allResBP[as.numeric(gsub("<","",allResBP[,"weight"]))<0.05,]
 allResWeighted
 
 
-gotblnm<-paste("../../MANUSCRIPT/GOenrich_UIDannot/",pat,"_GOPBtbls.txt",sep="")
+gotblnm<-paste(pat,"_GOPBtbls.txt",sep="")
 
 write.table(allResWeighted,gotblnm,quote=F,sep="\t")
 
