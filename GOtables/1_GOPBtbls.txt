@@ -1,0 +1,103 @@
+GO.ID	Term	Annotated	Significant	Expected	weight
+1	GO:1902653	secondary alcohol biosynthetic process	29	17	4.6	1.7e-07
+2	GO:0016126	sterol biosynthetic process	36	19	5.71	3.9e-06
+3	GO:0006890	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	31	15	4.91	2.2e-05
+4	GO:0006772	thiamine metabolic process	11	8	1.74	4.1e-05
+5	GO:0016197	endosomal transport	113	35	17.91	6.8e-05
+6	GO:0071985	multivesicular body sorting pathway	28	13	4.44	0.00013
+7	GO:0046655	folic acid metabolic process	10	7	1.59	0.00019
+8	GO:0006626	protein targeting to mitochondrion	41	17	6.5	0.00020
+9	GO:0042559	pteridine-containing compound biosynthetic process	16	9	2.54	0.00024
+10	GO:0006888	endoplasmic reticulum to Golgi vesicle-mediated transport	69	26	10.94	0.00027
+11	GO:0046395	carboxylic acid catabolic process	154	48	24.41	0.00043
+12	GO:0070995	NADPH oxidation	4	4	0.63	0.00063
+13	GO:0009240	isopentenyl diphosphate biosynthetic process	4	4	0.63	0.00063
+14	GO:0009750	response to fructose	4	4	0.63	0.00063
+15	GO:0045324	late endosome to vacuole transport	21	10	3.33	0.00063
+16	GO:0006631	fatty acid metabolic process	168	50	26.63	0.00072
+17	GO:0016024	CDP-diacylglycerol biosynthetic process	9	6	1.43	0.00085
+18	GO:0016226	iron-sulfur cluster assembly	23	11	3.65	0.00099
+19	GO:0031398	positive regulation of protein ubiquitination	24	11	3.8	0.00099
+20	GO:0048753	pigment granule organization	10	6	1.59	0.00185
+21	GO:0006084	acetyl-CoA metabolic process	18	9	2.85	0.00245
+22	GO:0046653	tetrahydrofolate metabolic process	17	8	2.69	0.00247
+23	GO:0110095	cellular detoxification of aldehyde	5	4	0.79	0.00274
+24	GO:0042357	thiamine diphosphate metabolic process	8	5	1.27	0.00365
+25	GO:0048280	vesicle fusion with Golgi apparatus	8	5	1.27	0.00365
+26	GO:0006457	protein folding	102	27	16.17	0.00389
+27	GO:0045337	farnesyl diphosphate biosynthetic process	3	3	0.48	0.00397
+28	GO:0006081	cellular aldehyde metabolic process	31	15	4.91	0.00415
+29	GO:0042364	water-soluble vitamin biosynthetic process	42	18	6.66	0.00430
+30	GO:0045454	cell redox homeostasis	12	6	1.9	0.00610
+31	GO:0045879	negative regulation of smoothened signaling pathway	9	5	1.43	0.00714
+32	GO:0070072	vacuolar proton-transporting V-type ATPase complex assembly	6	4	0.95	0.00720
+33	GO:1904152	regulation of retrograde protein transport, ER to cytosol	6	4	0.95	0.00720
+34	GO:0045048	protein insertion into ER membrane	16	7	2.54	0.00755
+35	GO:0006730	one-carbon metabolic process	16	7	2.54	0.00755
+36	GO:0044743	protein transmembrane import into intracellular organelle	24	9	3.8	0.00837
+37	GO:0009116	nucleoside metabolic process	32	12	5.07	0.00969
+38	GO:0009086	methionine biosynthetic process	20	8	3.17	0.00979
+39	GO:0032680	regulation of tumor necrosis factor production	13	6	2.06	0.00983
+40	GO:0006891	intra-Golgi vesicle-mediated transport	21	8	3.33	0.01147
+41	GO:0009092	homoserine metabolic process	10	5	1.59	0.01244
+42	GO:0019626	short-chain fatty acid catabolic process	4	3	0.63	0.01401
+43	GO:0060711	labyrinthine layer development	4	3	0.63	0.01401
+44	GO:0042182	ketone catabolic process	10	6	1.59	0.01462
+45	GO:1903749	positive regulation of establishment of protein localization to mitochondrion	7	4	1.11	0.01470
+46	GO:0046417	chorismate metabolic process	7	4	1.11	0.01470
+47	GO:0048208	COPII vesicle coating	7	4	1.11	0.01470
+48	GO:0009070	serine family amino acid biosynthetic process	26	9	4.12	0.01487
+49	GO:0051156	glucose 6-phosphate metabolic process	14	6	2.22	0.01494
+50	GO:0097428	protein maturation by iron-sulfur cluster transfer	14	6	2.22	0.01494
+51	GO:0043605	amide catabolic process	23	9	3.65	0.01550
+52	GO:0006656	phosphatidylcholine biosynthetic process	11	5	1.74	0.01987
+53	GO:0050667	homocysteine metabolic process	11	5	1.74	0.01987
+54	GO:0090316	positive regulation of intracellular protein transport	36	11	5.71	0.01993
+55	GO:0009409	response to cold	20	8	3.17	0.02150
+56	GO:0033363	secretory granule organization	15	6	2.38	0.02162
+57	GO:0015031	protein transport	658	143	104.3	0.02213
+58	GO:1903292	protein localization to Golgi membrane	2	2	0.32	0.02511
+59	GO:0071377	cellular response to glucagon stimulus	2	2	0.32	0.02511
+60	GO:0019605	butyrate metabolic process	2	2	0.32	0.02511
+61	GO:0060444	branching involved in mammary gland duct morphogenesis	2	2	0.32	0.02511
+62	GO:0002071	glandular epithelial cell maturation	2	2	0.32	0.02511
+63	GO:0006437	tyrosyl-tRNA aminoacylation	2	2	0.32	0.02511
+64	GO:0032967	positive regulation of collagen biosynthetic process	2	2	0.32	0.02511
+65	GO:0030043	actin filament fragmentation	2	2	0.32	0.02511
+66	GO:0046726	positive regulation by virus of viral protein levels in host cell	2	2	0.32	0.02511
+67	GO:0090031	positive regulation of steroid hormone biosynthetic process	2	2	0.32	0.02511
+68	GO:0006850	mitochondrial pyruvate transmembrane transport	2	2	0.32	0.02511
+69	GO:0062196	regulation of lysosome size	2	2	0.32	0.02511
+70	GO:0140647	P450-containing electron transport chain	2	2	0.32	0.02511
+71	GO:0036085	GDP-fucose import into Golgi lumen	2	2	0.32	0.02511
+72	GO:0033384	geranyl diphosphate biosynthetic process	2	2	0.32	0.02511
+73	GO:0002829	negative regulation of type 2 immune response	2	2	0.32	0.02511
+74	GO:0042619	poly-hydroxybutyrate biosynthetic process	2	2	0.32	0.02511
+75	GO:0016259	selenocysteine metabolic process	2	2	0.32	0.02511
+76	GO:0048444	floral organ morphogenesis	2	2	0.32	0.02511
+77	GO:0032330	regulation of chondrocyte differentiation	2	2	0.32	0.02511
+78	GO:2000562	negative regulation of CD4-positive, alpha-beta T cell proliferation	2	2	0.32	0.02511
+79	GO:0070682	proteasome regulatory particle assembly	2	2	0.32	0.02511
+80	GO:0005986	sucrose biosynthetic process	2	2	0.32	0.02511
+81	GO:0090181	regulation of cholesterol metabolic process	10	5	1.59	0.02569
+82	GO:0008535	respiratory chain complex IV assembly	8	4	1.27	0.02575
+83	GO:0000255	allantoin metabolic process	8	4	1.27	0.02575
+84	GO:0001707	mesoderm formation	8	4	1.27	0.02575
+85	GO:0008064	regulation of actin polymerization or depolymerization	27	10	4.28	0.02852
+86	GO:0032273	positive regulation of protein polymerization	20	7	3.17	0.02878
+87	GO:0009066	aspartate family amino acid metabolic process	47	17	7.45	0.02897
+88	GO:0006879	intracellular iron ion homeostasis	16	6	2.54	0.03007
+89	GO:0009404	toxin metabolic process	7	4	1.11	0.03085
+90	GO:0035162	embryonic hemopoiesis	5	3	0.79	0.03090
+91	GO:0071712	ER-associated misfolded protein catabolic process	5	3	0.79	0.03090
+92	GO:0042744	hydrogen peroxide catabolic process	5	3	0.79	0.03090
+93	GO:0089709	L-histidine transmembrane transport	5	3	0.79	0.03090
+94	GO:0006487	protein N-linked glycosylation	39	11	6.18	0.03555
+95	GO:0007030	Golgi organization	57	18	9.04	0.03682
+96	GO:0031648	protein destabilization	17	6	2.69	0.04041
+97	GO:0030307	positive regulation of cell growth	35	10	5.55	0.04050
+98	GO:0046037	GMP metabolic process	9	4	1.43	0.04064
+99	GO:0018202	peptidyl-histidine modification	9	4	1.43	0.04064
+100	GO:0006558	L-phenylalanine metabolic process	13	5	2.06	0.04212
+101	GO:0006612	protein targeting to membrane	36	11	5.71	0.04230
+102	GO:0019941	modification-dependent protein catabolic process	239	53	37.89	0.04924

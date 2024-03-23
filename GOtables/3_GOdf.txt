@@ -1,0 +1,975 @@
+GO.ID	UNIgene	V3
+1	GO:0051301	Nk52_evm101s352	cell division
+2	GO:0051301	Nk52_evm12s359	cell division
+3	GO:0051301	Nk52_evm14s2635	cell division
+4	GO:0051301	Nk52_evm14s267	cell division
+5	GO:0051301	Nk52_evm14s295	cell division
+6	GO:0051301	Nk52_evm14s327	cell division
+7	GO:0051301	Nk52_evm15s243	cell division
+8	GO:0051301	Nk52_evm15s260	cell division
+9	GO:0051301	Nk52_evm15s295	cell division
+10	GO:0051301	Nk52_evm15s913	cell division
+11	GO:0051301	Nk52_evm16s1073	cell division
+12	GO:0051301	Nk52_evm16s136	cell division
+13	GO:0051301	Nk52_evm16s2241	cell division
+14	GO:0051301	Nk52_evm18s238	cell division
+15	GO:0051301	Nk52_evm19s228	cell division
+16	GO:0051301	Nk52_evm19s284	cell division
+17	GO:0051301	Nk52_evm1s1962	cell division
+18	GO:0051301	Nk52_evm1s2041	cell division
+19	GO:0051301	Nk52_evm1s2514	cell division
+20	GO:0051301	Nk52_evm1s333	cell division
+21	GO:0051301	Nk52_evm1s692	cell division
+22	GO:0051301	Nk52_evm20s212	cell division
+23	GO:0051301	Nk52_evm20s272	cell division
+24	GO:0051301	Nk52_evm21s156	cell division
+25	GO:0051301	Nk52_evm21s270	cell division
+26	GO:0051301	Nk52_evm21s675	cell division
+27	GO:0051301	Nk52_evm22s2133	cell division
+28	GO:0051301	Nk52_evm22s2325	cell division
+29	GO:0051301	Nk52_evm22s2568	cell division
+30	GO:0051301	Nk52_evm26s223	cell division
+31	GO:0051301	Nk52_evm26s279	cell division
+32	GO:0051301	Nk52_evm26s805	cell division
+33	GO:0051301	Nk52_evm28s222	cell division
+34	GO:0051301	Nk52_evm29s1992	cell division
+35	GO:0051301	Nk52_evm2s156	cell division
+36	GO:0051301	Nk52_evm30s317	cell division
+37	GO:0051301	Nk52_evm31s2568	cell division
+38	GO:0051301	Nk52_evm32s223	cell division
+39	GO:0051301	Nk52_evm35s967	cell division
+40	GO:0051301	Nk52_evm36s230	cell division
+41	GO:0051301	Nk52_evm36s2657	cell division
+42	GO:0051301	Nk52_evm38s255	cell division
+43	GO:0051301	Nk52_evm3s683	cell division
+44	GO:0051301	Nk52_evm45s279	cell division
+45	GO:0051301	Nk52_evm47s1073	cell division
+46	GO:0051301	Nk52_evm47s153	cell division
+47	GO:0051301	Nk52_evm4s238	cell division
+48	GO:0051301	Nk52_evm4s323	cell division
+49	GO:0051301	Nk52_evm4s539	cell division
+50	GO:0051301	Nk52_evm50s352	cell division
+51	GO:0051301	Nk52_evm53s32	cell division
+52	GO:0051301	Nk52_evm55s224	cell division
+53	GO:0051301	Nk52_evm55s266	cell division
+54	GO:0051301	Nk52_evm58s2192	cell division
+55	GO:0051301	Nk52_evm5s39	cell division
+56	GO:0051301	Nk52_evm64s152	cell division
+57	GO:0051301	Nk52_evm69s2192	cell division
+58	GO:0051301	Nk52_evm6s16	cell division
+59	GO:0051301	Nk52_evm6s163	cell division
+60	GO:0051301	Nk52_evm6s39	cell division
+61	GO:0051301	Nk52_evm70s2192	cell division
+62	GO:0051301	Nk52_evm70s914	cell division
+63	GO:0051301	Nk52_evm72s352	cell division
+64	GO:0051301	Nk52_evm76s1810	cell division
+65	GO:0051301	Nk52_evm78s62	cell division
+66	GO:0051301	Nk52_evm79s1992	cell division
+67	GO:0051301	Nk52_evm83s914	cell division
+68	GO:0051301	Nk52_evm84s1444	cell division
+69	GO:0051301	Nk52_evm84s164	cell division
+70	GO:0051301	Nk52_evm8s155	cell division
+71	GO:0051301	Nk52_evm8s1671	cell division
+72	GO:0051301	Nk52_evm8s349	cell division
+73	GO:0051301	Nk52_evm94s217	cell division
+74	GO:0051301	Nk52_evm95s208	cell division
+75	GO:0051301	Nk52_evm9s2579	cell division
+76	GO:0007091	Nk52_evm101s352	metaphase/anaphase transition of mitotic cell cycle
+77	GO:0007091	Nk52_evm15s243	metaphase/anaphase transition of mitotic cell cycle
+78	GO:0007091	Nk52_evm15s295	metaphase/anaphase transition of mitotic cell cycle
+79	GO:0007091	Nk52_evm16s1073	metaphase/anaphase transition of mitotic cell cycle
+80	GO:0007091	Nk52_evm16s2241	metaphase/anaphase transition of mitotic cell cycle
+81	GO:0007091	Nk52_evm19s228	metaphase/anaphase transition of mitotic cell cycle
+82	GO:0007091	Nk52_evm1s333	metaphase/anaphase transition of mitotic cell cycle
+83	GO:0007091	Nk52_evm23s249	metaphase/anaphase transition of mitotic cell cycle
+84	GO:0007091	Nk52_evm29s1992	metaphase/anaphase transition of mitotic cell cycle
+85	GO:0007091	Nk52_evm2s156	metaphase/anaphase transition of mitotic cell cycle
+86	GO:0007091	Nk52_evm5s39	metaphase/anaphase transition of mitotic cell cycle
+87	GO:0007091	Nk52_evm61s207	metaphase/anaphase transition of mitotic cell cycle
+88	GO:0007091	Nk52_evm70s914	metaphase/anaphase transition of mitotic cell cycle
+89	GO:0007091	Nk52_evm95s208	metaphase/anaphase transition of mitotic cell cycle
+90	GO:0007091	Nk52_evm9s1401	metaphase/anaphase transition of mitotic cell cycle
+91	GO:0007049	Nk52_evm101s352	cell cycle
+92	GO:0007049	Nk52_evm10s309	cell cycle
+93	GO:0007049	Nk52_evm11s2391	cell cycle
+94	GO:0007049	Nk52_evm120s352	cell cycle
+95	GO:0007049	Nk52_evm126s226	cell cycle
+96	GO:0007049	Nk52_evm12s2133	cell cycle
+97	GO:0007049	Nk52_evm12s2171	cell cycle
+98	GO:0007049	Nk52_evm12s359	cell cycle
+99	GO:0007049	Nk52_evm13s153	cell cycle
+100	GO:0007049	Nk52_evm13s32	cell cycle
+101	GO:0007049	Nk52_evm13s352	cell cycle
+102	GO:0007049	Nk52_evm14s2635	cell cycle
+103	GO:0007049	Nk52_evm14s267	cell cycle
+104	GO:0007049	Nk52_evm14s271	cell cycle
+105	GO:0007049	Nk52_evm14s295	cell cycle
+106	GO:0007049	Nk52_evm14s327	cell cycle
+107	GO:0007049	Nk52_evm15s243	cell cycle
+108	GO:0007049	Nk52_evm15s295	cell cycle
+109	GO:0007049	Nk52_evm15s303	cell cycle
+110	GO:0007049	Nk52_evm15s913	cell cycle
+111	GO:0007049	Nk52_evm16s1073	cell cycle
+112	GO:0007049	Nk52_evm16s136	cell cycle
+113	GO:0007049	Nk52_evm16s163	cell cycle
+114	GO:0007049	Nk52_evm16s2241	cell cycle
+115	GO:0007049	Nk52_evm17s272	cell cycle
+116	GO:0007049	Nk52_evm18s1444	cell cycle
+117	GO:0007049	Nk52_evm18s238	cell cycle
+118	GO:0007049	Nk52_evm19s228	cell cycle
+119	GO:0007049	Nk52_evm19s284	cell cycle
+120	GO:0007049	Nk52_evm1s1647	cell cycle
+121	GO:0007049	Nk52_evm1s1745	cell cycle
+122	GO:0007049	Nk52_evm1s1962	cell cycle
+123	GO:0007049	Nk52_evm1s2041	cell cycle
+124	GO:0007049	Nk52_evm1s2514	cell cycle
+125	GO:0007049	Nk52_evm1s298	cell cycle
+126	GO:0007049	Nk52_evm1s333	cell cycle
+127	GO:0007049	Nk52_evm1s589	cell cycle
+128	GO:0007049	Nk52_evm1s692	cell cycle
+129	GO:0007049	Nk52_evm20s212	cell cycle
+130	GO:0007049	Nk52_evm20s2612	cell cycle
+131	GO:0007049	Nk52_evm20s272	cell cycle
+132	GO:0007049	Nk52_evm21s156	cell cycle
+133	GO:0007049	Nk52_evm21s270	cell cycle
+134	GO:0007049	Nk52_evm21s675	cell cycle
+135	GO:0007049	Nk52_evm22s2133	cell cycle
+136	GO:0007049	Nk52_evm22s2325	cell cycle
+137	GO:0007049	Nk52_evm22s2568	cell cycle
+138	GO:0007049	Nk52_evm22s559	cell cycle
+139	GO:0007049	Nk52_evm23s224	cell cycle
+140	GO:0007049	Nk52_evm23s249	cell cycle
+141	GO:0007049	Nk52_evm23s490	cell cycle
+142	GO:0007049	Nk52_evm25s311	cell cycle
+143	GO:0007049	Nk52_evm26s223	cell cycle
+144	GO:0007049	Nk52_evm26s279	cell cycle
+145	GO:0007049	Nk52_evm26s805	cell cycle
+146	GO:0007049	Nk52_evm28s1992	cell cycle
+147	GO:0007049	Nk52_evm28s221	cell cycle
+148	GO:0007049	Nk52_evm28s222	cell cycle
+149	GO:0007049	Nk52_evm29s1992	cell cycle
+150	GO:0007049	Nk52_evm2s156	cell cycle
+151	GO:0007049	Nk52_evm2s1810	cell cycle
+152	GO:0007049	Nk52_evm2s255	cell cycle
+153	GO:0007049	Nk52_evm2s343	cell cycle
+154	GO:0007049	Nk52_evm30s2309	cell cycle
+155	GO:0007049	Nk52_evm30s317	cell cycle
+156	GO:0007049	Nk52_evm30s370	cell cycle
+157	GO:0007049	Nk52_evm31s207	cell cycle
+158	GO:0007049	Nk52_evm31s233	cell cycle
+159	GO:0007049	Nk52_evm31s2568	cell cycle
+160	GO:0007049	Nk52_evm32s1967	cell cycle
+161	GO:0007049	Nk52_evm32s223	cell cycle
+162	GO:0007049	Nk52_evm33s1810	cell cycle
+163	GO:0007049	Nk52_evm33s295	cell cycle
+164	GO:0007049	Nk52_evm34s232	cell cycle
+165	GO:0007049	Nk52_evm34s2474	cell cycle
+166	GO:0007049	Nk52_evm34s2506	cell cycle
+167	GO:0007049	Nk52_evm35s292	cell cycle
+168	GO:0007049	Nk52_evm35s745	cell cycle
+169	GO:0007049	Nk52_evm35s967	cell cycle
+170	GO:0007049	Nk52_evm36s230	cell cycle
+171	GO:0007049	Nk52_evm36s2657	cell cycle
+172	GO:0007049	Nk52_evm38s255	cell cycle
+173	GO:0007049	Nk52_evm39s222	cell cycle
+174	GO:0007049	Nk52_evm3s683	cell cycle
+175	GO:0007049	Nk52_evm42s296	cell cycle
+176	GO:0007049	Nk52_evm45s252	cell cycle
+177	GO:0007049	Nk52_evm45s279	cell cycle
+178	GO:0007049	Nk52_evm46s2118	cell cycle
+179	GO:0007049	Nk52_evm47s1073	cell cycle
+180	GO:0007049	Nk52_evm47s153	cell cycle
+181	GO:0007049	Nk52_evm4s238	cell cycle
+182	GO:0007049	Nk52_evm4s2514	cell cycle
+183	GO:0007049	Nk52_evm4s323	cell cycle
+184	GO:0007049	Nk52_evm4s539	cell cycle
+185	GO:0007049	Nk52_evm50s352	cell cycle
+186	GO:0007049	Nk52_evm51s224	cell cycle
+187	GO:0007049	Nk52_evm52s1810	cell cycle
+188	GO:0007049	Nk52_evm53s32	cell cycle
+189	GO:0007049	Nk52_evm54s270	cell cycle
+190	GO:0007049	Nk52_evm55s224	cell cycle
+191	GO:0007049	Nk52_evm55s226	cell cycle
+192	GO:0007049	Nk52_evm55s266	cell cycle
+193	GO:0007049	Nk52_evm58s2192	cell cycle
+194	GO:0007049	Nk52_evm59s2118	cell cycle
+195	GO:0007049	Nk52_evm59s32	cell cycle
+196	GO:0007049	Nk52_evm5s158	cell cycle
+197	GO:0007049	Nk52_evm5s369	cell cycle
+198	GO:0007049	Nk52_evm5s39	cell cycle
+199	GO:0007049	Nk52_evm61s207	cell cycle
+200	GO:0007049	Nk52_evm64s152	cell cycle
+201	GO:0007049	Nk52_evm69s2192	cell cycle
+202	GO:0007049	Nk52_evm6s16	cell cycle
+203	GO:0007049	Nk52_evm6s163	cell cycle
+204	GO:0007049	Nk52_evm6s210	cell cycle
+205	GO:0007049	Nk52_evm6s2542	cell cycle
+206	GO:0007049	Nk52_evm6s39	cell cycle
+207	GO:0007049	Nk52_evm70s2192	cell cycle
+208	GO:0007049	Nk52_evm70s914	cell cycle
+209	GO:0007049	Nk52_evm72s352	cell cycle
+210	GO:0007049	Nk52_evm75s914	cell cycle
+211	GO:0007049	Nk52_evm76s1810	cell cycle
+212	GO:0007049	Nk52_evm77s2367	cell cycle
+213	GO:0007049	Nk52_evm78s62	cell cycle
+214	GO:0007049	Nk52_evm79s1992	cell cycle
+215	GO:0007049	Nk52_evm79s210	cell cycle
+216	GO:0007049	Nk52_evm83s914	cell cycle
+217	GO:0007049	Nk52_evm84s1444	cell cycle
+218	GO:0007049	Nk52_evm84s164	cell cycle
+219	GO:0007049	Nk52_evm8s155	cell cycle
+220	GO:0007049	Nk52_evm8s1671	cell cycle
+221	GO:0007049	Nk52_evm91s1737	cell cycle
+222	GO:0007049	Nk52_evm95s208	cell cycle
+223	GO:0007049	Nk52_evm9s1401	cell cycle
+224	GO:0007049	Nk52_evm9s2579	cell cycle
+225	GO:0032508	Nk52_evm12s2133	DNA duplex unwinding
+226	GO:0032508	Nk52_evm17s224	DNA duplex unwinding
+227	GO:0032508	Nk52_evm1s2626	DNA duplex unwinding
+228	GO:0032508	Nk52_evm1s510	DNA duplex unwinding
+229	GO:0032508	Nk52_evm27s224	DNA duplex unwinding
+230	GO:0032508	Nk52_evm28s1992	DNA duplex unwinding
+231	GO:0032508	Nk52_evm28s221	DNA duplex unwinding
+232	GO:0032508	Nk52_evm31s233	DNA duplex unwinding
+233	GO:0032508	Nk52_evm33s96	DNA duplex unwinding
+234	GO:0032508	Nk52_evm34s2506	DNA duplex unwinding
+235	GO:0032508	Nk52_evm39s222	DNA duplex unwinding
+236	GO:0032508	Nk52_evm45s236	DNA duplex unwinding
+237	GO:0032508	Nk52_evm58s2192	DNA duplex unwinding
+238	GO:0032508	Nk52_evm75s914	DNA duplex unwinding
+239	GO:0032508	Nk52_evm77s2367	DNA duplex unwinding
+240	GO:0032508	Nk52_evm8s310	DNA duplex unwinding
+241	GO:0006302	Nk52_evm126s226	double-strand break repair
+242	GO:0006302	Nk52_evm12s2133	double-strand break repair
+243	GO:0006302	Nk52_evm14s327	double-strand break repair
+244	GO:0006302	Nk52_evm15s303	double-strand break repair
+245	GO:0006302	Nk52_evm18s1444	double-strand break repair
+246	GO:0006302	Nk52_evm18s238	double-strand break repair
+247	GO:0006302	Nk52_evm22s270	double-strand break repair
+248	GO:0006302	Nk52_evm22s913	double-strand break repair
+249	GO:0006302	Nk52_evm23s249	double-strand break repair
+250	GO:0006302	Nk52_evm23s490	double-strand break repair
+251	GO:0006302	Nk52_evm24s252	double-strand break repair
+252	GO:0006302	Nk52_evm26s279	double-strand break repair
+253	GO:0006302	Nk52_evm27s224	double-strand break repair
+254	GO:0006302	Nk52_evm28s1992	double-strand break repair
+255	GO:0006302	Nk52_evm30s370	double-strand break repair
+256	GO:0006302	Nk52_evm39s222	double-strand break repair
+257	GO:0006302	Nk52_evm45s236	double-strand break repair
+258	GO:0006302	Nk52_evm45s32	double-strand break repair
+259	GO:0006302	Nk52_evm51s224	double-strand break repair
+260	GO:0006302	Nk52_evm54s270	double-strand break repair
+261	GO:0006302	Nk52_evm59s2118	double-strand break repair
+262	GO:0006302	Nk52_evm59s32	double-strand break repair
+263	GO:0006302	Nk52_evm5s158	double-strand break repair
+264	GO:0006302	Nk52_evm61s207	double-strand break repair
+265	GO:0006302	Nk52_evm77s2367	double-strand break repair
+266	GO:0006302	Nk52_evm80s270	double-strand break repair
+267	GO:0006302	Nk52_evm8s155	double-strand break repair
+268	GO:0006302	Nk52_evm95s208	double-strand break repair
+269	GO:0030261	Nk52_evm14s295	chromosome condensation
+270	GO:0030261	Nk52_evm26s279	chromosome condensation
+271	GO:0030261	Nk52_evm30s317	chromosome condensation
+272	GO:0030261	Nk52_evm46s2118	chromosome condensation
+273	GO:0030261	Nk52_evm4s2514	chromosome condensation
+274	GO:0030261	Nk52_evm55s224	chromosome condensation
+275	GO:0030261	Nk52_evm58s2192	chromosome condensation
+276	GO:0030261	Nk52_evm64s152	chromosome condensation
+277	GO:0030261	Nk52_evm6s39	chromosome condensation
+278	GO:0030261	Nk52_evm8s1671	chromosome condensation
+279	GO:0031145	Nk52_evm101s352	anaphase-promoting complex-dependent catabolic process
+280	GO:0031145	Nk52_evm15s243	anaphase-promoting complex-dependent catabolic process
+281	GO:0031145	Nk52_evm15s295	anaphase-promoting complex-dependent catabolic process
+282	GO:0031145	Nk52_evm16s2241	anaphase-promoting complex-dependent catabolic process
+283	GO:0031145	Nk52_evm1s333	anaphase-promoting complex-dependent catabolic process
+284	GO:0031145	Nk52_evm29s1992	anaphase-promoting complex-dependent catabolic process
+285	GO:0031145	Nk52_evm2s156	anaphase-promoting complex-dependent catabolic process
+286	GO:0031145	Nk52_evm6s163	anaphase-promoting complex-dependent catabolic process
+287	GO:0006270	Nk52_evm15s223	DNA replication initiation
+288	GO:0006270	Nk52_evm15s303	DNA replication initiation
+289	GO:0006270	Nk52_evm23s224	DNA replication initiation
+290	GO:0006270	Nk52_evm26s279	DNA replication initiation
+291	GO:0006270	Nk52_evm28s1992	DNA replication initiation
+292	GO:0006270	Nk52_evm28s221	DNA replication initiation
+293	GO:0006270	Nk52_evm34s2506	DNA replication initiation
+294	GO:0006270	Nk52_evm35s745	DNA replication initiation
+295	GO:0006270	Nk52_evm46s2118	DNA replication initiation
+296	GO:0006270	Nk52_evm59s32	DNA replication initiation
+297	GO:0006270	Nk52_evm70s914	DNA replication initiation
+298	GO:0006270	Nk52_evm75s914	DNA replication initiation
+299	GO:0006270	Nk52_evm77s2367	DNA replication initiation
+300	GO:0065004	Nk52_evm1s1647	protein-DNA complex assembly
+301	GO:0065004	Nk52_evm1s1962	protein-DNA complex assembly
+302	GO:0065004	Nk52_evm1s322	protein-DNA complex assembly
+303	GO:0065004	Nk52_evm22s559	protein-DNA complex assembly
+304	GO:0065004	Nk52_evm23s224	protein-DNA complex assembly
+305	GO:0065004	Nk52_evm23s249	protein-DNA complex assembly
+306	GO:0065004	Nk52_evm26s279	protein-DNA complex assembly
+307	GO:0065004	Nk52_evm28s2192	protein-DNA complex assembly
+308	GO:0065004	Nk52_evm30s370	protein-DNA complex assembly
+309	GO:0065004	Nk52_evm32s1967	protein-DNA complex assembly
+310	GO:0065004	Nk52_evm51s745	protein-DNA complex assembly
+311	GO:0065004	Nk52_evm59s32	protein-DNA complex assembly
+312	GO:0065004	Nk52_evm5s272	protein-DNA complex assembly
+313	GO:0065004	Nk52_evm70s62	protein-DNA complex assembly
+314	GO:0065004	Nk52_evm80s270	protein-DNA complex assembly
+315	GO:0065004	Nk52_evm8s1524	protein-DNA complex assembly
+316	GO:0065004	Nk52_evm91s1737	protein-DNA complex assembly
+317	GO:0065004	Nk52_evm9s2579	protein-DNA complex assembly
+318	GO:0140013	Nk52_evm10s309	meiotic nuclear division
+319	GO:0140013	Nk52_evm11s2391	meiotic nuclear division
+320	GO:0140013	Nk52_evm16s1073	meiotic nuclear division
+321	GO:0140013	Nk52_evm18s1444	meiotic nuclear division
+322	GO:0140013	Nk52_evm1s589	meiotic nuclear division
+323	GO:0140013	Nk52_evm21s270	meiotic nuclear division
+324	GO:0140013	Nk52_evm30s370	meiotic nuclear division
+325	GO:0140013	Nk52_evm36s2657	meiotic nuclear division
+326	GO:0140013	Nk52_evm42s296	meiotic nuclear division
+327	GO:0140013	Nk52_evm4s2514	meiotic nuclear division
+328	GO:0140013	Nk52_evm54s270	meiotic nuclear division
+329	GO:0140013	Nk52_evm55s224	meiotic nuclear division
+330	GO:0140013	Nk52_evm58s2192	meiotic nuclear division
+331	GO:0140013	Nk52_evm59s2118	meiotic nuclear division
+332	GO:0140013	Nk52_evm6s210	meiotic nuclear division
+333	GO:0140013	Nk52_evm9s2579	meiotic nuclear division
+334	GO:0070979	Nk52_evm101s352	protein K11-linked ubiquitination
+335	GO:0070979	Nk52_evm15s243	protein K11-linked ubiquitination
+336	GO:0070979	Nk52_evm29s1992	protein K11-linked ubiquitination
+337	GO:0070979	Nk52_evm2s156	protein K11-linked ubiquitination
+338	GO:0070979	Nk52_evm6s163	protein K11-linked ubiquitination
+339	GO:0070979	Nk52_evm91s1737	protein K11-linked ubiquitination
+340	GO:0006335	Nk52_evm19s2622	DNA replication-dependent chromatin assembly
+341	GO:0006335	Nk52_evm1s1647	DNA replication-dependent chromatin assembly
+342	GO:0006335	Nk52_evm1s322	DNA replication-dependent chromatin assembly
+343	GO:0006335	Nk52_evm22s559	DNA replication-dependent chromatin assembly
+344	GO:0006335	Nk52_evm80s270	DNA replication-dependent chromatin assembly
+345	GO:0070192	Nk52_evm10s309	chromosome organization involved in meiotic cell cycle
+346	GO:0070192	Nk52_evm12s2133	chromosome organization involved in meiotic cell cycle
+347	GO:0070192	Nk52_evm1s589	chromosome organization involved in meiotic cell cycle
+348	GO:0070192	Nk52_evm42s296	chromosome organization involved in meiotic cell cycle
+349	GO:0070192	Nk52_evm4s2514	chromosome organization involved in meiotic cell cycle
+350	GO:0070192	Nk52_evm55s224	chromosome organization involved in meiotic cell cycle
+351	GO:0070192	Nk52_evm59s2118	chromosome organization involved in meiotic cell cycle
+352	GO:0070192	Nk52_evm9s2579	chromosome organization involved in meiotic cell cycle
+353	GO:0050871	Nk52_evm12s2171	positive regulation of B cell activation
+354	GO:0050871	Nk52_evm22s913	positive regulation of B cell activation
+355	GO:0050871	Nk52_evm23s490	positive regulation of B cell activation
+356	GO:0050871	Nk52_evm26s272	positive regulation of B cell activation
+357	GO:0050871	Nk52_evm33s2496	positive regulation of B cell activation
+358	GO:0050871	Nk52_evm5s257	positive regulation of B cell activation
+359	GO:0034728	Nk52_evm19s2622	nucleosome organization
+360	GO:0034728	Nk52_evm1s1647	nucleosome organization
+361	GO:0034728	Nk52_evm1s322	nucleosome organization
+362	GO:0034728	Nk52_evm22s559	nucleosome organization
+363	GO:0034728	Nk52_evm23s249	nucleosome organization
+364	GO:0034728	Nk52_evm26s279	nucleosome organization
+365	GO:0034728	Nk52_evm28s2192	nucleosome organization
+366	GO:0034728	Nk52_evm61s207	nucleosome organization
+367	GO:0034728	Nk52_evm80s270	nucleosome organization
+368	GO:0000076	Nk52_evm14s327	DNA replication checkpoint signaling
+369	GO:0000076	Nk52_evm23s224	DNA replication checkpoint signaling
+370	GO:0000076	Nk52_evm25s311	DNA replication checkpoint signaling
+371	GO:0000076	Nk52_evm35s745	DNA replication checkpoint signaling
+372	GO:0000076	Nk52_evm70s914	DNA replication checkpoint signaling
+373	GO:0006974	Nk52_evm10s343	DNA damage response
+374	GO:0006974	Nk52_evm126s226	DNA damage response
+375	GO:0006974	Nk52_evm12s2133	DNA damage response
+376	GO:0006974	Nk52_evm12s2171	DNA damage response
+377	GO:0006974	Nk52_evm13s352	DNA damage response
+378	GO:0006974	Nk52_evm14s327	DNA damage response
+379	GO:0006974	Nk52_evm15s303	DNA damage response
+380	GO:0006974	Nk52_evm16s136	DNA damage response
+381	GO:0006974	Nk52_evm16s163	DNA damage response
+382	GO:0006974	Nk52_evm17s224	DNA damage response
+383	GO:0006974	Nk52_evm18s1444	DNA damage response
+384	GO:0006974	Nk52_evm18s238	DNA damage response
+385	GO:0006974	Nk52_evm1s1950	DNA damage response
+386	GO:0006974	Nk52_evm1s2041	DNA damage response
+387	GO:0006974	Nk52_evm1s2626	DNA damage response
+388	GO:0006974	Nk52_evm1s510	DNA damage response
+389	GO:0006974	Nk52_evm1s589	DNA damage response
+390	GO:0006974	Nk52_evm20s2612	DNA damage response
+391	GO:0006974	Nk52_evm21s284	DNA damage response
+392	GO:0006974	Nk52_evm22s270	DNA damage response
+393	GO:0006974	Nk52_evm22s559	DNA damage response
+394	GO:0006974	Nk52_evm22s913	DNA damage response
+395	GO:0006974	Nk52_evm23s224	DNA damage response
+396	GO:0006974	Nk52_evm23s249	DNA damage response
+397	GO:0006974	Nk52_evm23s252	DNA damage response
+398	GO:0006974	Nk52_evm23s490	DNA damage response
+399	GO:0006974	Nk52_evm24s252	DNA damage response
+400	GO:0006974	Nk52_evm25s311	DNA damage response
+401	GO:0006974	Nk52_evm26s272	DNA damage response
+402	GO:0006974	Nk52_evm26s279	DNA damage response
+403	GO:0006974	Nk52_evm27s224	DNA damage response
+404	GO:0006974	Nk52_evm28s1992	DNA damage response
+405	GO:0006974	Nk52_evm29s1569	DNA damage response
+406	GO:0006974	Nk52_evm30s317	DNA damage response
+407	GO:0006974	Nk52_evm30s370	DNA damage response
+408	GO:0006974	Nk52_evm31s293	DNA damage response
+409	GO:0006974	Nk52_evm33s24	DNA damage response
+410	GO:0006974	Nk52_evm33s295	DNA damage response
+411	GO:0006974	Nk52_evm34s2474	DNA damage response
+412	GO:0006974	Nk52_evm35s967	DNA damage response
+413	GO:0006974	Nk52_evm39s222	DNA damage response
+414	GO:0006974	Nk52_evm45s236	DNA damage response
+415	GO:0006974	Nk52_evm45s32	DNA damage response
+416	GO:0006974	Nk52_evm51s224	DNA damage response
+417	GO:0006974	Nk52_evm51s745	DNA damage response
+418	GO:0006974	Nk52_evm52s1810	DNA damage response
+419	GO:0006974	Nk52_evm54s270	DNA damage response
+420	GO:0006974	Nk52_evm56s212	DNA damage response
+421	GO:0006974	Nk52_evm58s2192	DNA damage response
+422	GO:0006974	Nk52_evm59s2118	DNA damage response
+423	GO:0006974	Nk52_evm59s32	DNA damage response
+424	GO:0006974	Nk52_evm5s158	DNA damage response
+425	GO:0006974	Nk52_evm61s207	DNA damage response
+426	GO:0006974	Nk52_evm69s221	DNA damage response
+427	GO:0006974	Nk52_evm77s2367	DNA damage response
+428	GO:0006974	Nk52_evm78s62	DNA damage response
+429	GO:0006974	Nk52_evm79s210	DNA damage response
+430	GO:0006974	Nk52_evm79s221	DNA damage response
+431	GO:0006974	Nk52_evm80s270	DNA damage response
+432	GO:0006974	Nk52_evm8s1524	DNA damage response
+433	GO:0006974	Nk52_evm8s155	DNA damage response
+434	GO:0006974	Nk52_evm8s310	DNA damage response
+435	GO:0006974	Nk52_evm95s208	DNA damage response
+436	GO:0000915	Nk52_evm21s156	actomyosin contractile ring assembly
+437	GO:0000915	Nk52_evm21s675	actomyosin contractile ring assembly
+438	GO:0000915	Nk52_evm38s255	actomyosin contractile ring assembly
+439	GO:0000915	Nk52_evm76s1810	actomyosin contractile ring assembly
+440	GO:0007059	Nk52_evm101s352	chromosome segregation
+441	GO:0007059	Nk52_evm10s309	chromosome segregation
+442	GO:0007059	Nk52_evm14s295	chromosome segregation
+443	GO:0007059	Nk52_evm15s243	chromosome segregation
+444	GO:0007059	Nk52_evm15s295	chromosome segregation
+445	GO:0007059	Nk52_evm16s1073	chromosome segregation
+446	GO:0007059	Nk52_evm16s2241	chromosome segregation
+447	GO:0007059	Nk52_evm17s272	chromosome segregation
+448	GO:0007059	Nk52_evm19s228	chromosome segregation
+449	GO:0007059	Nk52_evm1s1745	chromosome segregation
+450	GO:0007059	Nk52_evm1s1962	chromosome segregation
+451	GO:0007059	Nk52_evm1s333	chromosome segregation
+452	GO:0007059	Nk52_evm1s589	chromosome segregation
+453	GO:0007059	Nk52_evm21s675	chromosome segregation
+454	GO:0007059	Nk52_evm22s2133	chromosome segregation
+455	GO:0007059	Nk52_evm23s249	chromosome segregation
+456	GO:0007059	Nk52_evm26s223	chromosome segregation
+457	GO:0007059	Nk52_evm29s1992	chromosome segregation
+458	GO:0007059	Nk52_evm2s156	chromosome segregation
+459	GO:0007059	Nk52_evm31s2568	chromosome segregation
+460	GO:0007059	Nk52_evm32s1967	chromosome segregation
+461	GO:0007059	Nk52_evm32s223	chromosome segregation
+462	GO:0007059	Nk52_evm34s2474	chromosome segregation
+463	GO:0007059	Nk52_evm36s2657	chromosome segregation
+464	GO:0007059	Nk52_evm42s296	chromosome segregation
+465	GO:0007059	Nk52_evm45s252	chromosome segregation
+466	GO:0007059	Nk52_evm45s279	chromosome segregation
+467	GO:0007059	Nk52_evm4s2514	chromosome segregation
+468	GO:0007059	Nk52_evm4s539	chromosome segregation
+469	GO:0007059	Nk52_evm55s224	chromosome segregation
+470	GO:0007059	Nk52_evm58s2192	chromosome segregation
+471	GO:0007059	Nk52_evm59s2118	chromosome segregation
+472	GO:0007059	Nk52_evm5s39	chromosome segregation
+473	GO:0007059	Nk52_evm61s207	chromosome segregation
+474	GO:0007059	Nk52_evm64s152	chromosome segregation
+475	GO:0007059	Nk52_evm6s16	chromosome segregation
+476	GO:0007059	Nk52_evm6s39	chromosome segregation
+477	GO:0007059	Nk52_evm70s914	chromosome segregation
+478	GO:0007059	Nk52_evm72s352	chromosome segregation
+479	GO:0007059	Nk52_evm78s62	chromosome segregation
+480	GO:0007059	Nk52_evm84s1444	chromosome segregation
+481	GO:0007059	Nk52_evm8s1671	chromosome segregation
+482	GO:0007059	Nk52_evm91s1737	chromosome segregation
+483	GO:0007059	Nk52_evm95s208	chromosome segregation
+484	GO:0007059	Nk52_evm9s1401	chromosome segregation
+485	GO:0007059	Nk52_evm9s2579	chromosome segregation
+486	GO:0006260	Nk52_evm11s307	DNA replication
+487	GO:0006260	Nk52_evm12s2171	DNA replication
+488	GO:0006260	Nk52_evm14s327	DNA replication
+489	GO:0006260	Nk52_evm15s223	DNA replication
+490	GO:0006260	Nk52_evm15s303	DNA replication
+491	GO:0006260	Nk52_evm16s136	DNA replication
+492	GO:0006260	Nk52_evm16s163	DNA replication
+493	GO:0006260	Nk52_evm17s224	DNA replication
+494	GO:0006260	Nk52_evm1s1647	DNA replication
+495	GO:0006260	Nk52_evm1s1950	DNA replication
+496	GO:0006260	Nk52_evm1s2626	DNA replication
+497	GO:0006260	Nk52_evm1s298	DNA replication
+498	GO:0006260	Nk52_evm1s510	DNA replication
+499	GO:0006260	Nk52_evm1s589	DNA replication
+500	GO:0006260	Nk52_evm22s559	DNA replication
+501	GO:0006260	Nk52_evm23s224	DNA replication
+502	GO:0006260	Nk52_evm25s311	DNA replication
+503	GO:0006260	Nk52_evm26s279	DNA replication
+504	GO:0006260	Nk52_evm28s1992	DNA replication
+505	GO:0006260	Nk52_evm28s221	DNA replication
+506	GO:0006260	Nk52_evm2s1360	DNA replication
+507	GO:0006260	Nk52_evm2s343	DNA replication
+508	GO:0006260	Nk52_evm31s233	DNA replication
+509	GO:0006260	Nk52_evm33s96	DNA replication
+510	GO:0006260	Nk52_evm34s2506	DNA replication
+511	GO:0006260	Nk52_evm35s745	DNA replication
+512	GO:0006260	Nk52_evm39s222	DNA replication
+513	GO:0006260	Nk52_evm46s2118	DNA replication
+514	GO:0006260	Nk52_evm4s323	DNA replication
+515	GO:0006260	Nk52_evm51s224	DNA replication
+516	GO:0006260	Nk52_evm52s1810	DNA replication
+517	GO:0006260	Nk52_evm59s32	DNA replication
+518	GO:0006260	Nk52_evm6s2542	DNA replication
+519	GO:0006260	Nk52_evm70s914	DNA replication
+520	GO:0006260	Nk52_evm72s352	DNA replication
+521	GO:0006260	Nk52_evm75s914	DNA replication
+522	GO:0006260	Nk52_evm77s2367	DNA replication
+523	GO:0006260	Nk52_evm84s164	DNA replication
+524	GO:0006260	Nk52_evm8s310	DNA replication
+525	GO:0006260	Nk52_evm8s684	DNA replication
+526	GO:0006260	Nk52_evm9s2579	DNA replication
+527	GO:1902975	Nk52_evm15s303	mitotic DNA replication initiation
+528	GO:1902975	Nk52_evm28s1992	mitotic DNA replication initiation
+529	GO:1902975	Nk52_evm75s914	mitotic DNA replication initiation
+530	GO:0006357	Nk52_evm10s239	regulation of transcription by RNA polymerase II
+531	GO:0006357	Nk52_evm126s226	regulation of transcription by RNA polymerase II
+532	GO:0006357	Nk52_evm13s316	regulation of transcription by RNA polymerase II
+533	GO:0006357	Nk52_evm13s32	regulation of transcription by RNA polymerase II
+534	GO:0006357	Nk52_evm14s327	regulation of transcription by RNA polymerase II
+535	GO:0006357	Nk52_evm15s490	regulation of transcription by RNA polymerase II
+536	GO:0006357	Nk52_evm17s2133	regulation of transcription by RNA polymerase II
+537	GO:0006357	Nk52_evm17s352	regulation of transcription by RNA polymerase II
+538	GO:0006357	Nk52_evm19s2622	regulation of transcription by RNA polymerase II
+539	GO:0006357	Nk52_evm20s272	regulation of transcription by RNA polymerase II
+540	GO:0006357	Nk52_evm23s249	regulation of transcription by RNA polymerase II
+541	GO:0006357	Nk52_evm26s279	regulation of transcription by RNA polymerase II
+542	GO:0006357	Nk52_evm28s2192	regulation of transcription by RNA polymerase II
+543	GO:0006357	Nk52_evm2s136	regulation of transcription by RNA polymerase II
+544	GO:0006357	Nk52_evm30s317	regulation of transcription by RNA polymerase II
+545	GO:0006357	Nk52_evm31s293	regulation of transcription by RNA polymerase II
+546	GO:0006357	Nk52_evm32s1967	regulation of transcription by RNA polymerase II
+547	GO:0006357	Nk52_evm35s1810	regulation of transcription by RNA polymerase II
+548	GO:0006357	Nk52_evm35s967	regulation of transcription by RNA polymerase II
+549	GO:0006357	Nk52_evm36s2367	regulation of transcription by RNA polymerase II
+550	GO:0006357	Nk52_evm39s240	regulation of transcription by RNA polymerase II
+551	GO:0006357	Nk52_evm3s2208	regulation of transcription by RNA polymerase II
+552	GO:0006357	Nk52_evm3s239	regulation of transcription by RNA polymerase II
+553	GO:0006357	Nk52_evm48s236	regulation of transcription by RNA polymerase II
+554	GO:0006357	Nk52_evm58s2192	regulation of transcription by RNA polymerase II
+555	GO:0006357	Nk52_evm58s236	regulation of transcription by RNA polymerase II
+556	GO:0006357	Nk52_evm5s158	regulation of transcription by RNA polymerase II
+557	GO:0006357	Nk52_evm61s207	regulation of transcription by RNA polymerase II
+558	GO:0006357	Nk52_evm63s208	regulation of transcription by RNA polymerase II
+559	GO:0006357	Nk52_evm66s32	regulation of transcription by RNA polymerase II
+560	GO:0006357	Nk52_evm6s284	regulation of transcription by RNA polymerase II
+561	GO:0006357	Nk52_evm6s343	regulation of transcription by RNA polymerase II
+562	GO:0006357	Nk52_evm79s210	regulation of transcription by RNA polymerase II
+563	GO:0006357	Nk52_evm7s462	regulation of transcription by RNA polymerase II
+564	GO:0006357	Nk52_evm81s207	regulation of transcription by RNA polymerase II
+565	GO:0006357	Nk52_evm8s1524	regulation of transcription by RNA polymerase II
+566	GO:0006357	Nk52_evm91s1737	regulation of transcription by RNA polymerase II
+567	GO:0006357	Nk52_evm94s914	regulation of transcription by RNA polymerase II
+568	GO:0006357	Nk52_evm9s296	regulation of transcription by RNA polymerase II
+569	GO:0085020	Nk52_evm126s226	protein K6-linked ubiquitination
+570	GO:0085020	Nk52_evm16s163	protein K6-linked ubiquitination
+571	GO:0085020	Nk52_evm91s1737	protein K6-linked ubiquitination
+572	GO:0010212	Nk52_evm16s163	response to ionizing radiation
+573	GO:0010212	Nk52_evm18s1444	response to ionizing radiation
+574	GO:0010212	Nk52_evm21s675	response to ionizing radiation
+575	GO:0010212	Nk52_evm35s967	response to ionizing radiation
+576	GO:0010212	Nk52_evm45s32	response to ionizing radiation
+577	GO:0010212	Nk52_evm51s224	response to ionizing radiation
+578	GO:0010212	Nk52_evm52s1810	response to ionizing radiation
+579	GO:0010212	Nk52_evm59s2118	response to ionizing radiation
+580	GO:0010212	Nk52_evm79s2367	response to ionizing radiation
+581	GO:0045619	Nk52_evm12s359	regulation of lymphocyte differentiation
+582	GO:0045619	Nk52_evm23s249	regulation of lymphocyte differentiation
+583	GO:0045619	Nk52_evm26s272	regulation of lymphocyte differentiation
+584	GO:0045619	Nk52_evm33s2496	regulation of lymphocyte differentiation
+585	GO:0045619	Nk52_evm59s2118	regulation of lymphocyte differentiation
+586	GO:0045619	Nk52_evm5s257	regulation of lymphocyte differentiation
+587	GO:0045619	Nk52_evm5s7	regulation of lymphocyte differentiation
+588	GO:0045619	Nk52_evm61s207	regulation of lymphocyte differentiation
+589	GO:0045911	Nk52_evm12s2171	positive regulation of DNA recombination
+590	GO:0045911	Nk52_evm14s327	positive regulation of DNA recombination
+591	GO:0045911	Nk52_evm22s913	positive regulation of DNA recombination
+592	GO:0045911	Nk52_evm23s490	positive regulation of DNA recombination
+593	GO:0045911	Nk52_evm5s158	positive regulation of DNA recombination
+594	GO:0045911	Nk52_evm61s207	positive regulation of DNA recombination
+595	GO:0007051	Nk52_evm16s1073	spindle organization
+596	GO:0007051	Nk52_evm17s272	spindle organization
+597	GO:0007051	Nk52_evm1s1745	spindle organization
+598	GO:0007051	Nk52_evm1s2514	spindle organization
+599	GO:0007051	Nk52_evm22s2133	spindle organization
+600	GO:0007051	Nk52_evm26s223	spindle organization
+601	GO:0007051	Nk52_evm30s2309	spindle organization
+602	GO:0007051	Nk52_evm31s2568	spindle organization
+603	GO:0007051	Nk52_evm45s252	spindle organization
+604	GO:0007051	Nk52_evm45s279	spindle organization
+605	GO:0007051	Nk52_evm4s539	spindle organization
+606	GO:0007051	Nk52_evm78s62	spindle organization
+607	GO:0007051	Nk52_evm91s1737	spindle organization
+608	GO:0051383	Nk52_evm16s1073	kinetochore organization
+609	GO:0051383	Nk52_evm1s1962	kinetochore organization
+610	GO:0051383	Nk52_evm32s1967	kinetochore organization
+611	GO:0051383	Nk52_evm91s1737	kinetochore organization
+612	GO:0070316	Nk52_evm23s249	regulation of G0 to G1 transition
+613	GO:0070316	Nk52_evm35s745	regulation of G0 to G1 transition
+614	GO:0070316	Nk52_evm52s1810	regulation of G0 to G1 transition
+615	GO:0070316	Nk52_evm61s207	regulation of G0 to G1 transition
+616	GO:0002639	Nk52_evm12s2171	positive regulation of immunoglobulin production
+617	GO:0002639	Nk52_evm22s913	positive regulation of immunoglobulin production
+618	GO:0002639	Nk52_evm23s490	positive regulation of immunoglobulin production
+619	GO:0002639	Nk52_evm5s257	positive regulation of immunoglobulin production
+620	GO:0048145	Nk52_evm23s249	regulation of fibroblast proliferation
+621	GO:0048145	Nk52_evm26s272	regulation of fibroblast proliferation
+622	GO:0048145	Nk52_evm35s967	regulation of fibroblast proliferation
+623	GO:0048145	Nk52_evm70s914	regulation of fibroblast proliferation
+624	GO:0048145	Nk52_evm7s462	regulation of fibroblast proliferation
+625	GO:0034184	Nk52_evm8s155	positive regulation of maintenance of mitotic sister chromatid cohesion
+626	GO:0034184	Nk52_evm95s208	positive regulation of maintenance of mitotic sister chromatid cohesion
+627	GO:0006279	Nk52_evm28s1992	premeiotic DNA replication
+628	GO:0006279	Nk52_evm77s2367	premeiotic DNA replication
+629	GO:0043111	Nk52_evm14s327	replication fork arrest
+630	GO:0043111	Nk52_evm25s311	replication fork arrest
+631	GO:0070058	Nk52_evm14s295	tRNA gene clustering
+632	GO:0070058	Nk52_evm64s152	tRNA gene clustering
+633	GO:0080175	Nk52_evm20s212	phragmoplast microtubule organization
+634	GO:0080175	Nk52_evm21s270	phragmoplast microtubule organization
+635	GO:0098535	Nk52_evm2s1810	de novo centriole assembly involved in multi-ciliated epithelial cell differentiation
+636	GO:0098535	Nk52_evm78s62	de novo centriole assembly involved in multi-ciliated epithelial cell differentiation
+637	GO:1900086	Nk52_evm38s255	positive regulation of peptidyl-tyrosine autophosphorylation
+638	GO:1900086	Nk52_evm76s1810	positive regulation of peptidyl-tyrosine autophosphorylation
+639	GO:0072234	Nk52_evm1s1110	metanephric nephron tubule development
+640	GO:0072234	Nk52_evm23s2367	metanephric nephron tubule development
+641	GO:0072234	Nk52_evm53s2531	metanephric nephron tubule development
+642	GO:0008608	Nk52_evm16s1073	attachment of spindle microtubules to kinetochore
+643	GO:0008608	Nk52_evm1s1962	attachment of spindle microtubules to kinetochore
+644	GO:0008608	Nk52_evm21s675	attachment of spindle microtubules to kinetochore
+645	GO:0008608	Nk52_evm45s279	attachment of spindle microtubules to kinetochore
+646	GO:0009629	Nk52_evm18s294	response to gravity
+647	GO:0009629	Nk52_evm1s2041	response to gravity
+648	GO:0009629	Nk52_evm50s2152	response to gravity
+649	GO:0009629	Nk52_evm61s2039	response to gravity
+650	GO:0000722	Nk52_evm12s2133	telomere maintenance via recombination
+651	GO:0000722	Nk52_evm30s370	telomere maintenance via recombination
+652	GO:0000722	Nk52_evm8s155	telomere maintenance via recombination
+653	GO:0000722	Nk52_evm95s208	telomere maintenance via recombination
+654	GO:0001824	Nk52_evm10s309	blastocyst development
+655	GO:0001824	Nk52_evm1s1647	blastocyst development
+656	GO:0001824	Nk52_evm1s322	blastocyst development
+657	GO:0001824	Nk52_evm42s296	blastocyst development
+658	GO:0001824	Nk52_evm6s2542	blastocyst development
+659	GO:0001824	Nk52_evm96s1073	blastocyst development
+660	GO:0001755	Nk52_evm120s352	neural crest cell migration
+661	GO:0001755	Nk52_evm13s316	neural crest cell migration
+662	GO:0001755	Nk52_evm50s352	neural crest cell migration
+663	GO:0055075	Nk52_evm1s1743	potassium ion homeostasis
+664	GO:0055075	Nk52_evm3s234	potassium ion homeostasis
+665	GO:0055075	Nk52_evm7s152	potassium ion homeostasis
+666	GO:0007020	Nk52_evm1s1745	microtubule nucleation
+667	GO:0007020	Nk52_evm26s223	microtubule nucleation
+668	GO:0007020	Nk52_evm31s2568	microtubule nucleation
+669	GO:0007020	Nk52_evm45s252	microtubule nucleation
+670	GO:0007020	Nk52_evm55s266	microtubule nucleation
+671	GO:0098742	Nk52_evm22s2325	cell-cell adhesion via plasma-membrane adhesion molecules
+672	GO:0098742	Nk52_evm25s1916	cell-cell adhesion via plasma-membrane adhesion molecules
+673	GO:0098742	Nk52_evm35s1810	cell-cell adhesion via plasma-membrane adhesion molecules
+674	GO:0098742	Nk52_evm91s226	cell-cell adhesion via plasma-membrane adhesion molecules
+675	GO:0000002	Nk52_evm17s224	mitochondrial genome maintenance
+676	GO:0000002	Nk52_evm1s2626	mitochondrial genome maintenance
+677	GO:0000002	Nk52_evm1s510	mitochondrial genome maintenance
+678	GO:0000002	Nk52_evm30s370	mitochondrial genome maintenance
+679	GO:0000002	Nk52_evm33s96	mitochondrial genome maintenance
+680	GO:0000002	Nk52_evm52s1810	mitochondrial genome maintenance
+681	GO:0032986	Nk52_evm27s224	protein-DNA complex disassembly
+682	GO:0032986	Nk52_evm35s967	protein-DNA complex disassembly
+683	GO:0032986	Nk52_evm61s207	protein-DNA complex disassembly
+684	GO:0034109	Nk52_evm23s1916	homotypic cell-cell adhesion
+685	GO:0034109	Nk52_evm24s1916	homotypic cell-cell adhesion
+686	GO:0034109	Nk52_evm40s352	homotypic cell-cell adhesion
+687	GO:0035019	Nk52_evm12s359	somatic stem cell population maintenance
+688	GO:0035019	Nk52_evm13s352	somatic stem cell population maintenance
+689	GO:0035019	Nk52_evm35s967	somatic stem cell population maintenance
+690	GO:0071364	Nk52_evm12s359	cellular response to epidermal growth factor stimulus
+691	GO:0071364	Nk52_evm38s255	cellular response to epidermal growth factor stimulus
+692	GO:0071364	Nk52_evm76s1810	cellular response to epidermal growth factor stimulus
+693	GO:0051865	Nk52_evm126s226	protein autoubiquitination
+694	GO:0051865	Nk52_evm13s32	protein autoubiquitination
+695	GO:0051865	Nk52_evm5s7	protein autoubiquitination
+696	GO:0051865	Nk52_evm91s1737	protein autoubiquitination
+697	GO:0046580	Nk52_evm11s2133	negative regulation of Ras protein signal transduction
+698	GO:0046580	Nk52_evm36s230	negative regulation of Ras protein signal transduction
+699	GO:0046580	Nk52_evm3s1607	negative regulation of Ras protein signal transduction
+700	GO:0046580	Nk52_evm47s153	negative regulation of Ras protein signal transduction
+701	GO:1990776	Nk52_evm1s1956	response to angiotensin
+702	GO:1990776	Nk52_evm38s255	response to angiotensin
+703	GO:1990776	Nk52_evm76s1810	response to angiotensin
+704	GO:1900006	Nk52_evm38s255	positive regulation of dendrite development
+705	GO:1900006	Nk52_evm76s1810	positive regulation of dendrite development
+706	GO:0036120	Nk52_evm38s255	cellular response to platelet-derived growth factor stimulus
+707	GO:0036120	Nk52_evm76s1810	cellular response to platelet-derived growth factor stimulus
+708	GO:0034116	Nk52_evm23s1916	positive regulation of heterotypic cell-cell adhesion
+709	GO:0034116	Nk52_evm24s1916	positive regulation of heterotypic cell-cell adhesion
+710	GO:0042244	Nk52_evm34s232	spore wall assembly
+711	GO:0042244	Nk52_evm50s226	spore wall assembly
+712	GO:0099559	Nk52_evm23s1916	maintenance of alignment of postsynaptic density and presynaptic active zone
+713	GO:0099559	Nk52_evm24s1916	maintenance of alignment of postsynaptic density and presynaptic active zone
+714	GO:0072015	Nk52_evm38s255	podocyte development
+715	GO:0072015	Nk52_evm76s1810	podocyte development
+716	GO:0048790	Nk52_evm23s1916	maintenance of presynaptic active zone structure
+717	GO:0048790	Nk52_evm24s1916	maintenance of presynaptic active zone structure
+718	GO:0051894	Nk52_evm38s255	positive regulation of focal adhesion assembly
+719	GO:0051894	Nk52_evm76s1810	positive regulation of focal adhesion assembly
+720	GO:0036089	Nk52_evm14s267	cleavage furrow formation
+721	GO:0036089	Nk52_evm83s914	cleavage furrow formation
+722	GO:0043651	Nk52_evm10s216	linoleic acid metabolic process
+723	GO:0043651	Nk52_evm45s2209	linoleic acid metabolic process
+724	GO:0016200	Nk52_evm23s1916	synaptic target attraction
+725	GO:0016200	Nk52_evm24s1916	synaptic target attraction
+726	GO:0048013	Nk52_evm32s2496	ephrin receptor signaling pathway
+727	GO:0048013	Nk52_evm8s250	ephrin receptor signaling pathway
+728	GO:0051592	Nk52_evm11s2133	response to calcium ion
+729	GO:0051592	Nk52_evm1s2255	response to calcium ion
+730	GO:0051592	Nk52_evm21s675	response to calcium ion
+731	GO:0051592	Nk52_evm38s255	response to calcium ion
+732	GO:0051592	Nk52_evm3s1607	response to calcium ion
+733	GO:0051592	Nk52_evm76s1810	response to calcium ion
+734	GO:0000082	Nk52_evm1s1647	G1/S transition of mitotic cell cycle
+735	GO:0000082	Nk52_evm23s249	G1/S transition of mitotic cell cycle
+736	GO:0000082	Nk52_evm35s967	G1/S transition of mitotic cell cycle
+737	GO:0000082	Nk52_evm51s224	G1/S transition of mitotic cell cycle
+738	GO:0000082	Nk52_evm52s1810	G1/S transition of mitotic cell cycle
+739	GO:0000082	Nk52_evm5s369	G1/S transition of mitotic cell cycle
+740	GO:0000082	Nk52_evm61s207	G1/S transition of mitotic cell cycle
+741	GO:0000082	Nk52_evm6s2542	G1/S transition of mitotic cell cycle
+742	GO:0021955	Nk52_evm4s179	central nervous system neuron axonogenesis
+743	GO:0021955	Nk52_evm4s343	central nervous system neuron axonogenesis
+744	GO:0021955	Nk52_evm7s159	central nervous system neuron axonogenesis
+745	GO:0014911	Nk52_evm15s490	positive regulation of smooth muscle cell migration
+746	GO:0014911	Nk52_evm38s255	positive regulation of smooth muscle cell migration
+747	GO:0014911	Nk52_evm76s1810	positive regulation of smooth muscle cell migration
+748	GO:0000075	Nk52_evm14s327	cell cycle checkpoint signaling
+749	GO:0000075	Nk52_evm16s1073	cell cycle checkpoint signaling
+750	GO:0000075	Nk52_evm16s163	cell cycle checkpoint signaling
+751	GO:0000075	Nk52_evm19s228	cell cycle checkpoint signaling
+752	GO:0000075	Nk52_evm1s2041	cell cycle checkpoint signaling
+753	GO:0000075	Nk52_evm23s224	cell cycle checkpoint signaling
+754	GO:0000075	Nk52_evm25s311	cell cycle checkpoint signaling
+755	GO:0000075	Nk52_evm30s317	cell cycle checkpoint signaling
+756	GO:0000075	Nk52_evm33s295	cell cycle checkpoint signaling
+757	GO:0000075	Nk52_evm35s745	cell cycle checkpoint signaling
+758	GO:0000075	Nk52_evm42s296	cell cycle checkpoint signaling
+759	GO:0000075	Nk52_evm51s224	cell cycle checkpoint signaling
+760	GO:0000075	Nk52_evm59s2118	cell cycle checkpoint signaling
+761	GO:0000075	Nk52_evm70s914	cell cycle checkpoint signaling
+762	GO:0000075	Nk52_evm78s62	cell cycle checkpoint signaling
+763	GO:0000075	Nk52_evm79s210	cell cycle checkpoint signaling
+764	GO:0000075	Nk52_evm9s1401	cell cycle checkpoint signaling
+765	GO:0045814	Nk52_evm10s152	negative regulation of gene expression, epigenetic
+766	GO:0045814	Nk52_evm13s32	negative regulation of gene expression, epigenetic
+767	GO:0045814	Nk52_evm19s2622	negative regulation of gene expression, epigenetic
+768	GO:0045814	Nk52_evm1s408	negative regulation of gene expression, epigenetic
+769	GO:0045814	Nk52_evm26s279	negative regulation of gene expression, epigenetic
+770	GO:0045814	Nk52_evm30s317	negative regulation of gene expression, epigenetic
+771	GO:0045814	Nk52_evm79s210	negative regulation of gene expression, epigenetic
+772	GO:0045814	Nk52_evm80s270	negative regulation of gene expression, epigenetic
+773	GO:0034502	Nk52_evm1s194	protein localization to chromosome
+774	GO:0034502	Nk52_evm1s1962	protein localization to chromosome
+775	GO:0034502	Nk52_evm23s224	protein localization to chromosome
+776	GO:0034502	Nk52_evm39s222	protein localization to chromosome
+777	GO:0034502	Nk52_evm40s252	protein localization to chromosome
+778	GO:0034502	Nk52_evm91s1737	protein localization to chromosome
+779	GO:0034502	Nk52_evm9s1401	protein localization to chromosome
+780	GO:0034502	Nk52_evm9s2579	protein localization to chromosome
+781	GO:0051274	Nk52_evm2s462	beta-glucan biosynthetic process
+782	GO:0051274	Nk52_evm3s257	beta-glucan biosynthetic process
+783	GO:0051274	Nk52_evm50s226	beta-glucan biosynthetic process
+784	GO:0051274	Nk52_evm63s207	beta-glucan biosynthetic process
+785	GO:0090305	Nk52_evm12s2133	nucleic acid phosphodiester bond hydrolysis
+786	GO:0090305	Nk52_evm12s2171	nucleic acid phosphodiester bond hydrolysis
+787	GO:0090305	Nk52_evm42s296	nucleic acid phosphodiester bond hydrolysis
+788	GO:0032211	Nk52_evm17s224	negative regulation of telomere maintenance via telomerase
+789	GO:0032211	Nk52_evm1s2626	negative regulation of telomere maintenance via telomerase
+790	GO:0032211	Nk52_evm9s2579	negative regulation of telomere maintenance via telomerase
+791	GO:0001941	Nk52_evm1s1380	postsynaptic membrane organization
+792	GO:0001941	Nk52_evm23s1916	postsynaptic membrane organization
+793	GO:0001941	Nk52_evm24s1916	postsynaptic membrane organization
+794	GO:0031529	Nk52_evm28s355	ruffle organization
+795	GO:0031529	Nk52_evm5s270	ruffle organization
+796	GO:0031529	Nk52_evm65s2192	ruffle organization
+797	GO:0090333	Nk52_evm18s294	regulation of stomatal closure
+798	GO:0090333	Nk52_evm50s2152	regulation of stomatal closure
+799	GO:0018996	Nk52_evm15s2391	molting cycle, collagen and cuticulin-based cuticle
+800	GO:0018996	Nk52_evm4s216	molting cycle, collagen and cuticulin-based cuticle
+801	GO:0030952	Nk52_evm1s2514	establishment or maintenance of cytoskeleton polarity
+802	GO:0030952	Nk52_evm94s217	establishment or maintenance of cytoskeleton polarity
+803	GO:0010832	Nk52_evm15s490	negative regulation of myotube differentiation
+804	GO:0010832	Nk52_evm39s240	negative regulation of myotube differentiation
+805	GO:0010540	Nk52_evm18s294	basipetal auxin transport
+806	GO:0010540	Nk52_evm50s2152	basipetal auxin transport
+807	GO:0097090	Nk52_evm23s1916	presynaptic membrane organization
+808	GO:0097090	Nk52_evm24s1916	presynaptic membrane organization
+809	GO:0016479	Nk52_evm1s224	negative regulation of transcription by RNA polymerase I
+810	GO:0016479	Nk52_evm26s279	negative regulation of transcription by RNA polymerase I
+811	GO:1902624	Nk52_evm15s418	positive regulation of neutrophil migration
+812	GO:1902624	Nk52_evm26s272	positive regulation of neutrophil migration
+813	GO:0051974	Nk52_evm1s2626	negative regulation of telomerase activity
+814	GO:0051974	Nk52_evm9s2579	negative regulation of telomerase activity
+815	GO:0009555	Nk52_evm1s589	pollen development
+816	GO:0009555	Nk52_evm21s270	pollen development
+817	GO:0009555	Nk52_evm28s221	pollen development
+818	GO:0009555	Nk52_evm4s539	pollen development
+819	GO:0009555	Nk52_evm80s270	pollen development
+820	GO:0046330	Nk52_evm20s272	positive regulation of JNK cascade
+821	GO:0046330	Nk52_evm40s252	positive regulation of JNK cascade
+822	GO:0046330	Nk52_evm5s7	positive regulation of JNK cascade
+823	GO:0007099	Nk52_evm13s32	centriole replication
+824	GO:0007099	Nk52_evm2s1810	centriole replication
+825	GO:0007099	Nk52_evm31s207	centriole replication
+826	GO:0007099	Nk52_evm78s62	centriole replication
+827	GO:0035303	Nk52_evm33s2496	regulation of dephosphorylation
+828	GO:0035303	Nk52_evm38s255	regulation of dephosphorylation
+829	GO:0035303	Nk52_evm76s1810	regulation of dephosphorylation
+830	GO:0035303	Nk52_evm96s1073	regulation of dephosphorylation
+831	GO:0045661	Nk52_evm23s249	regulation of myoblast differentiation
+832	GO:0045661	Nk52_evm39s240	regulation of myoblast differentiation
+833	GO:0045661	Nk52_evm61s207	regulation of myoblast differentiation
+834	GO:0001942	Nk52_evm15s260	hair follicle development
+835	GO:0001942	Nk52_evm19s223	hair follicle development
+836	GO:0001942	Nk52_evm53s2531	hair follicle development
+837	GO:0097150	Nk52_evm59s2118	neuronal stem cell population maintenance
+838	GO:0097150	Nk52_evm7s159	neuronal stem cell population maintenance
+839	GO:0042262	Nk52_evm12s311	DNA protection
+840	GO:0042262	Nk52_evm27s224	DNA protection
+841	GO:2000737	Nk52_evm12s359	negative regulation of stem cell differentiation
+842	GO:2000737	Nk52_evm63s208	negative regulation of stem cell differentiation
+843	GO:0045655	Nk52_evm26s272	regulation of monocyte differentiation
+844	GO:0045655	Nk52_evm35s967	regulation of monocyte differentiation
+845	GO:0046823	Nk52_evm16s163	negative regulation of nucleocytoplasmic transport
+846	GO:0046823	Nk52_evm32s2340	negative regulation of nucleocytoplasmic transport
+847	GO:0051276	Nk52_evm101s352	chromosome organization
+848	GO:0051276	Nk52_evm10s309	chromosome organization
+849	GO:0051276	Nk52_evm12s2133	chromosome organization
+850	GO:0051276	Nk52_evm14s295	chromosome organization
+851	GO:0051276	Nk52_evm15s243	chromosome organization
+852	GO:0051276	Nk52_evm15s295	chromosome organization
+853	GO:0051276	Nk52_evm16s1073	chromosome organization
+854	GO:0051276	Nk52_evm16s136	chromosome organization
+855	GO:0051276	Nk52_evm16s2241	chromosome organization
+856	GO:0051276	Nk52_evm17s224	chromosome organization
+857	GO:0051276	Nk52_evm17s272	chromosome organization
+858	GO:0051276	Nk52_evm19s228	chromosome organization
+859	GO:0051276	Nk52_evm1s1647	chromosome organization
+860	GO:0051276	Nk52_evm1s1745	chromosome organization
+861	GO:0051276	Nk52_evm1s1962	chromosome organization
+862	GO:0051276	Nk52_evm1s2626	chromosome organization
+863	GO:0051276	Nk52_evm1s298	chromosome organization
+864	GO:0051276	Nk52_evm1s333	chromosome organization
+865	GO:0051276	Nk52_evm1s510	chromosome organization
+866	GO:0051276	Nk52_evm1s589	chromosome organization
+867	GO:0051276	Nk52_evm23s249	chromosome organization
+868	GO:0051276	Nk52_evm23s490	chromosome organization
+869	GO:0051276	Nk52_evm26s279	chromosome organization
+870	GO:0051276	Nk52_evm27s224	chromosome organization
+871	GO:0051276	Nk52_evm28s1992	chromosome organization
+872	GO:0051276	Nk52_evm28s221	chromosome organization
+873	GO:0051276	Nk52_evm29s1992	chromosome organization
+874	GO:0051276	Nk52_evm2s156	chromosome organization
+875	GO:0051276	Nk52_evm30s317	chromosome organization
+876	GO:0051276	Nk52_evm30s370	chromosome organization
+877	GO:0051276	Nk52_evm31s233	chromosome organization
+878	GO:0051276	Nk52_evm32s1967	chromosome organization
+879	GO:0051276	Nk52_evm32s223	chromosome organization
+880	GO:0051276	Nk52_evm33s96	chromosome organization
+881	GO:0051276	Nk52_evm34s2506	chromosome organization
+882	GO:0051276	Nk52_evm35s967	chromosome organization
+883	GO:0051276	Nk52_evm39s222	chromosome organization
+884	GO:0051276	Nk52_evm40s252	chromosome organization
+885	GO:0051276	Nk52_evm42s296	chromosome organization
+886	GO:0051276	Nk52_evm45s236	chromosome organization
+887	GO:0051276	Nk52_evm45s32	chromosome organization
+888	GO:0051276	Nk52_evm46s2118	chromosome organization
+889	GO:0051276	Nk52_evm4s2514	chromosome organization
+890	GO:0051276	Nk52_evm55s224	chromosome organization
+891	GO:0051276	Nk52_evm58s2192	chromosome organization
+892	GO:0051276	Nk52_evm59s2118	chromosome organization
+893	GO:0051276	Nk52_evm5s39	chromosome organization
+894	GO:0051276	Nk52_evm61s207	chromosome organization
+895	GO:0051276	Nk52_evm64s152	chromosome organization
+896	GO:0051276	Nk52_evm6s16	chromosome organization
+897	GO:0051276	Nk52_evm6s39	chromosome organization
+898	GO:0051276	Nk52_evm70s62	chromosome organization
+899	GO:0051276	Nk52_evm70s914	chromosome organization
+900	GO:0051276	Nk52_evm72s352	chromosome organization
+901	GO:0051276	Nk52_evm75s914	chromosome organization
+902	GO:0051276	Nk52_evm77s2367	chromosome organization
+903	GO:0051276	Nk52_evm79s210	chromosome organization
+904	GO:0051276	Nk52_evm7s230	chromosome organization
+905	GO:0051276	Nk52_evm8s155	chromosome organization
+906	GO:0051276	Nk52_evm8s1671	chromosome organization
+907	GO:0051276	Nk52_evm8s310	chromosome organization
+908	GO:0051276	Nk52_evm91s1737	chromosome organization
+909	GO:0051276	Nk52_evm95s208	chromosome organization
+910	GO:0051276	Nk52_evm9s1401	chromosome organization
+911	GO:0051276	Nk52_evm9s2579	chromosome organization
+912	GO:0008589	Nk52_evm15s260	regulation of smoothened signaling pathway
+913	GO:0008589	Nk52_evm28s2391	regulation of smoothened signaling pathway
+914	GO:0008589	Nk52_evm29s1444	regulation of smoothened signaling pathway
+915	GO:0008589	Nk52_evm4s179	regulation of smoothened signaling pathway
+916	GO:0008589	Nk52_evm91s226	regulation of smoothened signaling pathway
+917	GO:0071852	Nk52_evm15s2325	fungal-type cell wall organization or biogenesis
+918	GO:0071852	Nk52_evm26s805	fungal-type cell wall organization or biogenesis
+919	GO:0071852	Nk52_evm34s232	fungal-type cell wall organization or biogenesis
+920	GO:0071852	Nk52_evm94s217	fungal-type cell wall organization or biogenesis
+921	GO:0001841	Nk52_evm120s352	neural tube formation
+922	GO:0001841	Nk52_evm4s179	neural tube formation
+923	GO:0001841	Nk52_evm7s390	neural tube formation
+924	GO:0001841	Nk52_evm7s462	neural tube formation
+925	GO:0008045	Nk52_evm23s1916	motor neuron axon guidance
+926	GO:0008045	Nk52_evm24s1916	motor neuron axon guidance
+927	GO:0008045	Nk52_evm32s2496	motor neuron axon guidance
+928	GO:0070293	Nk52_evm10s254	renal absorption
+929	GO:0070293	Nk52_evm1s1110	renal absorption
+930	GO:0061744	Nk52_evm1s1743	motor behavior
+931	GO:0061744	Nk52_evm7s159	motor behavior
+932	GO:0006269	Nk52_evm15s223	DNA replication, synthesis of RNA primer
+933	GO:0006269	Nk52_evm15s303	DNA replication, synthesis of RNA primer
+934	GO:1902166	Nk52_evm12s2171	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+935	GO:1902166	Nk52_evm26s272	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+936	GO:1902893	Nk52_evm15s490	regulation of miRNA transcription
+937	GO:1902893	Nk52_evm35s967	regulation of miRNA transcription
+938	GO:0010026	Nk52_evm80s270	trichome differentiation
+939	GO:0010026	Nk52_evm8s349	trichome differentiation
+940	GO:0046596	Nk52_evm1s216	regulation of viral entry into host cell
+941	GO:0046596	Nk52_evm26s272	regulation of viral entry into host cell
+942	GO:0007266	Nk52_evm120s352	Rho protein signal transduction
+943	GO:0007266	Nk52_evm13s2630	Rho protein signal transduction
+944	GO:0007266	Nk52_evm32s24	Rho protein signal transduction
+945	GO:0007266	Nk52_evm79s2367	Rho protein signal transduction
+946	GO:0044344	Nk52_evm12s359	cellular response to fibroblast growth factor stimulus
+947	GO:0044344	Nk52_evm38s255	cellular response to fibroblast growth factor stimulus
+948	GO:0044344	Nk52_evm76s1810	cellular response to fibroblast growth factor stimulus
+949	GO:0042306	Nk52_evm1s2255	regulation of protein import into nucleus
+950	GO:0042306	Nk52_evm21s675	regulation of protein import into nucleus
+951	GO:0042306	Nk52_evm32s2340	regulation of protein import into nucleus
+952	GO:0010948	Nk52_evm12s359	negative regulation of cell cycle process
+953	GO:0010948	Nk52_evm13s32	negative regulation of cell cycle process
+954	GO:0010948	Nk52_evm14s327	negative regulation of cell cycle process
+955	GO:0010948	Nk52_evm16s1073	negative regulation of cell cycle process
+956	GO:0010948	Nk52_evm16s163	negative regulation of cell cycle process
+957	GO:0010948	Nk52_evm19s228	negative regulation of cell cycle process
+958	GO:0010948	Nk52_evm1s2041	negative regulation of cell cycle process
+959	GO:0010948	Nk52_evm23s224	negative regulation of cell cycle process
+960	GO:0010948	Nk52_evm25s311	negative regulation of cell cycle process
+961	GO:0010948	Nk52_evm30s317	negative regulation of cell cycle process
+962	GO:0010948	Nk52_evm33s295	negative regulation of cell cycle process
+963	GO:0010948	Nk52_evm35s745	negative regulation of cell cycle process
+964	GO:0010948	Nk52_evm36s230	negative regulation of cell cycle process
+965	GO:0010948	Nk52_evm42s296	negative regulation of cell cycle process
+966	GO:0010948	Nk52_evm47s153	negative regulation of cell cycle process
+967	GO:0010948	Nk52_evm51s224	negative regulation of cell cycle process
+968	GO:0010948	Nk52_evm55s226	negative regulation of cell cycle process
+969	GO:0010948	Nk52_evm59s2118	negative regulation of cell cycle process
+970	GO:0010948	Nk52_evm70s914	negative regulation of cell cycle process
+971	GO:0010948	Nk52_evm78s62	negative regulation of cell cycle process
+972	GO:0010948	Nk52_evm79s210	negative regulation of cell cycle process
+973	GO:0010948	Nk52_evm9s1401	negative regulation of cell cycle process
+974	GO:0010948	Nk52_evm9s2579	negative regulation of cell cycle process

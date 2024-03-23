@@ -1,0 +1,1558 @@
+GO.ID	UNIgene	V3
+1	GO:0044782	Nk52_evm10s106	cilium organization
+2	GO:0044782	Nk52_evm10s303	cilium organization
+3	GO:0044782	Nk52_evm114s226	cilium organization
+4	GO:0044782	Nk52_evm11s710	cilium organization
+5	GO:0044782	Nk52_evm121s352	cilium organization
+6	GO:0044782	Nk52_evm12s1967	cilium organization
+7	GO:0044782	Nk52_evm12s2118	cilium organization
+8	GO:0044782	Nk52_evm13s1360	cilium organization
+9	GO:0044782	Nk52_evm13s1401	cilium organization
+10	GO:0044782	Nk52_evm13s1992	cilium organization
+11	GO:0044782	Nk52_evm13s226	cilium organization
+12	GO:0044782	Nk52_evm13s265	cilium organization
+13	GO:0044782	Nk52_evm13s375	cilium organization
+14	GO:0044782	Nk52_evm14s1992	cilium organization
+15	GO:0044782	Nk52_evm14s224	cilium organization
+16	GO:0044782	Nk52_evm14s242	cilium organization
+17	GO:0044782	Nk52_evm14s2578	cilium organization
+18	GO:0044782	Nk52_evm14s263	cilium organization
+19	GO:0044782	Nk52_evm15s1073	cilium organization
+20	GO:0044782	Nk52_evm15s222	cilium organization
+21	GO:0044782	Nk52_evm16s1129	cilium organization
+22	GO:0044782	Nk52_evm17s228	cilium organization
+23	GO:0044782	Nk52_evm17s2635	cilium organization
+24	GO:0044782	Nk52_evm17s280	cilium organization
+25	GO:0044782	Nk52_evm17s745	cilium organization
+26	GO:0044782	Nk52_evm18s152	cilium organization
+27	GO:0044782	Nk52_evm18s1869	cilium organization
+28	GO:0044782	Nk52_evm19s1869	cilium organization
+29	GO:0044782	Nk52_evm19s2011	cilium organization
+30	GO:0044782	Nk52_evm19s239	cilium organization
+31	GO:0044782	Nk52_evm1s106	cilium organization
+32	GO:0044782	Nk52_evm1s2032	cilium organization
+33	GO:0044782	Nk52_evm1s236	cilium organization
+34	GO:0044782	Nk52_evm1s318	cilium organization
+35	GO:0044782	Nk52_evm1s351	cilium organization
+36	GO:0044782	Nk52_evm1s588	cilium organization
+37	GO:0044782	Nk52_evm22s289	cilium organization
+38	GO:0044782	Nk52_evm23s242	cilium organization
+39	GO:0044782	Nk52_evm23s243	cilium organization
+40	GO:0044782	Nk52_evm24s1360	cilium organization
+41	GO:0044782	Nk52_evm24s239	cilium organization
+42	GO:0044782	Nk52_evm24s490	cilium organization
+43	GO:0044782	Nk52_evm25s1129	cilium organization
+44	GO:0044782	Nk52_evm25s2340	cilium organization
+45	GO:0044782	Nk52_evm26s232	cilium organization
+46	GO:0044782	Nk52_evm27s123	cilium organization
+47	GO:0044782	Nk52_evm27s745	cilium organization
+48	GO:0044782	Nk52_evm28s1073	cilium organization
+49	GO:0044782	Nk52_evm28s229	cilium organization
+50	GO:0044782	Nk52_evm28s485	cilium organization
+51	GO:0044782	Nk52_evm28s78	cilium organization
+52	GO:0044782	Nk52_evm2s211	cilium organization
+53	GO:0044782	Nk52_evm2s2578	cilium organization
+54	GO:0044782	Nk52_evm2s322	cilium organization
+55	GO:0044782	Nk52_evm2s385	cilium organization
+56	GO:0044782	Nk52_evm2s403	cilium organization
+57	GO:0044782	Nk52_evm2s604	cilium organization
+58	GO:0044782	Nk52_evm32s2612	cilium organization
+59	GO:0044782	Nk52_evm33s1524	cilium organization
+60	GO:0044782	Nk52_evm35s1129	cilium organization
+61	GO:0044782	Nk52_evm35s294	cilium organization
+62	GO:0044782	Nk52_evm38s147	cilium organization
+63	GO:0044782	Nk52_evm38s292	cilium organization
+64	GO:0044782	Nk52_evm39s152	cilium organization
+65	GO:0044782	Nk52_evm39s621	cilium organization
+66	GO:0044782	Nk52_evm3s328	cilium organization
+67	GO:0044782	Nk52_evm3s343	cilium organization
+68	GO:0044782	Nk52_evm40s207	cilium organization
+69	GO:0044782	Nk52_evm42s1524	cilium organization
+70	GO:0044782	Nk52_evm42s230	cilium organization
+71	GO:0044782	Nk52_evm44s2039	cilium organization
+72	GO:0044782	Nk52_evm46s221	cilium organization
+73	GO:0044782	Nk52_evm46s359	cilium organization
+74	GO:0044782	Nk52_evm49s2657	cilium organization
+75	GO:0044782	Nk52_evm49s32	cilium organization
+76	GO:0044782	Nk52_evm4s352	cilium organization
+77	GO:0044782	Nk52_evm4s805	cilium organization
+78	GO:0044782	Nk52_evm50s78	cilium organization
+79	GO:0044782	Nk52_evm52s78	cilium organization
+80	GO:0044782	Nk52_evm53s240	cilium organization
+81	GO:0044782	Nk52_evm54s1992	cilium organization
+82	GO:0044782	Nk52_evm5s1178	cilium organization
+83	GO:0044782	Nk52_evm5s169	cilium organization
+84	GO:0044782	Nk52_evm5s2152	cilium organization
+85	GO:0044782	Nk52_evm5s268	cilium organization
+86	GO:0044782	Nk52_evm5s352	cilium organization
+87	GO:0044782	Nk52_evm60s208	cilium organization
+88	GO:0044782	Nk52_evm60s745	cilium organization
+89	GO:0044782	Nk52_evm62s152	cilium organization
+90	GO:0044782	Nk52_evm64s343	cilium organization
+91	GO:0044782	Nk52_evm65s221	cilium organization
+92	GO:0044782	Nk52_evm66s554	cilium organization
+93	GO:0044782	Nk52_evm67s224	cilium organization
+94	GO:0044782	Nk52_evm69s215	cilium organization
+95	GO:0044782	Nk52_evm6s223	cilium organization
+96	GO:0044782	Nk52_evm71s210	cilium organization
+97	GO:0044782	Nk52_evm75s207	cilium organization
+98	GO:0044782	Nk52_evm76s158	cilium organization
+99	GO:0044782	Nk52_evm77s223	cilium organization
+100	GO:0044782	Nk52_evm7s1967	cilium organization
+101	GO:0044782	Nk52_evm86s215	cilium organization
+102	GO:0044782	Nk52_evm98s226	cilium organization
+103	GO:0044782	Nk52_evm9s1020	cilium organization
+104	GO:0044782	Nk52_evm9s1569	cilium organization
+105	GO:0044782	Nk52_evm9s1705	cilium organization
+106	GO:0044782	Nk52_evm9s2085	cilium organization
+107	GO:0044782	Nk52_evm9s262	cilium organization
+108	GO:0044782	Nk52_evm9s2650	cilium organization
+109	GO:0044782	Nk52_evm9s327	cilium organization
+110	GO:0044782	Nk52_evm9s77	cilium organization
+111	GO:0003341	Nk52_evm113s914	cilium movement
+112	GO:0003341	Nk52_evm121s352	cilium movement
+113	GO:0003341	Nk52_evm12s2118	cilium movement
+114	GO:0003341	Nk52_evm12s859	cilium movement
+115	GO:0003341	Nk52_evm13s1401	cilium movement
+116	GO:0003341	Nk52_evm14s2542	cilium movement
+117	GO:0003341	Nk52_evm14s2578	cilium movement
+118	GO:0003341	Nk52_evm15s1073	cilium movement
+119	GO:0003341	Nk52_evm15s222	cilium movement
+120	GO:0003341	Nk52_evm17s2635	cilium movement
+121	GO:0003341	Nk52_evm18s1869	cilium movement
+122	GO:0003341	Nk52_evm1s1607	cilium movement
+123	GO:0003341	Nk52_evm1s351	cilium movement
+124	GO:0003341	Nk52_evm22s2531	cilium movement
+125	GO:0003341	Nk52_evm23s243	cilium movement
+126	GO:0003341	Nk52_evm24s1360	cilium movement
+127	GO:0003341	Nk52_evm24s490	cilium movement
+128	GO:0003341	Nk52_evm25s1129	cilium movement
+129	GO:0003341	Nk52_evm25s307	cilium movement
+130	GO:0003341	Nk52_evm26s232	cilium movement
+131	GO:0003341	Nk52_evm27s2325	cilium movement
+132	GO:0003341	Nk52_evm28s1073	cilium movement
+133	GO:0003341	Nk52_evm28s229	cilium movement
+134	GO:0003341	Nk52_evm28s485	cilium movement
+135	GO:0003341	Nk52_evm2s2578	cilium movement
+136	GO:0003341	Nk52_evm2s322	cilium movement
+137	GO:0003341	Nk52_evm2s403	cilium movement
+138	GO:0003341	Nk52_evm36s279	cilium movement
+139	GO:0003341	Nk52_evm40s207	cilium movement
+140	GO:0003341	Nk52_evm44s2039	cilium movement
+141	GO:0003341	Nk52_evm49s32	cilium movement
+142	GO:0003341	Nk52_evm4s229	cilium movement
+143	GO:0003341	Nk52_evm4s805	cilium movement
+144	GO:0003341	Nk52_evm52s78	cilium movement
+145	GO:0003341	Nk52_evm5s1178	cilium movement
+146	GO:0003341	Nk52_evm5s2152	cilium movement
+147	GO:0003341	Nk52_evm5s352	cilium movement
+148	GO:0003341	Nk52_evm60s745	cilium movement
+149	GO:0003341	Nk52_evm61s152	cilium movement
+150	GO:0003341	Nk52_evm8s1762	cilium movement
+151	GO:0003341	Nk52_evm8s2010	cilium movement
+152	GO:0003341	Nk52_evm91s1810	cilium movement
+153	GO:0003341	Nk52_evm97s2192	cilium movement
+154	GO:0003341	Nk52_evm98s226	cilium movement
+155	GO:0003341	Nk52_evm9s1020	cilium movement
+156	GO:0003341	Nk52_evm9s1569	cilium movement
+157	GO:0001539	Nk52_evm12s859	cilium or flagellum-dependent cell motility
+158	GO:0001539	Nk52_evm14s2542	cilium or flagellum-dependent cell motility
+159	GO:0001539	Nk52_evm14s2578	cilium or flagellum-dependent cell motility
+160	GO:0001539	Nk52_evm15s1073	cilium or flagellum-dependent cell motility
+161	GO:0001539	Nk52_evm15s222	cilium or flagellum-dependent cell motility
+162	GO:0001539	Nk52_evm17s2635	cilium or flagellum-dependent cell motility
+163	GO:0001539	Nk52_evm18s1869	cilium or flagellum-dependent cell motility
+164	GO:0001539	Nk52_evm1s1607	cilium or flagellum-dependent cell motility
+165	GO:0001539	Nk52_evm1s351	cilium or flagellum-dependent cell motility
+166	GO:0001539	Nk52_evm24s1360	cilium or flagellum-dependent cell motility
+167	GO:0001539	Nk52_evm24s490	cilium or flagellum-dependent cell motility
+168	GO:0001539	Nk52_evm25s1129	cilium or flagellum-dependent cell motility
+169	GO:0001539	Nk52_evm26s232	cilium or flagellum-dependent cell motility
+170	GO:0001539	Nk52_evm28s1073	cilium or flagellum-dependent cell motility
+171	GO:0001539	Nk52_evm28s229	cilium or flagellum-dependent cell motility
+172	GO:0001539	Nk52_evm2s322	cilium or flagellum-dependent cell motility
+173	GO:0001539	Nk52_evm2s403	cilium or flagellum-dependent cell motility
+174	GO:0001539	Nk52_evm36s279	cilium or flagellum-dependent cell motility
+175	GO:0001539	Nk52_evm44s2039	cilium or flagellum-dependent cell motility
+176	GO:0001539	Nk52_evm49s32	cilium or flagellum-dependent cell motility
+177	GO:0001539	Nk52_evm4s229	cilium or flagellum-dependent cell motility
+178	GO:0001539	Nk52_evm4s355	cilium or flagellum-dependent cell motility
+179	GO:0001539	Nk52_evm4s805	cilium or flagellum-dependent cell motility
+180	GO:0001539	Nk52_evm52s78	cilium or flagellum-dependent cell motility
+181	GO:0001539	Nk52_evm55s554	cilium or flagellum-dependent cell motility
+182	GO:0001539	Nk52_evm5s1178	cilium or flagellum-dependent cell motility
+183	GO:0001539	Nk52_evm5s2152	cilium or flagellum-dependent cell motility
+184	GO:0001539	Nk52_evm5s352	cilium or flagellum-dependent cell motility
+185	GO:0001539	Nk52_evm60s745	cilium or flagellum-dependent cell motility
+186	GO:0001539	Nk52_evm61s152	cilium or flagellum-dependent cell motility
+187	GO:0001539	Nk52_evm8s1762	cilium or flagellum-dependent cell motility
+188	GO:0001539	Nk52_evm91s1810	cilium or flagellum-dependent cell motility
+189	GO:0001539	Nk52_evm9s1020	cilium or flagellum-dependent cell motility
+190	GO:0001539	Nk52_evm9s2650	cilium or flagellum-dependent cell motility
+191	GO:0007224	Nk52_evm114s226	smoothened signaling pathway
+192	GO:0007224	Nk52_evm11s710	smoothened signaling pathway
+193	GO:0007224	Nk52_evm13s1992	smoothened signaling pathway
+194	GO:0007224	Nk52_evm13s375	smoothened signaling pathway
+195	GO:0007224	Nk52_evm16s1129	smoothened signaling pathway
+196	GO:0007224	Nk52_evm17s228	smoothened signaling pathway
+197	GO:0007224	Nk52_evm17s280	smoothened signaling pathway
+198	GO:0007224	Nk52_evm19s1869	smoothened signaling pathway
+199	GO:0007224	Nk52_evm1s236	smoothened signaling pathway
+200	GO:0007224	Nk52_evm26s230	smoothened signaling pathway
+201	GO:0007224	Nk52_evm27s745	smoothened signaling pathway
+202	GO:0007224	Nk52_evm28s1073	smoothened signaling pathway
+203	GO:0007224	Nk52_evm28s78	smoothened signaling pathway
+204	GO:0007224	Nk52_evm2s383	smoothened signaling pathway
+205	GO:0007224	Nk52_evm35s1129	smoothened signaling pathway
+206	GO:0007224	Nk52_evm35s294	smoothened signaling pathway
+207	GO:0007224	Nk52_evm38s292	smoothened signaling pathway
+208	GO:0007224	Nk52_evm3s343	smoothened signaling pathway
+209	GO:0007224	Nk52_evm46s221	smoothened signaling pathway
+210	GO:0007224	Nk52_evm49s32	smoothened signaling pathway
+211	GO:0007224	Nk52_evm5s2152	smoothened signaling pathway
+212	GO:0007224	Nk52_evm62s152	smoothened signaling pathway
+213	GO:0007224	Nk52_evm64s343	smoothened signaling pathway
+214	GO:0007224	Nk52_evm6s223	smoothened signaling pathway
+215	GO:0007224	Nk52_evm98s226	smoothened signaling pathway
+216	GO:0007224	Nk52_evm9s2085	smoothened signaling pathway
+217	GO:0007224	Nk52_evm9s327	smoothened signaling pathway
+218	GO:0060972	Nk52_evm121s352	left/right pattern formation
+219	GO:0060972	Nk52_evm14s2542	left/right pattern formation
+220	GO:0060972	Nk52_evm15s1073	left/right pattern formation
+221	GO:0060972	Nk52_evm23s242	left/right pattern formation
+222	GO:0060972	Nk52_evm23s243	left/right pattern formation
+223	GO:0060972	Nk52_evm24s1360	left/right pattern formation
+224	GO:0060972	Nk52_evm25s621	left/right pattern formation
+225	GO:0060972	Nk52_evm26s230	left/right pattern formation
+226	GO:0060972	Nk52_evm28s485	left/right pattern formation
+227	GO:0060972	Nk52_evm28s78	left/right pattern formation
+228	GO:0060972	Nk52_evm2s385	left/right pattern formation
+229	GO:0060972	Nk52_evm35s1129	left/right pattern formation
+230	GO:0060972	Nk52_evm35s294	left/right pattern formation
+231	GO:0060972	Nk52_evm38s292	left/right pattern formation
+232	GO:0060972	Nk52_evm39s621	left/right pattern formation
+233	GO:0060972	Nk52_evm3s343	left/right pattern formation
+234	GO:0060972	Nk52_evm46s221	left/right pattern formation
+235	GO:0060972	Nk52_evm49s32	left/right pattern formation
+236	GO:0060972	Nk52_evm4s229	left/right pattern formation
+237	GO:0060972	Nk52_evm53s240	left/right pattern formation
+238	GO:0060972	Nk52_evm54s1992	left/right pattern formation
+239	GO:0060972	Nk52_evm5s1178	left/right pattern formation
+240	GO:0060972	Nk52_evm5s169	left/right pattern formation
+241	GO:0060972	Nk52_evm5s2152	left/right pattern formation
+242	GO:0060972	Nk52_evm5s352	left/right pattern formation
+243	GO:0060972	Nk52_evm80s2367	left/right pattern formation
+244	GO:0060972	Nk52_evm83s62	left/right pattern formation
+245	GO:0060972	Nk52_evm98s226	left/right pattern formation
+246	GO:0060972	Nk52_evm9s1569	left/right pattern formation
+247	GO:0060972	Nk52_evm9s2085	left/right pattern formation
+248	GO:0060972	Nk52_evm9s327	left/right pattern formation
+249	GO:0007283	Nk52_evm113s914	spermatogenesis
+250	GO:0007283	Nk52_evm114s226	spermatogenesis
+251	GO:0007283	Nk52_evm11s256	spermatogenesis
+252	GO:0007283	Nk52_evm12s280	spermatogenesis
+253	GO:0007283	Nk52_evm13s1401	spermatogenesis
+254	GO:0007283	Nk52_evm13s1992	spermatogenesis
+255	GO:0007283	Nk52_evm14s2578	spermatogenesis
+256	GO:0007283	Nk52_evm15s2171	spermatogenesis
+257	GO:0007283	Nk52_evm17s2474	spermatogenesis
+258	GO:0007283	Nk52_evm17s2635	spermatogenesis
+259	GO:0007283	Nk52_evm1s1211	spermatogenesis
+260	GO:0007283	Nk52_evm1s1949	spermatogenesis
+261	GO:0007283	Nk52_evm1s351	spermatogenesis
+262	GO:0007283	Nk52_evm1s628	spermatogenesis
+263	GO:0007283	Nk52_evm20s216	spermatogenesis
+264	GO:0007283	Nk52_evm21s296	spermatogenesis
+265	GO:0007283	Nk52_evm24s490	spermatogenesis
+266	GO:0007283	Nk52_evm26s232	spermatogenesis
+267	GO:0007283	Nk52_evm27s745	spermatogenesis
+268	GO:0007283	Nk52_evm28s1073	spermatogenesis
+269	GO:0007283	Nk52_evm28s229	spermatogenesis
+270	GO:0007283	Nk52_evm29s2531	spermatogenesis
+271	GO:0007283	Nk52_evm2s2340	spermatogenesis
+272	GO:0007283	Nk52_evm32s2612	spermatogenesis
+273	GO:0007283	Nk52_evm32s805	spermatogenesis
+274	GO:0007283	Nk52_evm33s255	spermatogenesis
+275	GO:0007283	Nk52_evm36s2309	spermatogenesis
+276	GO:0007283	Nk52_evm38s207	spermatogenesis
+277	GO:0007283	Nk52_evm39s2449	spermatogenesis
+278	GO:0007283	Nk52_evm3s228	spermatogenesis
+279	GO:0007283	Nk52_evm43s242	spermatogenesis
+280	GO:0007283	Nk52_evm44s2039	spermatogenesis
+281	GO:0007283	Nk52_evm49s32	spermatogenesis
+282	GO:0007283	Nk52_evm56s208	spermatogenesis
+283	GO:0007283	Nk52_evm5s352	spermatogenesis
+284	GO:0007283	Nk52_evm61s221	spermatogenesis
+285	GO:0007283	Nk52_evm64s343	spermatogenesis
+286	GO:0007283	Nk52_evm6s1400	spermatogenesis
+287	GO:0007283	Nk52_evm6s2604	spermatogenesis
+288	GO:0007283	Nk52_evm6s288	spermatogenesis
+289	GO:0007283	Nk52_evm71s210	spermatogenesis
+290	GO:0007283	Nk52_evm7s1869	spermatogenesis
+291	GO:0007283	Nk52_evm7s1967	spermatogenesis
+292	GO:0007283	Nk52_evm91s1810	spermatogenesis
+293	GO:0007283	Nk52_evm9s1020	spermatogenesis
+294	GO:0030326	Nk52_evm11s710	embryonic limb morphogenesis
+295	GO:0030326	Nk52_evm23s1671	embryonic limb morphogenesis
+296	GO:0030326	Nk52_evm26s230	embryonic limb morphogenesis
+297	GO:0030326	Nk52_evm35s1129	embryonic limb morphogenesis
+298	GO:0030326	Nk52_evm35s294	embryonic limb morphogenesis
+299	GO:0030326	Nk52_evm36s208	embryonic limb morphogenesis
+300	GO:0030326	Nk52_evm46s221	embryonic limb morphogenesis
+301	GO:0030326	Nk52_evm49s32	embryonic limb morphogenesis
+302	GO:0030326	Nk52_evm6s223	embryonic limb morphogenesis
+303	GO:0030326	Nk52_evm75s2192	embryonic limb morphogenesis
+304	GO:0030326	Nk52_evm85s352	embryonic limb morphogenesis
+305	GO:0030326	Nk52_evm9s2085	embryonic limb morphogenesis
+306	GO:0030326	Nk52_evm9s327	embryonic limb morphogenesis
+307	GO:0061512	Nk52_evm13s1992	protein localization to cilium
+308	GO:0061512	Nk52_evm15s1073	protein localization to cilium
+309	GO:0061512	Nk52_evm16s1129	protein localization to cilium
+310	GO:0061512	Nk52_evm17s228	protein localization to cilium
+311	GO:0061512	Nk52_evm19s239	protein localization to cilium
+312	GO:0061512	Nk52_evm24s1360	protein localization to cilium
+313	GO:0061512	Nk52_evm28s78	protein localization to cilium
+314	GO:0061512	Nk52_evm37s250	protein localization to cilium
+315	GO:0061512	Nk52_evm42s230	protein localization to cilium
+316	GO:0061512	Nk52_evm4s229	protein localization to cilium
+317	GO:0061512	Nk52_evm5s2152	protein localization to cilium
+318	GO:0061512	Nk52_evm64s343	protein localization to cilium
+319	GO:0061512	Nk52_evm6s223	protein localization to cilium
+320	GO:0061512	Nk52_evm75s207	protein localization to cilium
+321	GO:0061512	Nk52_evm9s2085	protein localization to cilium
+322	GO:0061512	Nk52_evm9s327	protein localization to cilium
+323	GO:0035050	Nk52_evm104s352	embryonic heart tube development
+324	GO:0035050	Nk52_evm121s352	embryonic heart tube development
+325	GO:0035050	Nk52_evm24s1360	embryonic heart tube development
+326	GO:0035050	Nk52_evm25s621	embryonic heart tube development
+327	GO:0035050	Nk52_evm26s230	embryonic heart tube development
+328	GO:0035050	Nk52_evm28s485	embryonic heart tube development
+329	GO:0035050	Nk52_evm2s291	embryonic heart tube development
+330	GO:0035050	Nk52_evm35s294	embryonic heart tube development
+331	GO:0035050	Nk52_evm38s292	embryonic heart tube development
+332	GO:0035050	Nk52_evm39s621	embryonic heart tube development
+333	GO:0035050	Nk52_evm3s343	embryonic heart tube development
+334	GO:0035050	Nk52_evm54s1992	embryonic heart tube development
+335	GO:0035050	Nk52_evm80s2367	embryonic heart tube development
+336	GO:0035050	Nk52_evm98s226	embryonic heart tube development
+337	GO:0035050	Nk52_evm9s2085	embryonic heart tube development
+338	GO:0006355	Nk52_evm10s106	regulation of DNA-templated transcription
+339	GO:0006355	Nk52_evm10s559	regulation of DNA-templated transcription
+340	GO:0006355	Nk52_evm11s1400	regulation of DNA-templated transcription
+341	GO:0006355	Nk52_evm11s1837	regulation of DNA-templated transcription
+342	GO:0006355	Nk52_evm11s229	regulation of DNA-templated transcription
+343	GO:0006355	Nk52_evm11s2579	regulation of DNA-templated transcription
+344	GO:0006355	Nk52_evm121s226	regulation of DNA-templated transcription
+345	GO:0006355	Nk52_evm124s221	regulation of DNA-templated transcription
+346	GO:0006355	Nk52_evm12s2325	regulation of DNA-templated transcription
+347	GO:0006355	Nk52_evm12s250	regulation of DNA-templated transcription
+348	GO:0006355	Nk52_evm12s301	regulation of DNA-templated transcription
+349	GO:0006355	Nk52_evm12s442	regulation of DNA-templated transcription
+350	GO:0006355	Nk52_evm12s578	regulation of DNA-templated transcription
+351	GO:0006355	Nk52_evm13s16	regulation of DNA-templated transcription
+352	GO:0006355	Nk52_evm13s227	regulation of DNA-templated transcription
+353	GO:0006355	Nk52_evm15s2118	regulation of DNA-templated transcription
+354	GO:0006355	Nk52_evm15s2171	regulation of DNA-templated transcription
+355	GO:0006355	Nk52_evm15s282	regulation of DNA-templated transcription
+356	GO:0006355	Nk52_evm15s358	regulation of DNA-templated transcription
+357	GO:0006355	Nk52_evm16s1129	regulation of DNA-templated transcription
+358	GO:0006355	Nk52_evm17s2657	regulation of DNA-templated transcription
+359	GO:0006355	Nk52_evm18s745	regulation of DNA-templated transcription
+360	GO:0006355	Nk52_evm1s1020	regulation of DNA-templated transcription
+361	GO:0006355	Nk52_evm1s1084	regulation of DNA-templated transcription
+362	GO:0006355	Nk52_evm1s136	regulation of DNA-templated transcription
+363	GO:0006355	Nk52_evm1s164	regulation of DNA-templated transcription
+364	GO:0006355	Nk52_evm1s1704	regulation of DNA-templated transcription
+365	GO:0006355	Nk52_evm1s174	regulation of DNA-templated transcription
+366	GO:0006355	Nk52_evm1s2119	regulation of DNA-templated transcription
+367	GO:0006355	Nk52_evm1s2343	regulation of DNA-templated transcription
+368	GO:0006355	Nk52_evm1s242	regulation of DNA-templated transcription
+369	GO:0006355	Nk52_evm1s2487	regulation of DNA-templated transcription
+370	GO:0006355	Nk52_evm1s2644	regulation of DNA-templated transcription
+371	GO:0006355	Nk52_evm1s268	regulation of DNA-templated transcription
+372	GO:0006355	Nk52_evm1s280	regulation of DNA-templated transcription
+373	GO:0006355	Nk52_evm20s284	regulation of DNA-templated transcription
+374	GO:0006355	Nk52_evm20s311	regulation of DNA-templated transcription
+375	GO:0006355	Nk52_evm21s1020	regulation of DNA-templated transcription
+376	GO:0006355	Nk52_evm21s78	regulation of DNA-templated transcription
+377	GO:0006355	Nk52_evm23s1671	regulation of DNA-templated transcription
+378	GO:0006355	Nk52_evm23s2133	regulation of DNA-templated transcription
+379	GO:0006355	Nk52_evm23s311	regulation of DNA-templated transcription
+380	GO:0006355	Nk52_evm24s217	regulation of DNA-templated transcription
+381	GO:0006355	Nk52_evm25s234	regulation of DNA-templated transcription
+382	GO:0006355	Nk52_evm26s230	regulation of DNA-templated transcription
+383	GO:0006355	Nk52_evm28s270	regulation of DNA-templated transcription
+384	GO:0006355	Nk52_evm2s214	regulation of DNA-templated transcription
+385	GO:0006355	Nk52_evm2s2208	regulation of DNA-templated transcription
+386	GO:0006355	Nk52_evm32s224	regulation of DNA-templated transcription
+387	GO:0006355	Nk52_evm32s2506	regulation of DNA-templated transcription
+388	GO:0006355	Nk52_evm33s2579	regulation of DNA-templated transcription
+389	GO:0006355	Nk52_evm33s32	regulation of DNA-templated transcription
+390	GO:0006355	Nk52_evm36s2309	regulation of DNA-templated transcription
+391	GO:0006355	Nk52_evm37s153	regulation of DNA-templated transcription
+392	GO:0006355	Nk52_evm37s250	regulation of DNA-templated transcription
+393	GO:0006355	Nk52_evm37s78	regulation of DNA-templated transcription
+394	GO:0006355	Nk52_evm38s296	regulation of DNA-templated transcription
+395	GO:0006355	Nk52_evm3s217	regulation of DNA-templated transcription
+396	GO:0006355	Nk52_evm3s228	regulation of DNA-templated transcription
+397	GO:0006355	Nk52_evm3s331	regulation of DNA-templated transcription
+398	GO:0006355	Nk52_evm3s383	regulation of DNA-templated transcription
+399	GO:0006355	Nk52_evm42s156	regulation of DNA-templated transcription
+400	GO:0006355	Nk52_evm43s242	regulation of DNA-templated transcription
+401	GO:0006355	Nk52_evm44s352	regulation of DNA-templated transcription
+402	GO:0006355	Nk52_evm45s2657	regulation of DNA-templated transcription
+403	GO:0006355	Nk52_evm48s1401	regulation of DNA-templated transcription
+404	GO:0006355	Nk52_evm4s212	regulation of DNA-templated transcription
+405	GO:0006355	Nk52_evm4s2426	regulation of DNA-templated transcription
+406	GO:0006355	Nk52_evm50s212	regulation of DNA-templated transcription
+407	GO:0006355	Nk52_evm50s230	regulation of DNA-templated transcription
+408	GO:0006355	Nk52_evm50s242	regulation of DNA-templated transcription
+409	GO:0006355	Nk52_evm53s1992	regulation of DNA-templated transcription
+410	GO:0006355	Nk52_evm53s240	regulation of DNA-templated transcription
+411	GO:0006355	Nk52_evm54s1992	regulation of DNA-templated transcription
+412	GO:0006355	Nk52_evm55s359	regulation of DNA-templated transcription
+413	GO:0006355	Nk52_evm57s1073	regulation of DNA-templated transcription
+414	GO:0006355	Nk52_evm57s485	regulation of DNA-templated transcription
+415	GO:0006355	Nk52_evm58s215	regulation of DNA-templated transcription
+416	GO:0006355	Nk52_evm59s2657	regulation of DNA-templated transcription
+417	GO:0006355	Nk52_evm5s157	regulation of DNA-templated transcription
+418	GO:0006355	Nk52_evm5s169	regulation of DNA-templated transcription
+419	GO:0006355	Nk52_evm5s330	regulation of DNA-templated transcription
+420	GO:0006355	Nk52_evm5s70	regulation of DNA-templated transcription
+421	GO:0006355	Nk52_evm65s1020	regulation of DNA-templated transcription
+422	GO:0006355	Nk52_evm65s152	regulation of DNA-templated transcription
+423	GO:0006355	Nk52_evm65s223	regulation of DNA-templated transcription
+424	GO:0006355	Nk52_evm68s1810	regulation of DNA-templated transcription
+425	GO:0006355	Nk52_evm6s2171	regulation of DNA-templated transcription
+426	GO:0006355	Nk52_evm6s2604	regulation of DNA-templated transcription
+427	GO:0006355	Nk52_evm6s296	regulation of DNA-templated transcription
+428	GO:0006355	Nk52_evm71s207	regulation of DNA-templated transcription
+429	GO:0006355	Nk52_evm78s1737	regulation of DNA-templated transcription
+430	GO:0006355	Nk52_evm7s1967	regulation of DNA-templated transcription
+431	GO:0006355	Nk52_evm7s2630	regulation of DNA-templated transcription
+432	GO:0006355	Nk52_evm7s490	regulation of DNA-templated transcription
+433	GO:0006355	Nk52_evm80s2367	regulation of DNA-templated transcription
+434	GO:0006355	Nk52_evm84s554	regulation of DNA-templated transcription
+435	GO:0006355	Nk52_evm89s2192	regulation of DNA-templated transcription
+436	GO:0006355	Nk52_evm8s378	regulation of DNA-templated transcription
+437	GO:0006355	Nk52_evm90s1737	regulation of DNA-templated transcription
+438	GO:0006355	Nk52_evm90s2118	regulation of DNA-templated transcription
+439	GO:0006355	Nk52_evm98s217	regulation of DNA-templated transcription
+440	GO:0006355	Nk52_evm98s2192	regulation of DNA-templated transcription
+441	GO:0006355	Nk52_evm9s1837	regulation of DNA-templated transcription
+442	GO:0006355	Nk52_evm9s2011	regulation of DNA-templated transcription
+443	GO:0006355	Nk52_evm9s2118	regulation of DNA-templated transcription
+444	GO:0042461	Nk52_evm10s207	photoreceptor cell development
+445	GO:0042461	Nk52_evm15s2118	photoreceptor cell development
+446	GO:0042461	Nk52_evm23s242	photoreceptor cell development
+447	GO:0042461	Nk52_evm34s1810	photoreceptor cell development
+448	GO:0042461	Nk52_evm39s621	photoreceptor cell development
+449	GO:0042461	Nk52_evm46s221	photoreceptor cell development
+450	GO:0042461	Nk52_evm54s1992	photoreceptor cell development
+451	GO:0042461	Nk52_evm64s343	photoreceptor cell development
+452	GO:0042461	Nk52_evm77s223	photoreceptor cell development
+453	GO:0042461	Nk52_evm9s208	photoreceptor cell development
+454	GO:0042461	Nk52_evm9s327	photoreceptor cell development
+455	GO:0010837	Nk52_evm17s228	regulation of keratinocyte proliferation
+456	GO:0010837	Nk52_evm35s294	regulation of keratinocyte proliferation
+457	GO:0010837	Nk52_evm3s343	regulation of keratinocyte proliferation
+458	GO:0010837	Nk52_evm49s32	regulation of keratinocyte proliferation
+459	GO:0010837	Nk52_evm53s240	regulation of keratinocyte proliferation
+460	GO:0010837	Nk52_evm98s226	regulation of keratinocyte proliferation
+461	GO:0010837	Nk52_evm9s2085	regulation of keratinocyte proliferation
+462	GO:0051256	Nk52_evm21s559	mitotic spindle midzone assembly
+463	GO:0051256	Nk52_evm2s1073	mitotic spindle midzone assembly
+464	GO:0051256	Nk52_evm8s295	mitotic spindle midzone assembly
+465	GO:0051256	Nk52_evm8s62	mitotic spindle midzone assembly
+466	GO:0051256	Nk52_evm9s208	mitotic spindle midzone assembly
+467	GO:0021532	Nk52_evm12s301	neural tube patterning
+468	GO:0021532	Nk52_evm26s230	neural tube patterning
+469	GO:0021532	Nk52_evm35s1129	neural tube patterning
+470	GO:0021532	Nk52_evm46s221	neural tube patterning
+471	GO:0021532	Nk52_evm6s223	neural tube patterning
+472	GO:0021532	Nk52_evm98s226	neural tube patterning
+473	GO:0021532	Nk52_evm9s2085	neural tube patterning
+474	GO:0021532	Nk52_evm9s327	neural tube patterning
+475	GO:0007017	Nk52_evm10s223	microtubule-based process
+476	GO:0007017	Nk52_evm113s914	microtubule-based process
+477	GO:0007017	Nk52_evm114s226	microtubule-based process
+478	GO:0007017	Nk52_evm11s296	microtubule-based process
+479	GO:0007017	Nk52_evm121s352	microtubule-based process
+480	GO:0007017	Nk52_evm12s1967	microtubule-based process
+481	GO:0007017	Nk52_evm12s2118	microtubule-based process
+482	GO:0007017	Nk52_evm12s2635	microtubule-based process
+483	GO:0007017	Nk52_evm12s294	microtubule-based process
+484	GO:0007017	Nk52_evm12s328	microtubule-based process
+485	GO:0007017	Nk52_evm12s859	microtubule-based process
+486	GO:0007017	Nk52_evm13s1360	microtubule-based process
+487	GO:0007017	Nk52_evm13s1401	microtubule-based process
+488	GO:0007017	Nk52_evm13s16	microtubule-based process
+489	GO:0007017	Nk52_evm13s1992	microtubule-based process
+490	GO:0007017	Nk52_evm13s24	microtubule-based process
+491	GO:0007017	Nk52_evm13s242	microtubule-based process
+492	GO:0007017	Nk52_evm13s265	microtubule-based process
+493	GO:0007017	Nk52_evm14s1992	microtubule-based process
+494	GO:0007017	Nk52_evm14s224	microtubule-based process
+495	GO:0007017	Nk52_evm14s242	microtubule-based process
+496	GO:0007017	Nk52_evm14s2542	microtubule-based process
+497	GO:0007017	Nk52_evm14s2578	microtubule-based process
+498	GO:0007017	Nk52_evm14s352	microtubule-based process
+499	GO:0007017	Nk52_evm15s1073	microtubule-based process
+500	GO:0007017	Nk52_evm15s222	microtubule-based process
+501	GO:0007017	Nk52_evm16s1129	microtubule-based process
+502	GO:0007017	Nk52_evm17s2449	microtubule-based process
+503	GO:0007017	Nk52_evm17s2635	microtubule-based process
+504	GO:0007017	Nk52_evm17s2657	microtubule-based process
+505	GO:0007017	Nk52_evm17s280	microtubule-based process
+506	GO:0007017	Nk52_evm18s152	microtubule-based process
+507	GO:0007017	Nk52_evm18s1869	microtubule-based process
+508	GO:0007017	Nk52_evm19s2011	microtubule-based process
+509	GO:0007017	Nk52_evm19s239	microtubule-based process
+510	GO:0007017	Nk52_evm1s150	microtubule-based process
+511	GO:0007017	Nk52_evm1s1532	microtubule-based process
+512	GO:0007017	Nk52_evm1s1607	microtubule-based process
+513	GO:0007017	Nk52_evm1s2020	microtubule-based process
+514	GO:0007017	Nk52_evm1s318	microtubule-based process
+515	GO:0007017	Nk52_evm1s351	microtubule-based process
+516	GO:0007017	Nk52_evm1s41	microtubule-based process
+517	GO:0007017	Nk52_evm20s284	microtubule-based process
+518	GO:0007017	Nk52_evm21s250	microtubule-based process
+519	GO:0007017	Nk52_evm21s559	microtubule-based process
+520	GO:0007017	Nk52_evm22s2531	microtubule-based process
+521	GO:0007017	Nk52_evm22s289	microtubule-based process
+522	GO:0007017	Nk52_evm23s2133	microtubule-based process
+523	GO:0007017	Nk52_evm23s242	microtubule-based process
+524	GO:0007017	Nk52_evm23s243	microtubule-based process
+525	GO:0007017	Nk52_evm24s1360	microtubule-based process
+526	GO:0007017	Nk52_evm24s239	microtubule-based process
+527	GO:0007017	Nk52_evm24s490	microtubule-based process
+528	GO:0007017	Nk52_evm25s1129	microtubule-based process
+529	GO:0007017	Nk52_evm25s2340	microtubule-based process
+530	GO:0007017	Nk52_evm25s248	microtubule-based process
+531	GO:0007017	Nk52_evm25s307	microtubule-based process
+532	GO:0007017	Nk52_evm26s232	microtubule-based process
+533	GO:0007017	Nk52_evm26s2612	microtubule-based process
+534	GO:0007017	Nk52_evm27s123	microtubule-based process
+535	GO:0007017	Nk52_evm27s2325	microtubule-based process
+536	GO:0007017	Nk52_evm28s1073	microtubule-based process
+537	GO:0007017	Nk52_evm28s229	microtubule-based process
+538	GO:0007017	Nk52_evm28s485	microtubule-based process
+539	GO:0007017	Nk52_evm28s78	microtubule-based process
+540	GO:0007017	Nk52_evm29s2612	microtubule-based process
+541	GO:0007017	Nk52_evm29s296	microtubule-based process
+542	GO:0007017	Nk52_evm29s554	microtubule-based process
+543	GO:0007017	Nk52_evm2s1073	microtubule-based process
+544	GO:0007017	Nk52_evm2s2474	microtubule-based process
+545	GO:0007017	Nk52_evm2s2578	microtubule-based process
+546	GO:0007017	Nk52_evm2s313	microtubule-based process
+547	GO:0007017	Nk52_evm2s322	microtubule-based process
+548	GO:0007017	Nk52_evm2s385	microtubule-based process
+549	GO:0007017	Nk52_evm2s403	microtubule-based process
+550	GO:0007017	Nk52_evm2s490	microtubule-based process
+551	GO:0007017	Nk52_evm2s604	microtubule-based process
+552	GO:0007017	Nk52_evm31s745	microtubule-based process
+553	GO:0007017	Nk52_evm32s232	microtubule-based process
+554	GO:0007017	Nk52_evm32s356	microtubule-based process
+555	GO:0007017	Nk52_evm33s1524	microtubule-based process
+556	GO:0007017	Nk52_evm34s1810	microtubule-based process
+557	GO:0007017	Nk52_evm35s294	microtubule-based process
+558	GO:0007017	Nk52_evm36s279	microtubule-based process
+559	GO:0007017	Nk52_evm37s78	microtubule-based process
+560	GO:0007017	Nk52_evm38s147	microtubule-based process
+561	GO:0007017	Nk52_evm38s292	microtubule-based process
+562	GO:0007017	Nk52_evm39s152	microtubule-based process
+563	GO:0007017	Nk52_evm3s328	microtubule-based process
+564	GO:0007017	Nk52_evm3s343	microtubule-based process
+565	GO:0007017	Nk52_evm3s490	microtubule-based process
+566	GO:0007017	Nk52_evm40s207	microtubule-based process
+567	GO:0007017	Nk52_evm44s2039	microtubule-based process
+568	GO:0007017	Nk52_evm46s359	microtubule-based process
+569	GO:0007017	Nk52_evm47s2118	microtubule-based process
+570	GO:0007017	Nk52_evm49s32	microtubule-based process
+571	GO:0007017	Nk52_evm4s229	microtubule-based process
+572	GO:0007017	Nk52_evm4s352	microtubule-based process
+573	GO:0007017	Nk52_evm4s495	microtubule-based process
+574	GO:0007017	Nk52_evm4s805	microtubule-based process
+575	GO:0007017	Nk52_evm51s230	microtubule-based process
+576	GO:0007017	Nk52_evm52s78	microtubule-based process
+577	GO:0007017	Nk52_evm53s240	microtubule-based process
+578	GO:0007017	Nk52_evm55s554	microtubule-based process
+579	GO:0007017	Nk52_evm5s1178	microtubule-based process
+580	GO:0007017	Nk52_evm5s2152	microtubule-based process
+581	GO:0007017	Nk52_evm5s268	microtubule-based process
+582	GO:0007017	Nk52_evm5s352	microtubule-based process
+583	GO:0007017	Nk52_evm60s208	microtubule-based process
+584	GO:0007017	Nk52_evm60s745	microtubule-based process
+585	GO:0007017	Nk52_evm61s152	microtubule-based process
+586	GO:0007017	Nk52_evm64s343	microtubule-based process
+587	GO:0007017	Nk52_evm66s554	microtubule-based process
+588	GO:0007017	Nk52_evm67s224	microtubule-based process
+589	GO:0007017	Nk52_evm69s215	microtubule-based process
+590	GO:0007017	Nk52_evm6s1400	microtubule-based process
+591	GO:0007017	Nk52_evm6s211	microtubule-based process
+592	GO:0007017	Nk52_evm6s223	microtubule-based process
+593	GO:0007017	Nk52_evm71s210	microtubule-based process
+594	GO:0007017	Nk52_evm73s914	microtubule-based process
+595	GO:0007017	Nk52_evm74s212	microtubule-based process
+596	GO:0007017	Nk52_evm75s207	microtubule-based process
+597	GO:0007017	Nk52_evm77s223	microtubule-based process
+598	GO:0007017	Nk52_evm8s1762	microtubule-based process
+599	GO:0007017	Nk52_evm8s2010	microtubule-based process
+600	GO:0007017	Nk52_evm8s295	microtubule-based process
+601	GO:0007017	Nk52_evm8s62	microtubule-based process
+602	GO:0007017	Nk52_evm90s2118	microtubule-based process
+603	GO:0007017	Nk52_evm91s1810	microtubule-based process
+604	GO:0007017	Nk52_evm97s2192	microtubule-based process
+605	GO:0007017	Nk52_evm98s226	microtubule-based process
+606	GO:0007017	Nk52_evm9s1020	microtubule-based process
+607	GO:0007017	Nk52_evm9s1569	microtubule-based process
+608	GO:0007017	Nk52_evm9s208	microtubule-based process
+609	GO:0007017	Nk52_evm9s2085	microtubule-based process
+610	GO:0007017	Nk52_evm9s2650	microtubule-based process
+611	GO:0007017	Nk52_evm9s2657	microtubule-based process
+612	GO:0007017	Nk52_evm9s293	microtubule-based process
+613	GO:0007017	Nk52_evm9s327	microtubule-based process
+614	GO:0039595	Nk52_evm14s2309	induction by virus of catabolism of host mRNA
+615	GO:0039595	Nk52_evm15s2309	induction by virus of catabolism of host mRNA
+616	GO:0039595	Nk52_evm1s511	induction by virus of catabolism of host mRNA
+617	GO:0039595	Nk52_evm23s216	induction by virus of catabolism of host mRNA
+618	GO:0039595	Nk52_evm82s745	induction by virus of catabolism of host mRNA
+619	GO:0039579	Nk52_evm14s2309	suppression by virus of host ISG15-protein conjugation
+620	GO:0039579	Nk52_evm15s2309	suppression by virus of host ISG15-protein conjugation
+621	GO:0039579	Nk52_evm1s511	suppression by virus of host ISG15-protein conjugation
+622	GO:0039579	Nk52_evm23s216	suppression by virus of host ISG15-protein conjugation
+623	GO:0039579	Nk52_evm82s745	suppression by virus of host ISG15-protein conjugation
+624	GO:0039520	Nk52_evm14s2309	induction by virus of host autophagy
+625	GO:0039520	Nk52_evm15s2309	induction by virus of host autophagy
+626	GO:0039520	Nk52_evm1s511	induction by virus of host autophagy
+627	GO:0039520	Nk52_evm23s216	induction by virus of host autophagy
+628	GO:0039520	Nk52_evm82s745	induction by virus of host autophagy
+629	GO:0039502	Nk52_evm14s2309	suppression by virus of host type I interferon-mediated signaling pathway
+630	GO:0039502	Nk52_evm15s2309	suppression by virus of host type I interferon-mediated signaling pathway
+631	GO:0039502	Nk52_evm1s511	suppression by virus of host type I interferon-mediated signaling pathway
+632	GO:0039502	Nk52_evm23s216	suppression by virus of host type I interferon-mediated signaling pathway
+633	GO:0039502	Nk52_evm82s745	suppression by virus of host type I interferon-mediated signaling pathway
+634	GO:0039644	Nk52_evm14s2309	suppression by virus of host NF-kappaB cascade
+635	GO:0039644	Nk52_evm15s2309	suppression by virus of host NF-kappaB cascade
+636	GO:0039644	Nk52_evm1s511	suppression by virus of host NF-kappaB cascade
+637	GO:0039644	Nk52_evm23s216	suppression by virus of host NF-kappaB cascade
+638	GO:0021533	Nk52_evm16s1129	cell differentiation in hindbrain
+639	GO:0021533	Nk52_evm18s2630	cell differentiation in hindbrain
+640	GO:0021533	Nk52_evm18s745	cell differentiation in hindbrain
+641	GO:0021533	Nk52_evm9s1020	cell differentiation in hindbrain
+642	GO:0039648	Nk52_evm14s2309	modulation by symbiont of host protein ubiquitination
+643	GO:0039648	Nk52_evm15s2309	modulation by symbiont of host protein ubiquitination
+644	GO:0039648	Nk52_evm1s511	modulation by symbiont of host protein ubiquitination
+645	GO:0039648	Nk52_evm23s216	modulation by symbiont of host protein ubiquitination
+646	GO:0039648	Nk52_evm82s745	modulation by symbiont of host protein ubiquitination
+647	GO:0019082	Nk52_evm14s2309	viral protein processing
+648	GO:0019082	Nk52_evm15s2309	viral protein processing
+649	GO:0019082	Nk52_evm1s511	viral protein processing
+650	GO:0019082	Nk52_evm23s216	viral protein processing
+651	GO:0019082	Nk52_evm82s745	viral protein processing
+652	GO:0006325	Nk52_evm10s327	chromatin organization
+653	GO:0006325	Nk52_evm10s559	chromatin organization
+654	GO:0006325	Nk52_evm11s1400	chromatin organization
+655	GO:0006325	Nk52_evm121s226	chromatin organization
+656	GO:0006325	Nk52_evm13s227	chromatin organization
+657	GO:0006325	Nk52_evm17s2657	chromatin organization
+658	GO:0006325	Nk52_evm1s1020	chromatin organization
+659	GO:0006325	Nk52_evm1s1211	chromatin organization
+660	GO:0006325	Nk52_evm1s1223	chromatin organization
+661	GO:0006325	Nk52_evm1s164	chromatin organization
+662	GO:0006325	Nk52_evm1s2343	chromatin organization
+663	GO:0006325	Nk52_evm1s2536	chromatin organization
+664	GO:0006325	Nk52_evm1s2644	chromatin organization
+665	GO:0006325	Nk52_evm1s280	chromatin organization
+666	GO:0006325	Nk52_evm1s559	chromatin organization
+667	GO:0006325	Nk52_evm20s311	chromatin organization
+668	GO:0006325	Nk52_evm21s621	chromatin organization
+669	GO:0006325	Nk52_evm21s78	chromatin organization
+670	GO:0006325	Nk52_evm22s238	chromatin organization
+671	GO:0006325	Nk52_evm23s1671	chromatin organization
+672	GO:0006325	Nk52_evm23s311	chromatin organization
+673	GO:0006325	Nk52_evm23s967	chromatin organization
+674	GO:0006325	Nk52_evm24s2309	chromatin organization
+675	GO:0006325	Nk52_evm28s1401	chromatin organization
+676	GO:0006325	Nk52_evm2s393	chromatin organization
+677	GO:0006325	Nk52_evm35s210	chromatin organization
+678	GO:0006325	Nk52_evm37s78	chromatin organization
+679	GO:0006325	Nk52_evm3s228	chromatin organization
+680	GO:0006325	Nk52_evm3s383	chromatin organization
+681	GO:0006325	Nk52_evm42s1705	chromatin organization
+682	GO:0006325	Nk52_evm43s242	chromatin organization
+683	GO:0006325	Nk52_evm46s158	chromatin organization
+684	GO:0006325	Nk52_evm4s212	chromatin organization
+685	GO:0006325	Nk52_evm57s485	chromatin organization
+686	GO:0006325	Nk52_evm58s215	chromatin organization
+687	GO:0006325	Nk52_evm59s2657	chromatin organization
+688	GO:0006325	Nk52_evm5s330	chromatin organization
+689	GO:0006325	Nk52_evm65s1020	chromatin organization
+690	GO:0006325	Nk52_evm6s2604	chromatin organization
+691	GO:0006325	Nk52_evm6s296	chromatin organization
+692	GO:0006325	Nk52_evm7s2630	chromatin organization
+693	GO:0006325	Nk52_evm7s490	chromatin organization
+694	GO:0006325	Nk52_evm98s217	chromatin organization
+695	GO:0006325	Nk52_evm98s2192	chromatin organization
+696	GO:0001654	Nk52_evm10s207	eye development
+697	GO:0001654	Nk52_evm11s710	eye development
+698	GO:0001654	Nk52_evm14s442	eye development
+699	GO:0001654	Nk52_evm16s317	eye development
+700	GO:0001654	Nk52_evm19s239	eye development
+701	GO:0001654	Nk52_evm20s284	eye development
+702	GO:0001654	Nk52_evm23s1671	eye development
+703	GO:0001654	Nk52_evm26s230	eye development
+704	GO:0001654	Nk52_evm28s78	eye development
+705	GO:0001654	Nk52_evm2s2340	eye development
+706	GO:0001654	Nk52_evm2s683	eye development
+707	GO:0001654	Nk52_evm34s1810	eye development
+708	GO:0001654	Nk52_evm35s210	eye development
+709	GO:0001654	Nk52_evm39s621	eye development
+710	GO:0001654	Nk52_evm3s343	eye development
+711	GO:0001654	Nk52_evm46s221	eye development
+712	GO:0001654	Nk52_evm49s32	eye development
+713	GO:0001654	Nk52_evm4s248	eye development
+714	GO:0001654	Nk52_evm54s1992	eye development
+715	GO:0001654	Nk52_evm5s374	eye development
+716	GO:0001654	Nk52_evm6s223	eye development
+717	GO:0001654	Nk52_evm77s223	eye development
+718	GO:0001654	Nk52_evm9s208	eye development
+719	GO:0001654	Nk52_evm9s2085	eye development
+720	GO:0001654	Nk52_evm9s239	eye development
+721	GO:0001654	Nk52_evm9s327	eye development
+722	GO:0007507	Nk52_evm104s352	heart development
+723	GO:0007507	Nk52_evm10s106	heart development
+724	GO:0007507	Nk52_evm121s352	heart development
+725	GO:0007507	Nk52_evm20s284	heart development
+726	GO:0007507	Nk52_evm23s242	heart development
+727	GO:0007507	Nk52_evm23s243	heart development
+728	GO:0007507	Nk52_evm24s1360	heart development
+729	GO:0007507	Nk52_evm25s621	heart development
+730	GO:0007507	Nk52_evm26s230	heart development
+731	GO:0007507	Nk52_evm28s485	heart development
+732	GO:0007507	Nk52_evm28s78	heart development
+733	GO:0007507	Nk52_evm2s291	heart development
+734	GO:0007507	Nk52_evm35s1129	heart development
+735	GO:0007507	Nk52_evm35s210	heart development
+736	GO:0007507	Nk52_evm35s294	heart development
+737	GO:0007507	Nk52_evm38s292	heart development
+738	GO:0007507	Nk52_evm39s621	heart development
+739	GO:0007507	Nk52_evm3s343	heart development
+740	GO:0007507	Nk52_evm46s221	heart development
+741	GO:0007507	Nk52_evm49s32	heart development
+742	GO:0007507	Nk52_evm53s240	heart development
+743	GO:0007507	Nk52_evm54s1992	heart development
+744	GO:0007507	Nk52_evm5s1178	heart development
+745	GO:0007507	Nk52_evm5s169	heart development
+746	GO:0007507	Nk52_evm5s352	heart development
+747	GO:0007507	Nk52_evm64s343	heart development
+748	GO:0007507	Nk52_evm76s230	heart development
+749	GO:0007507	Nk52_evm80s2367	heart development
+750	GO:0007507	Nk52_evm8s378	heart development
+751	GO:0007507	Nk52_evm90s2118	heart development
+752	GO:0007507	Nk52_evm92s1073	heart development
+753	GO:0007507	Nk52_evm98s2192	heart development
+754	GO:0007507	Nk52_evm98s226	heart development
+755	GO:0007507	Nk52_evm9s1569	heart development
+756	GO:0007507	Nk52_evm9s2085	heart development
+757	GO:0007507	Nk52_evm9s327	heart development
+758	GO:0055123	Nk52_evm104s352	digestive system development
+759	GO:0055123	Nk52_evm121s352	digestive system development
+760	GO:0055123	Nk52_evm24s1360	digestive system development
+761	GO:0055123	Nk52_evm25s621	digestive system development
+762	GO:0055123	Nk52_evm26s230	digestive system development
+763	GO:0055123	Nk52_evm28s485	digestive system development
+764	GO:0055123	Nk52_evm3s343	digestive system development
+765	GO:0055123	Nk52_evm54s1992	digestive system development
+766	GO:0055123	Nk52_evm5s169	digestive system development
+767	GO:0055123	Nk52_evm6s223	digestive system development
+768	GO:0055123	Nk52_evm90s2118	digestive system development
+769	GO:0090102	Nk52_evm46s221	cochlea development
+770	GO:0090102	Nk52_evm49s32	cochlea development
+771	GO:0090102	Nk52_evm64s343	cochlea development
+772	GO:0043922	Nk52_evm23s1671	negative regulation by host of viral transcription
+773	GO:0043922	Nk52_evm33s32	negative regulation by host of viral transcription
+774	GO:0043922	Nk52_evm53s1992	negative regulation by host of viral transcription
+775	GO:0003016	Nk52_evm17s2635	respiratory system process
+776	GO:0003016	Nk52_evm25s307	respiratory system process
+777	GO:0003016	Nk52_evm44s2039	respiratory system process
+778	GO:0003016	Nk52_evm49s248	respiratory system process
+779	GO:0003016	Nk52_evm9s1020	respiratory system process
+780	GO:0039657	Nk52_evm14s2309	suppression by virus of host gene expression
+781	GO:0039657	Nk52_evm15s2309	suppression by virus of host gene expression
+782	GO:0039657	Nk52_evm1s511	suppression by virus of host gene expression
+783	GO:0039657	Nk52_evm1s716	suppression by virus of host gene expression
+784	GO:0039657	Nk52_evm23s216	suppression by virus of host gene expression
+785	GO:0039657	Nk52_evm82s745	suppression by virus of host gene expression
+786	GO:0046329	Nk52_evm15s2118	negative regulation of JNK cascade
+787	GO:0046329	Nk52_evm37s78	negative regulation of JNK cascade
+788	GO:0046329	Nk52_evm3s357	negative regulation of JNK cascade
+789	GO:0046329	Nk52_evm9s153	negative regulation of JNK cascade
+790	GO:0098534	Nk52_evm14s352	centriole assembly
+791	GO:0098534	Nk52_evm15s1073	centriole assembly
+792	GO:0098534	Nk52_evm1s318	centriole assembly
+793	GO:0098534	Nk52_evm25s248	centriole assembly
+794	GO:0098534	Nk52_evm2s490	centriole assembly
+795	GO:0098534	Nk52_evm32s356	centriole assembly
+796	GO:0098534	Nk52_evm3s328	centriole assembly
+797	GO:0098534	Nk52_evm3s490	centriole assembly
+798	GO:0021591	Nk52_evm16s1129	ventricular system development
+799	GO:0021591	Nk52_evm17s2635	ventricular system development
+800	GO:0021591	Nk52_evm2s2578	ventricular system development
+801	GO:0021591	Nk52_evm46s221	ventricular system development
+802	GO:0021591	Nk52_evm58s2309	ventricular system development
+803	GO:0021591	Nk52_evm5s1178	ventricular system development
+804	GO:0030261	Nk52_evm16s621	chromosome condensation
+805	GO:0030261	Nk52_evm1s2536	chromosome condensation
+806	GO:0030261	Nk52_evm23s2133	chromosome condensation
+807	GO:0030261	Nk52_evm38s621	chromosome condensation
+808	GO:0030261	Nk52_evm54s359	chromosome condensation
+809	GO:0030261	Nk52_evm60s239	chromosome condensation
+810	GO:0030261	Nk52_evm62s2192	chromosome condensation
+811	GO:0048706	Nk52_evm25s621	embryonic skeletal system development
+812	GO:0048706	Nk52_evm26s230	embryonic skeletal system development
+813	GO:0048706	Nk52_evm35s1129	embryonic skeletal system development
+814	GO:0048706	Nk52_evm36s208	embryonic skeletal system development
+815	GO:0048706	Nk52_evm6s223	embryonic skeletal system development
+816	GO:0048706	Nk52_evm80s2367	embryonic skeletal system development
+817	GO:0048706	Nk52_evm85s352	embryonic skeletal system development
+818	GO:0048706	Nk52_evm9s327	embryonic skeletal system development
+819	GO:0060541	Nk52_evm104s352	respiratory system development
+820	GO:0060541	Nk52_evm121s352	respiratory system development
+821	GO:0060541	Nk52_evm23s242	respiratory system development
+822	GO:0060541	Nk52_evm24s1360	respiratory system development
+823	GO:0060541	Nk52_evm26s230	respiratory system development
+824	GO:0060541	Nk52_evm29s226	respiratory system development
+825	GO:0060541	Nk52_evm2s2578	respiratory system development
+826	GO:0060541	Nk52_evm46s221	respiratory system development
+827	GO:0060541	Nk52_evm49s248	respiratory system development
+828	GO:0060541	Nk52_evm49s32	respiratory system development
+829	GO:0060541	Nk52_evm4s1400	respiratory system development
+830	GO:0060541	Nk52_evm77s223	respiratory system development
+831	GO:0060541	Nk52_evm90s2118	respiratory system development
+832	GO:0060541	Nk52_evm98s2192	respiratory system development
+833	GO:0060541	Nk52_evm9s208	respiratory system development
+834	GO:0051654	Nk52_evm12s294	establishment of mitochondrion localization
+835	GO:0051654	Nk52_evm15s1400	establishment of mitochondrion localization
+836	GO:0051654	Nk52_evm1s1532	establishment of mitochondrion localization
+837	GO:0051654	Nk52_evm1s2020	establishment of mitochondrion localization
+838	GO:0051654	Nk52_evm31s745	establishment of mitochondrion localization
+839	GO:0051654	Nk52_evm9s208	establishment of mitochondrion localization
+840	GO:0051654	Nk52_evm9s2657	establishment of mitochondrion localization
+841	GO:0009953	Nk52_evm12s301	dorsal/ventral pattern formation
+842	GO:0009953	Nk52_evm16s1129	dorsal/ventral pattern formation
+843	GO:0009953	Nk52_evm26s230	dorsal/ventral pattern formation
+844	GO:0009953	Nk52_evm35s1129	dorsal/ventral pattern formation
+845	GO:0009953	Nk52_evm35s294	dorsal/ventral pattern formation
+846	GO:0009953	Nk52_evm3s343	dorsal/ventral pattern formation
+847	GO:0009953	Nk52_evm49s32	dorsal/ventral pattern formation
+848	GO:0009953	Nk52_evm6s223	dorsal/ventral pattern formation
+849	GO:0009953	Nk52_evm98s226	dorsal/ventral pattern formation
+850	GO:0009953	Nk52_evm9s153	dorsal/ventral pattern formation
+851	GO:0009953	Nk52_evm9s2085	dorsal/ventral pattern formation
+852	GO:0051781	Nk52_evm19s2011	positive regulation of cell division
+853	GO:0051781	Nk52_evm21s559	positive regulation of cell division
+854	GO:0051781	Nk52_evm26s230	positive regulation of cell division
+855	GO:0051781	Nk52_evm80s217	positive regulation of cell division
+856	GO:0051781	Nk52_evm8s62	positive regulation of cell division
+857	GO:0090370	Nk52_evm12s442	negative regulation of cholesterol efflux
+858	GO:0090370	Nk52_evm26s230	negative regulation of cholesterol efflux
+859	GO:0090370	Nk52_evm3s1401	negative regulation of cholesterol efflux
+860	GO:0010226	Nk52_evm20s284	response to lithium ion
+861	GO:0010226	Nk52_evm26s230	response to lithium ion
+862	GO:0010226	Nk52_evm57s207	response to lithium ion
+863	GO:0043583	Nk52_evm17s2635	ear development
+864	GO:0043583	Nk52_evm20s284	ear development
+865	GO:0043583	Nk52_evm23s243	ear development
+866	GO:0043583	Nk52_evm26s230	ear development
+867	GO:0043583	Nk52_evm35s1129	ear development
+868	GO:0043583	Nk52_evm46s221	ear development
+869	GO:0043583	Nk52_evm49s32	ear development
+870	GO:0043583	Nk52_evm54s1992	ear development
+871	GO:0043583	Nk52_evm64s343	ear development
+872	GO:0043583	Nk52_evm6s223	ear development
+873	GO:0043583	Nk52_evm77s223	ear development
+874	GO:0043583	Nk52_evm98s226	ear development
+875	GO:0090162	Nk52_evm16s317	establishment of epithelial cell polarity
+876	GO:0090162	Nk52_evm17s2635	establishment of epithelial cell polarity
+877	GO:0090162	Nk52_evm26s230	establishment of epithelial cell polarity
+878	GO:0090162	Nk52_evm64s343	establishment of epithelial cell polarity
+879	GO:0090162	Nk52_evm90s2118	establishment of epithelial cell polarity
+880	GO:0090162	Nk52_evm9s208	establishment of epithelial cell polarity
+881	GO:0001822	Nk52_evm114s226	kidney development
+882	GO:0001822	Nk52_evm12s301	kidney development
+883	GO:0001822	Nk52_evm1s919	kidney development
+884	GO:0001822	Nk52_evm23s242	kidney development
+885	GO:0001822	Nk52_evm26s230	kidney development
+886	GO:0001822	Nk52_evm28s78	kidney development
+887	GO:0001822	Nk52_evm39s621	kidney development
+888	GO:0001822	Nk52_evm46s221	kidney development
+889	GO:0001822	Nk52_evm49s32	kidney development
+890	GO:0001822	Nk52_evm51s2579	kidney development
+891	GO:0001822	Nk52_evm54s1992	kidney development
+892	GO:0001822	Nk52_evm5s268	kidney development
+893	GO:0001822	Nk52_evm64s343	kidney development
+894	GO:0001822	Nk52_evm76s230	kidney development
+895	GO:0001822	Nk52_evm77s223	kidney development
+896	GO:0001822	Nk52_evm90s2118	kidney development
+897	GO:0001822	Nk52_evm98s226	kidney development
+898	GO:0048534	Nk52_evm26s230	hematopoietic or lymphoid organ development
+899	GO:0048534	Nk52_evm36s208	hematopoietic or lymphoid organ development
+900	GO:0048534	Nk52_evm37s153	hematopoietic or lymphoid organ development
+901	GO:0048534	Nk52_evm65s223	hematopoietic or lymphoid organ development
+902	GO:0048534	Nk52_evm85s352	hematopoietic or lymphoid organ development
+903	GO:1903053	Nk52_evm1s1214	regulation of extracellular matrix organization
+904	GO:1903053	Nk52_evm20s348	regulation of extracellular matrix organization
+905	GO:1903053	Nk52_evm24s2309	regulation of extracellular matrix organization
+906	GO:1903053	Nk52_evm3s216	regulation of extracellular matrix organization
+907	GO:1903053	Nk52_evm5s649	regulation of extracellular matrix organization
+908	GO:1903053	Nk52_evm64s352	regulation of extracellular matrix organization
+909	GO:1903053	Nk52_evm8s426	regulation of extracellular matrix organization
+910	GO:0060765	Nk52_evm23s1671	regulation of androgen receptor signaling pathway
+911	GO:0060765	Nk52_evm37s78	regulation of androgen receptor signaling pathway
+912	GO:0060765	Nk52_evm58s215	regulation of androgen receptor signaling pathway
+913	GO:0060765	Nk52_evm98s2192	regulation of androgen receptor signaling pathway
+914	GO:1990403	Nk52_evm28s78	embryonic brain development
+915	GO:1990403	Nk52_evm2s291	embryonic brain development
+916	GO:1990403	Nk52_evm35s1129	embryonic brain development
+917	GO:1990403	Nk52_evm9s327	embryonic brain development
+918	GO:0032222	Nk52_evm18s2630	regulation of synaptic transmission, cholinergic
+919	GO:0032222	Nk52_evm20s348	regulation of synaptic transmission, cholinergic
+920	GO:0032222	Nk52_evm5s649	regulation of synaptic transmission, cholinergic
+921	GO:0032222	Nk52_evm64s352	regulation of synaptic transmission, cholinergic
+922	GO:2001046	Nk52_evm20s348	positive regulation of integrin-mediated signaling pathway
+923	GO:2001046	Nk52_evm24s2309	positive regulation of integrin-mediated signaling pathway
+924	GO:2001046	Nk52_evm5s649	positive regulation of integrin-mediated signaling pathway
+925	GO:2001046	Nk52_evm64s352	positive regulation of integrin-mediated signaling pathway
+926	GO:0032655	Nk52_evm33s255	regulation of interleukin-12 production
+927	GO:0032655	Nk52_evm48s1401	regulation of interleukin-12 production
+928	GO:0032655	Nk52_evm4s352	regulation of interleukin-12 production
+929	GO:0032655	Nk52_evm57s1073	regulation of interleukin-12 production
+930	GO:0030155	Nk52_evm104s352	regulation of cell adhesion
+931	GO:0030155	Nk52_evm1s1038	regulation of cell adhesion
+932	GO:0030155	Nk52_evm1s1214	regulation of cell adhesion
+933	GO:0030155	Nk52_evm20s348	regulation of cell adhesion
+934	GO:0030155	Nk52_evm24s2309	regulation of cell adhesion
+935	GO:0030155	Nk52_evm26s230	regulation of cell adhesion
+936	GO:0030155	Nk52_evm29s628	regulation of cell adhesion
+937	GO:0030155	Nk52_evm33s2579	regulation of cell adhesion
+938	GO:0030155	Nk52_evm34s1810	regulation of cell adhesion
+939	GO:0030155	Nk52_evm3s216	regulation of cell adhesion
+940	GO:0030155	Nk52_evm53s240	regulation of cell adhesion
+941	GO:0030155	Nk52_evm5s649	regulation of cell adhesion
+942	GO:0030155	Nk52_evm64s352	regulation of cell adhesion
+943	GO:0030155	Nk52_evm65s270	regulation of cell adhesion
+944	GO:0030155	Nk52_evm6s296	regulation of cell adhesion
+945	GO:0030155	Nk52_evm8s367	regulation of cell adhesion
+946	GO:0030155	Nk52_evm8s426	regulation of cell adhesion
+947	GO:0030155	Nk52_evm90s2118	regulation of cell adhesion
+948	GO:0010717	Nk52_evm1s1214	regulation of epithelial to mesenchymal transition
+949	GO:0010717	Nk52_evm1s1532	regulation of epithelial to mesenchymal transition
+950	GO:0010717	Nk52_evm31s745	regulation of epithelial to mesenchymal transition
+951	GO:0010717	Nk52_evm3s216	regulation of epithelial to mesenchymal transition
+952	GO:0010717	Nk52_evm8s426	regulation of epithelial to mesenchymal transition
+953	GO:0010717	Nk52_evm9s2657	regulation of epithelial to mesenchymal transition
+954	GO:0009612	Nk52_evm17s207	response to mechanical stimulus
+955	GO:0009612	Nk52_evm17s684	response to mechanical stimulus
+956	GO:0009612	Nk52_evm18s745	response to mechanical stimulus
+957	GO:0009612	Nk52_evm4s304	response to mechanical stimulus
+958	GO:0009612	Nk52_evm57s1073	response to mechanical stimulus
+959	GO:0009612	Nk52_evm6s1400	response to mechanical stimulus
+960	GO:0009612	Nk52_evm90s2118	response to mechanical stimulus
+961	GO:0060070	Nk52_evm10s106	canonical Wnt signaling pathway
+962	GO:0060070	Nk52_evm16s1129	canonical Wnt signaling pathway
+963	GO:0060070	Nk52_evm22s1569	canonical Wnt signaling pathway
+964	GO:0060070	Nk52_evm23s1671	canonical Wnt signaling pathway
+965	GO:0060070	Nk52_evm25s621	canonical Wnt signaling pathway
+966	GO:0060070	Nk52_evm26s230	canonical Wnt signaling pathway
+967	GO:0060070	Nk52_evm33s2579	canonical Wnt signaling pathway
+968	GO:0060070	Nk52_evm35s1129	canonical Wnt signaling pathway
+969	GO:0060070	Nk52_evm4s210	canonical Wnt signaling pathway
+970	GO:0060070	Nk52_evm57s1073	canonical Wnt signaling pathway
+971	GO:0060070	Nk52_evm64s343	canonical Wnt signaling pathway
+972	GO:0048705	Nk52_evm14s745	skeletal system morphogenesis
+973	GO:0048705	Nk52_evm17s228	skeletal system morphogenesis
+974	GO:0048705	Nk52_evm25s621	skeletal system morphogenesis
+975	GO:0048705	Nk52_evm29s296	skeletal system morphogenesis
+976	GO:0048705	Nk52_evm36s208	skeletal system morphogenesis
+977	GO:0048705	Nk52_evm6s223	skeletal system morphogenesis
+978	GO:0048705	Nk52_evm80s2367	skeletal system morphogenesis
+979	GO:0048705	Nk52_evm85s352	skeletal system morphogenesis
+980	GO:0048705	Nk52_evm90s2118	skeletal system morphogenesis
+981	GO:0048705	Nk52_evm9s327	skeletal system morphogenesis
+982	GO:0031016	Nk52_evm121s352	pancreas development
+983	GO:0031016	Nk52_evm24s1360	pancreas development
+984	GO:0031016	Nk52_evm26s230	pancreas development
+985	GO:0031016	Nk52_evm49s32	pancreas development
+986	GO:0031016	Nk52_evm5s169	pancreas development
+987	GO:0050829	Nk52_evm10s311	defense response to Gram-negative bacterium
+988	GO:0050829	Nk52_evm2s261	defense response to Gram-negative bacterium
+989	GO:0050829	Nk52_evm32s224	defense response to Gram-negative bacterium
+990	GO:0050829	Nk52_evm80s221	defense response to Gram-negative bacterium
+991	GO:0050829	Nk52_evm8s378	defense response to Gram-negative bacterium
+992	GO:0031333	Nk52_evm17s2657	negative regulation of protein-containing complex assembly
+993	GO:0031333	Nk52_evm18s745	negative regulation of protein-containing complex assembly
+994	GO:0031333	Nk52_evm1s2343	negative regulation of protein-containing complex assembly
+995	GO:0031333	Nk52_evm3s331	negative regulation of protein-containing complex assembly
+996	GO:0031333	Nk52_evm48s1401	negative regulation of protein-containing complex assembly
+997	GO:0031333	Nk52_evm5s268	negative regulation of protein-containing complex assembly
+998	GO:0031333	Nk52_evm98s2192	negative regulation of protein-containing complex assembly
+999	GO:0031333	Nk52_evm9s153	negative regulation of protein-containing complex assembly
+1000	GO:0198738	Nk52_evm10s106	cell-cell signaling by wnt
+1001	GO:0198738	Nk52_evm13s226	cell-cell signaling by wnt
+1002	GO:0198738	Nk52_evm16s1129	cell-cell signaling by wnt
+1003	GO:0198738	Nk52_evm17s228	cell-cell signaling by wnt
+1004	GO:0198738	Nk52_evm1s1532	cell-cell signaling by wnt
+1005	GO:0198738	Nk52_evm22s1569	cell-cell signaling by wnt
+1006	GO:0198738	Nk52_evm23s1671	cell-cell signaling by wnt
+1007	GO:0198738	Nk52_evm23s242	cell-cell signaling by wnt
+1008	GO:0198738	Nk52_evm25s621	cell-cell signaling by wnt
+1009	GO:0198738	Nk52_evm26s230	cell-cell signaling by wnt
+1010	GO:0198738	Nk52_evm31s745	cell-cell signaling by wnt
+1011	GO:0198738	Nk52_evm33s2579	cell-cell signaling by wnt
+1012	GO:0198738	Nk52_evm35s1129	cell-cell signaling by wnt
+1013	GO:0198738	Nk52_evm36s229	cell-cell signaling by wnt
+1014	GO:0198738	Nk52_evm41s1569	cell-cell signaling by wnt
+1015	GO:0198738	Nk52_evm4s210	cell-cell signaling by wnt
+1016	GO:0198738	Nk52_evm4s304	cell-cell signaling by wnt
+1017	GO:0198738	Nk52_evm57s1073	cell-cell signaling by wnt
+1018	GO:0198738	Nk52_evm64s343	cell-cell signaling by wnt
+1019	GO:0198738	Nk52_evm90s2118	cell-cell signaling by wnt
+1020	GO:0198738	Nk52_evm9s2657	cell-cell signaling by wnt
+1021	GO:0018393	Nk52_evm13s227	internal peptidyl-lysine acetylation
+1022	GO:0018393	Nk52_evm6s1400	internal peptidyl-lysine acetylation
+1023	GO:0018393	Nk52_evm6s296	internal peptidyl-lysine acetylation
+1024	GO:0018393	Nk52_evm98s217	internal peptidyl-lysine acetylation
+1025	GO:0018393	Nk52_evm98s2192	internal peptidyl-lysine acetylation
+1026	GO:0014037	Nk52_evm20s348	Schwann cell differentiation
+1027	GO:0014037	Nk52_evm5s649	Schwann cell differentiation
+1028	GO:0014037	Nk52_evm64s352	Schwann cell differentiation
+1029	GO:1904028	Nk52_evm1s1214	positive regulation of collagen fibril organization
+1030	GO:1904028	Nk52_evm3s216	positive regulation of collagen fibril organization
+1031	GO:1904028	Nk52_evm8s426	positive regulation of collagen fibril organization
+1032	GO:1900748	Nk52_evm1s1214	positive regulation of vascular endothelial growth factor signaling pathway
+1033	GO:1900748	Nk52_evm3s216	positive regulation of vascular endothelial growth factor signaling pathway
+1034	GO:1900748	Nk52_evm8s426	positive regulation of vascular endothelial growth factor signaling pathway
+1035	GO:1905935	Nk52_evm1s1214	positive regulation of cell fate determination
+1036	GO:1905935	Nk52_evm3s216	positive regulation of cell fate determination
+1037	GO:1905935	Nk52_evm8s426	positive regulation of cell fate determination
+1038	GO:0032715	Nk52_evm3s331	negative regulation of interleukin-6 production
+1039	GO:0032715	Nk52_evm48s1401	negative regulation of interleukin-6 production
+1040	GO:0032715	Nk52_evm6s261	negative regulation of interleukin-6 production
+1041	GO:0048251	Nk52_evm1s1214	elastic fiber assembly
+1042	GO:0048251	Nk52_evm3s216	elastic fiber assembly
+1043	GO:0048251	Nk52_evm8s426	elastic fiber assembly
+1044	GO:1901390	Nk52_evm1s1214	positive regulation of transforming growth factor beta activation
+1045	GO:1901390	Nk52_evm3s216	positive regulation of transforming growth factor beta activation
+1046	GO:1901390	Nk52_evm8s426	positive regulation of transforming growth factor beta activation
+1047	GO:0046426	Nk52_evm43s242	negative regulation of receptor signaling pathway via JAK-STAT
+1048	GO:0046426	Nk52_evm4s352	negative regulation of receptor signaling pathway via JAK-STAT
+1049	GO:0046426	Nk52_evm65s223	negative regulation of receptor signaling pathway via JAK-STAT
+1050	GO:0048714	Nk52_evm23s1671	positive regulation of oligodendrocyte differentiation
+1051	GO:0048714	Nk52_evm26s230	positive regulation of oligodendrocyte differentiation
+1052	GO:0048714	Nk52_evm92s1073	positive regulation of oligodendrocyte differentiation
+1053	GO:0060323	Nk52_evm14s745	head morphogenesis
+1054	GO:0060323	Nk52_evm36s208	head morphogenesis
+1055	GO:0060323	Nk52_evm85s352	head morphogenesis
+1056	GO:0060323	Nk52_evm98s2192	head morphogenesis
+1057	GO:0010753	Nk52_evm14s153	positive regulation of cGMP-mediated signaling
+1058	GO:0010753	Nk52_evm16s48	positive regulation of cGMP-mediated signaling
+1059	GO:0010753	Nk52_evm36s1763	positive regulation of cGMP-mediated signaling
+1060	GO:0010753	Nk52_evm36s212	positive regulation of cGMP-mediated signaling
+1061	GO:0030511	Nk52_evm1s1214	positive regulation of transforming growth factor beta receptor signaling pathway
+1062	GO:0030511	Nk52_evm3s216	positive regulation of transforming growth factor beta receptor signaling pathway
+1063	GO:0030511	Nk52_evm8s426	positive regulation of transforming growth factor beta receptor signaling pathway
+1064	GO:0030511	Nk52_evm98s2192	positive regulation of transforming growth factor beta receptor signaling pathway
+1065	GO:1900225	Nk52_evm32s232	regulation of NLRP3 inflammasome complex assembly
+1066	GO:1900225	Nk52_evm3s331	regulation of NLRP3 inflammasome complex assembly
+1067	GO:1900225	Nk52_evm48s1401	regulation of NLRP3 inflammasome complex assembly
+1068	GO:1900225	Nk52_evm6s1400	regulation of NLRP3 inflammasome complex assembly
+1069	GO:0021522	Nk52_evm18s2630	spinal cord motor neuron differentiation
+1070	GO:0021522	Nk52_evm26s230	spinal cord motor neuron differentiation
+1071	GO:0021522	Nk52_evm3s343	spinal cord motor neuron differentiation
+1072	GO:0021522	Nk52_evm5s169	spinal cord motor neuron differentiation
+1073	GO:0039008	Nk52_evm12s301	pronephric nephron tubule morphogenesis
+1074	GO:0039008	Nk52_evm51s2579	pronephric nephron tubule morphogenesis
+1075	GO:0039008	Nk52_evm54s1992	pronephric nephron tubule morphogenesis
+1076	GO:0010193	Nk52_evm14s248	response to ozone
+1077	GO:0010193	Nk52_evm28s279	response to ozone
+1078	GO:0010288	Nk52_evm28s292	response to lead ion
+1079	GO:0010288	Nk52_evm65s152	response to lead ion
+1080	GO:0070434	Nk52_evm48s1992	positive regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway
+1081	GO:0070434	Nk52_evm4s218	positive regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway
+1082	GO:0042074	Nk52_evm104s352	cell migration involved in gastrulation
+1083	GO:0042074	Nk52_evm9s77	cell migration involved in gastrulation
+1084	GO:0042481	Nk52_evm26s230	regulation of odontogenesis
+1085	GO:0042481	Nk52_evm49s32	regulation of odontogenesis
+1086	GO:0055093	Nk52_evm2s261	response to hyperoxia
+1087	GO:0055093	Nk52_evm80s221	response to hyperoxia
+1088	GO:0072196	Nk52_evm12s301	proximal/distal pattern formation involved in pronephric nephron development
+1089	GO:0072196	Nk52_evm51s2579	proximal/distal pattern formation involved in pronephric nephron development
+1090	GO:0036334	Nk52_evm49s32	epidermal stem cell homeostasis
+1091	GO:0036334	Nk52_evm98s226	epidermal stem cell homeostasis
+1092	GO:0061198	Nk52_evm23s1671	fungiform papilla formation
+1093	GO:0061198	Nk52_evm26s230	fungiform papilla formation
+1094	GO:0042531	Nk52_evm1s163	positive regulation of tyrosine phosphorylation of STAT protein
+1095	GO:0042531	Nk52_evm4s352	positive regulation of tyrosine phosphorylation of STAT protein
+1096	GO:0061590	Nk52_evm17s684	calcium activated phosphatidylcholine scrambling
+1097	GO:0061590	Nk52_evm28s238	calcium activated phosphatidylcholine scrambling
+1098	GO:0061591	Nk52_evm17s684	calcium activated galactosylceramide scrambling
+1099	GO:0061591	Nk52_evm28s238	calcium activated galactosylceramide scrambling
+1100	GO:0060020	Nk52_evm16s1129	Bergmann glial cell differentiation
+1101	GO:0060020	Nk52_evm26s230	Bergmann glial cell differentiation
+1102	GO:0009454	Nk52_evm2s261	aerotaxis
+1103	GO:0009454	Nk52_evm80s221	aerotaxis
+1104	GO:0030334	Nk52_evm104s352	regulation of cell migration
+1105	GO:0030334	Nk52_evm13s16	regulation of cell migration
+1106	GO:0030334	Nk52_evm17s1569	regulation of cell migration
+1107	GO:0030334	Nk52_evm17s280	regulation of cell migration
+1108	GO:0030334	Nk52_evm1s1038	regulation of cell migration
+1109	GO:0030334	Nk52_evm1s1214	regulation of cell migration
+1110	GO:0030334	Nk52_evm20s284	regulation of cell migration
+1111	GO:0030334	Nk52_evm20s348	regulation of cell migration
+1112	GO:0030334	Nk52_evm26s230	regulation of cell migration
+1113	GO:0030334	Nk52_evm29s226	regulation of cell migration
+1114	GO:0030334	Nk52_evm2s2474	regulation of cell migration
+1115	GO:0030334	Nk52_evm2s322	regulation of cell migration
+1116	GO:0030334	Nk52_evm33s1524	regulation of cell migration
+1117	GO:0030334	Nk52_evm3s216	regulation of cell migration
+1118	GO:0030334	Nk52_evm3s228	regulation of cell migration
+1119	GO:0030334	Nk52_evm41s1569	regulation of cell migration
+1120	GO:0030334	Nk52_evm50s212	regulation of cell migration
+1121	GO:0030334	Nk52_evm55s359	regulation of cell migration
+1122	GO:0030334	Nk52_evm58s2309	regulation of cell migration
+1123	GO:0030334	Nk52_evm5s649	regulation of cell migration
+1124	GO:0030334	Nk52_evm64s352	regulation of cell migration
+1125	GO:0030334	Nk52_evm84s554	regulation of cell migration
+1126	GO:0030334	Nk52_evm8s426	regulation of cell migration
+1127	GO:0038061	Nk52_evm3s331	non-canonical NF-kappaB signal transduction
+1128	GO:0038061	Nk52_evm48s1401	non-canonical NF-kappaB signal transduction
+1129	GO:0038061	Nk52_evm57s1073	non-canonical NF-kappaB signal transduction
+1130	GO:0038061	Nk52_evm5s169	non-canonical NF-kappaB signal transduction
+1131	GO:0038061	Nk52_evm65s223	non-canonical NF-kappaB signal transduction
+1132	GO:0038061	Nk52_evm98s2192	non-canonical NF-kappaB signal transduction
+1133	GO:0008217	Nk52_evm14s153	regulation of blood pressure
+1134	GO:0008217	Nk52_evm20s234	regulation of blood pressure
+1135	GO:0008217	Nk52_evm36s212	regulation of blood pressure
+1136	GO:0008217	Nk52_evm4s248	regulation of blood pressure
+1137	GO:0008217	Nk52_evm5s1524	regulation of blood pressure
+1138	GO:0051642	Nk52_evm14s263	centrosome localization
+1139	GO:0051642	Nk52_evm47s2118	centrosome localization
+1140	GO:0051642	Nk52_evm4s495	centrosome localization
+1141	GO:0051642	Nk52_evm64s343	centrosome localization
+1142	GO:0051642	Nk52_evm9s208	centrosome localization
+1143	GO:0060122	Nk52_evm35s1129	inner ear receptor cell stereocilium organization
+1144	GO:0060122	Nk52_evm49s32	inner ear receptor cell stereocilium organization
+1145	GO:0060122	Nk52_evm64s343	inner ear receptor cell stereocilium organization
+1146	GO:0060122	Nk52_evm98s226	inner ear receptor cell stereocilium organization
+1147	GO:0048662	Nk52_evm14s153	negative regulation of smooth muscle cell proliferation
+1148	GO:0048662	Nk52_evm16s48	negative regulation of smooth muscle cell proliferation
+1149	GO:0048662	Nk52_evm20s284	negative regulation of smooth muscle cell proliferation
+1150	GO:0048662	Nk52_evm36s212	negative regulation of smooth muscle cell proliferation
+1151	GO:0001764	Nk52_evm104s352	neuron migration
+1152	GO:0001764	Nk52_evm1s1532	neuron migration
+1153	GO:0001764	Nk52_evm2s405	neuron migration
+1154	GO:0001764	Nk52_evm31s745	neuron migration
+1155	GO:0001764	Nk52_evm52s1444	neuron migration
+1156	GO:0001764	Nk52_evm58s2309	neuron migration
+1157	GO:0001764	Nk52_evm9s1569	neuron migration
+1158	GO:0001764	Nk52_evm9s2657	neuron migration
+1159	GO:0051101	Nk52_evm1s2343	regulation of DNA binding
+1160	GO:0051101	Nk52_evm33s32	regulation of DNA binding
+1161	GO:0051101	Nk52_evm53s1992	regulation of DNA binding
+1162	GO:0051101	Nk52_evm98s2192	regulation of DNA binding
+1163	GO:0035633	Nk52_evm20s348	maintenance of blood-brain barrier
+1164	GO:0035633	Nk52_evm5s649	maintenance of blood-brain barrier
+1165	GO:0035633	Nk52_evm64s352	maintenance of blood-brain barrier
+1166	GO:0019896	Nk52_evm12s294	axonal transport of mitochondrion
+1167	GO:0019896	Nk52_evm1s2020	axonal transport of mitochondrion
+1168	GO:0019896	Nk52_evm9s208	axonal transport of mitochondrion
+1169	GO:0042475	Nk52_evm14s745	odontogenesis of dentin-containing tooth
+1170	GO:0042475	Nk52_evm26s230	odontogenesis of dentin-containing tooth
+1171	GO:0042475	Nk52_evm49s32	odontogenesis of dentin-containing tooth
+1172	GO:0007214	Nk52_evm18s2630	gamma-aminobutyric acid signaling pathway
+1173	GO:0007214	Nk52_evm31s156	gamma-aminobutyric acid signaling pathway
+1174	GO:0007214	Nk52_evm60s217	gamma-aminobutyric acid signaling pathway
+1175	GO:0051571	Nk52_evm12s578	positive regulation of histone H3-K4 methylation
+1176	GO:0051571	Nk52_evm23s311	positive regulation of histone H3-K4 methylation
+1177	GO:0051571	Nk52_evm59s2657	positive regulation of histone H3-K4 methylation
+1178	GO:0043923	Nk52_evm33s32	positive regulation by host of viral transcription
+1179	GO:0043923	Nk52_evm53s1992	positive regulation by host of viral transcription
+1180	GO:0043923	Nk52_evm98s2192	positive regulation by host of viral transcription
+1181	GO:0051301	Nk52_evm10s1360	cell division
+1182	GO:0051301	Nk52_evm10s2171	cell division
+1183	GO:0051301	Nk52_evm10s303	cell division
+1184	GO:0051301	Nk52_evm11s229	cell division
+1185	GO:0051301	Nk52_evm11s296	cell division
+1186	GO:0051301	Nk52_evm12s1916	cell division
+1187	GO:0051301	Nk52_evm12s328	cell division
+1188	GO:0051301	Nk52_evm15s24	cell division
+1189	GO:0051301	Nk52_evm15s282	cell division
+1190	GO:0051301	Nk52_evm15s358	cell division
+1191	GO:0051301	Nk52_evm16s621	cell division
+1192	GO:0051301	Nk52_evm17s1178	cell division
+1193	GO:0051301	Nk52_evm17s2635	cell division
+1194	GO:0051301	Nk52_evm19s2011	cell division
+1195	GO:0051301	Nk52_evm1s1020	cell division
+1196	GO:0051301	Nk52_evm1s150	cell division
+1197	GO:0051301	Nk52_evm1s284	cell division
+1198	GO:0051301	Nk52_evm1s757	cell division
+1199	GO:0051301	Nk52_evm20s311	cell division
+1200	GO:0051301	Nk52_evm21s250	cell division
+1201	GO:0051301	Nk52_evm21s559	cell division
+1202	GO:0051301	Nk52_evm26s230	cell division
+1203	GO:0051301	Nk52_evm27s745	cell division
+1204	GO:0051301	Nk52_evm28s356	cell division
+1205	GO:0051301	Nk52_evm29s2612	cell division
+1206	GO:0051301	Nk52_evm29s554	cell division
+1207	GO:0051301	Nk52_evm2s1073	cell division
+1208	GO:0051301	Nk52_evm2s137	cell division
+1209	GO:0051301	Nk52_evm2s470	cell division
+1210	GO:0051301	Nk52_evm2s683	cell division
+1211	GO:0051301	Nk52_evm31s163	cell division
+1212	GO:0051301	Nk52_evm37s153	cell division
+1213	GO:0051301	Nk52_evm38s621	cell division
+1214	GO:0051301	Nk52_evm3s164	cell division
+1215	GO:0051301	Nk52_evm3s484	cell division
+1216	GO:0051301	Nk52_evm42s1524	cell division
+1217	GO:0051301	Nk52_evm46s158	cell division
+1218	GO:0051301	Nk52_evm47s2118	cell division
+1219	GO:0051301	Nk52_evm4s495	cell division
+1220	GO:0051301	Nk52_evm55s554	cell division
+1221	GO:0051301	Nk52_evm62s2192	cell division
+1222	GO:0051301	Nk52_evm6s2604	cell division
+1223	GO:0051301	Nk52_evm6s696	cell division
+1224	GO:0051301	Nk52_evm76s230	cell division
+1225	GO:0051301	Nk52_evm7s2340	cell division
+1226	GO:0051301	Nk52_evm80s217	cell division
+1227	GO:0051301	Nk52_evm80s2367	cell division
+1228	GO:0051301	Nk52_evm8s295	cell division
+1229	GO:0051301	Nk52_evm8s62	cell division
+1230	GO:0051301	Nk52_evm95s226	cell division
+1231	GO:0051301	Nk52_evm9s262	cell division
+1232	GO:1902075	Nk52_evm20s284	cellular response to salt
+1233	GO:1902075	Nk52_evm23s239	cellular response to salt
+1234	GO:1902075	Nk52_evm26s230	cellular response to salt
+1235	GO:1902075	Nk52_evm27s252	cellular response to salt
+1236	GO:1902075	Nk52_evm32s232	cellular response to salt
+1237	GO:1902075	Nk52_evm40s1810	cellular response to salt
+1238	GO:1902075	Nk52_evm4s304	cellular response to salt
+1239	GO:1902075	Nk52_evm57s1737	cellular response to salt
+1240	GO:1902075	Nk52_evm8s2085	cellular response to salt
+1241	GO:0045995	Nk52_evm20s311	regulation of embryonic development
+1242	GO:0045995	Nk52_evm20s348	regulation of embryonic development
+1243	GO:0045995	Nk52_evm57s485	regulation of embryonic development
+1244	GO:0045995	Nk52_evm59s2657	regulation of embryonic development
+1245	GO:0045995	Nk52_evm5s649	regulation of embryonic development
+1246	GO:0045995	Nk52_evm64s352	regulation of embryonic development
+1247	GO:0045995	Nk52_evm7s2630	regulation of embryonic development
+1248	GO:0045995	Nk52_evm92s1073	regulation of embryonic development
+1249	GO:0045995	Nk52_evm9s77	regulation of embryonic development
+1250	GO:1900182	Nk52_evm13s227	positive regulation of protein localization to nucleus
+1251	GO:1900182	Nk52_evm26s230	positive regulation of protein localization to nucleus
+1252	GO:1900182	Nk52_evm37s250	positive regulation of protein localization to nucleus
+1253	GO:1900182	Nk52_evm59s2657	positive regulation of protein localization to nucleus
+1254	GO:1900182	Nk52_evm98s2192	positive regulation of protein localization to nucleus
+1255	GO:0042048	Nk52_evm16s317	olfactory behavior
+1256	GO:0042048	Nk52_evm24s490	olfactory behavior
+1257	GO:0042048	Nk52_evm36s1763	olfactory behavior
+1258	GO:0042048	Nk52_evm36s229	olfactory behavior
+1259	GO:0007059	Nk52_evm10s223	chromosome segregation
+1260	GO:0007059	Nk52_evm10s327	chromosome segregation
+1261	GO:0007059	Nk52_evm11s296	chromosome segregation
+1262	GO:0007059	Nk52_evm12s328	chromosome segregation
+1263	GO:0007059	Nk52_evm15s24	chromosome segregation
+1264	GO:0007059	Nk52_evm16s621	chromosome segregation
+1265	GO:0007059	Nk52_evm1s1030	chromosome segregation
+1266	GO:0007059	Nk52_evm1s150	chromosome segregation
+1267	GO:0007059	Nk52_evm1s284	chromosome segregation
+1268	GO:0007059	Nk52_evm21s250	chromosome segregation
+1269	GO:0007059	Nk52_evm21s559	chromosome segregation
+1270	GO:0007059	Nk52_evm22s238	chromosome segregation
+1271	GO:0007059	Nk52_evm25s248	chromosome segregation
+1272	GO:0007059	Nk52_evm28s356	chromosome segregation
+1273	GO:0007059	Nk52_evm29s2531	chromosome segregation
+1274	GO:0007059	Nk52_evm29s2612	chromosome segregation
+1275	GO:0007059	Nk52_evm2s1073	chromosome segregation
+1276	GO:0007059	Nk52_evm2s393	chromosome segregation
+1277	GO:0007059	Nk52_evm32s232	chromosome segregation
+1278	GO:0007059	Nk52_evm37s78	chromosome segregation
+1279	GO:0007059	Nk52_evm38s621	chromosome segregation
+1280	GO:0007059	Nk52_evm46s158	chromosome segregation
+1281	GO:0007059	Nk52_evm47s2118	chromosome segregation
+1282	GO:0007059	Nk52_evm4s352	chromosome segregation
+1283	GO:0007059	Nk52_evm52s224	chromosome segregation
+1284	GO:0007059	Nk52_evm60s239	chromosome segregation
+1285	GO:0007059	Nk52_evm65s152	chromosome segregation
+1286	GO:0007059	Nk52_evm80s2367	chromosome segregation
+1287	GO:0007059	Nk52_evm8s295	chromosome segregation
+1288	GO:0007059	Nk52_evm8s62	chromosome segregation
+1289	GO:0007059	Nk52_evm9s208	chromosome segregation
+1290	GO:0007059	Nk52_evm9s293	chromosome segregation
+1291	GO:0030030	Nk52_evm104s352	cell projection organization
+1292	GO:0030030	Nk52_evm10s106	cell projection organization
+1293	GO:0030030	Nk52_evm10s303	cell projection organization
+1294	GO:0030030	Nk52_evm114s226	cell projection organization
+1295	GO:0030030	Nk52_evm11s1400	cell projection organization
+1296	GO:0030030	Nk52_evm11s256	cell projection organization
+1297	GO:0030030	Nk52_evm11s2579	cell projection organization
+1298	GO:0030030	Nk52_evm11s710	cell projection organization
+1299	GO:0030030	Nk52_evm121s352	cell projection organization
+1300	GO:0030030	Nk52_evm12s1967	cell projection organization
+1301	GO:0030030	Nk52_evm12s2118	cell projection organization
+1302	GO:0030030	Nk52_evm13s1360	cell projection organization
+1303	GO:0030030	Nk52_evm13s1401	cell projection organization
+1304	GO:0030030	Nk52_evm13s16	cell projection organization
+1305	GO:0030030	Nk52_evm13s1992	cell projection organization
+1306	GO:0030030	Nk52_evm13s226	cell projection organization
+1307	GO:0030030	Nk52_evm13s24	cell projection organization
+1308	GO:0030030	Nk52_evm13s265	cell projection organization
+1309	GO:0030030	Nk52_evm13s375	cell projection organization
+1310	GO:0030030	Nk52_evm14s1992	cell projection organization
+1311	GO:0030030	Nk52_evm14s224	cell projection organization
+1312	GO:0030030	Nk52_evm14s24	cell projection organization
+1313	GO:0030030	Nk52_evm14s242	cell projection organization
+1314	GO:0030030	Nk52_evm14s2578	cell projection organization
+1315	GO:0030030	Nk52_evm14s263	cell projection organization
+1316	GO:0030030	Nk52_evm14s503	cell projection organization
+1317	GO:0030030	Nk52_evm15s1073	cell projection organization
+1318	GO:0030030	Nk52_evm15s222	cell projection organization
+1319	GO:0030030	Nk52_evm16s1129	cell projection organization
+1320	GO:0030030	Nk52_evm16s317	cell projection organization
+1321	GO:0030030	Nk52_evm17s228	cell projection organization
+1322	GO:0030030	Nk52_evm17s2635	cell projection organization
+1323	GO:0030030	Nk52_evm17s280	cell projection organization
+1324	GO:0030030	Nk52_evm17s745	cell projection organization
+1325	GO:0030030	Nk52_evm18s152	cell projection organization
+1326	GO:0030030	Nk52_evm18s1869	cell projection organization
+1327	GO:0030030	Nk52_evm18s2630	cell projection organization
+1328	GO:0030030	Nk52_evm19s1869	cell projection organization
+1329	GO:0030030	Nk52_evm19s2011	cell projection organization
+1330	GO:0030030	Nk52_evm19s239	cell projection organization
+1331	GO:0030030	Nk52_evm1s1038	cell projection organization
+1332	GO:0030030	Nk52_evm1s106	cell projection organization
+1333	GO:0030030	Nk52_evm1s1214	cell projection organization
+1334	GO:0030030	Nk52_evm1s1532	cell projection organization
+1335	GO:0030030	Nk52_evm1s2032	cell projection organization
+1336	GO:0030030	Nk52_evm1s236	cell projection organization
+1337	GO:0030030	Nk52_evm1s318	cell projection organization
+1338	GO:0030030	Nk52_evm1s351	cell projection organization
+1339	GO:0030030	Nk52_evm1s468	cell projection organization
+1340	GO:0030030	Nk52_evm1s588	cell projection organization
+1341	GO:0030030	Nk52_evm20s348	cell projection organization
+1342	GO:0030030	Nk52_evm22s289	cell projection organization
+1343	GO:0030030	Nk52_evm23s242	cell projection organization
+1344	GO:0030030	Nk52_evm23s243	cell projection organization
+1345	GO:0030030	Nk52_evm24s1360	cell projection organization
+1346	GO:0030030	Nk52_evm24s2309	cell projection organization
+1347	GO:0030030	Nk52_evm24s239	cell projection organization
+1348	GO:0030030	Nk52_evm24s490	cell projection organization
+1349	GO:0030030	Nk52_evm25s1129	cell projection organization
+1350	GO:0030030	Nk52_evm25s2340	cell projection organization
+1351	GO:0030030	Nk52_evm25s248	cell projection organization
+1352	GO:0030030	Nk52_evm26s230	cell projection organization
+1353	GO:0030030	Nk52_evm26s232	cell projection organization
+1354	GO:0030030	Nk52_evm27s123	cell projection organization
+1355	GO:0030030	Nk52_evm27s252	cell projection organization
+1356	GO:0030030	Nk52_evm27s745	cell projection organization
+1357	GO:0030030	Nk52_evm28s1073	cell projection organization
+1358	GO:0030030	Nk52_evm28s229	cell projection organization
+1359	GO:0030030	Nk52_evm28s2356	cell projection organization
+1360	GO:0030030	Nk52_evm28s485	cell projection organization
+1361	GO:0030030	Nk52_evm28s78	cell projection organization
+1362	GO:0030030	Nk52_evm29s628	cell projection organization
+1363	GO:0030030	Nk52_evm2s211	cell projection organization
+1364	GO:0030030	Nk52_evm2s2449	cell projection organization
+1365	GO:0030030	Nk52_evm2s2578	cell projection organization
+1366	GO:0030030	Nk52_evm2s322	cell projection organization
+1367	GO:0030030	Nk52_evm2s383	cell projection organization
+1368	GO:0030030	Nk52_evm2s385	cell projection organization
+1369	GO:0030030	Nk52_evm2s403	cell projection organization
+1370	GO:0030030	Nk52_evm2s604	cell projection organization
+1371	GO:0030030	Nk52_evm31s745	cell projection organization
+1372	GO:0030030	Nk52_evm32s2612	cell projection organization
+1373	GO:0030030	Nk52_evm33s1524	cell projection organization
+1374	GO:0030030	Nk52_evm34s1810	cell projection organization
+1375	GO:0030030	Nk52_evm35s1129	cell projection organization
+1376	GO:0030030	Nk52_evm35s294	cell projection organization
+1377	GO:0030030	Nk52_evm35s805	cell projection organization
+1378	GO:0030030	Nk52_evm37s153	cell projection organization
+1379	GO:0030030	Nk52_evm38s147	cell projection organization
+1380	GO:0030030	Nk52_evm38s292	cell projection organization
+1381	GO:0030030	Nk52_evm39s152	cell projection organization
+1382	GO:0030030	Nk52_evm39s621	cell projection organization
+1383	GO:0030030	Nk52_evm3s216	cell projection organization
+1384	GO:0030030	Nk52_evm3s328	cell projection organization
+1385	GO:0030030	Nk52_evm3s343	cell projection organization
+1386	GO:0030030	Nk52_evm40s207	cell projection organization
+1387	GO:0030030	Nk52_evm42s1524	cell projection organization
+1388	GO:0030030	Nk52_evm42s230	cell projection organization
+1389	GO:0030030	Nk52_evm44s2039	cell projection organization
+1390	GO:0030030	Nk52_evm46s221	cell projection organization
+1391	GO:0030030	Nk52_evm46s359	cell projection organization
+1392	GO:0030030	Nk52_evm49s2657	cell projection organization
+1393	GO:0030030	Nk52_evm49s32	cell projection organization
+1394	GO:0030030	Nk52_evm4s352	cell projection organization
+1395	GO:0030030	Nk52_evm4s805	cell projection organization
+1396	GO:0030030	Nk52_evm50s78	cell projection organization
+1397	GO:0030030	Nk52_evm51s230	cell projection organization
+1398	GO:0030030	Nk52_evm51s2579	cell projection organization
+1399	GO:0030030	Nk52_evm51s621	cell projection organization
+1400	GO:0030030	Nk52_evm52s78	cell projection organization
+1401	GO:0030030	Nk52_evm53s240	cell projection organization
+1402	GO:0030030	Nk52_evm54s1992	cell projection organization
+1403	GO:0030030	Nk52_evm58s2309	cell projection organization
+1404	GO:0030030	Nk52_evm5s1178	cell projection organization
+1405	GO:0030030	Nk52_evm5s169	cell projection organization
+1406	GO:0030030	Nk52_evm5s2152	cell projection organization
+1407	GO:0030030	Nk52_evm5s268	cell projection organization
+1408	GO:0030030	Nk52_evm5s352	cell projection organization
+1409	GO:0030030	Nk52_evm5s649	cell projection organization
+1410	GO:0030030	Nk52_evm60s208	cell projection organization
+1411	GO:0030030	Nk52_evm60s745	cell projection organization
+1412	GO:0030030	Nk52_evm62s152	cell projection organization
+1413	GO:0030030	Nk52_evm64s343	cell projection organization
+1414	GO:0030030	Nk52_evm64s352	cell projection organization
+1415	GO:0030030	Nk52_evm65s221	cell projection organization
+1416	GO:0030030	Nk52_evm66s554	cell projection organization
+1417	GO:0030030	Nk52_evm67s224	cell projection organization
+1418	GO:0030030	Nk52_evm69s215	cell projection organization
+1419	GO:0030030	Nk52_evm6s223	cell projection organization
+1420	GO:0030030	Nk52_evm71s210	cell projection organization
+1421	GO:0030030	Nk52_evm75s207	cell projection organization
+1422	GO:0030030	Nk52_evm76s158	cell projection organization
+1423	GO:0030030	Nk52_evm77s223	cell projection organization
+1424	GO:0030030	Nk52_evm7s1967	cell projection organization
+1425	GO:0030030	Nk52_evm82s215	cell projection organization
+1426	GO:0030030	Nk52_evm86s215	cell projection organization
+1427	GO:0030030	Nk52_evm8s426	cell projection organization
+1428	GO:0030030	Nk52_evm98s2192	cell projection organization
+1429	GO:0030030	Nk52_evm98s226	cell projection organization
+1430	GO:0030030	Nk52_evm9s1020	cell projection organization
+1431	GO:0030030	Nk52_evm9s1569	cell projection organization
+1432	GO:0030030	Nk52_evm9s1705	cell projection organization
+1433	GO:0030030	Nk52_evm9s208	cell projection organization
+1434	GO:0030030	Nk52_evm9s2085	cell projection organization
+1435	GO:0030030	Nk52_evm9s262	cell projection organization
+1436	GO:0030030	Nk52_evm9s2650	cell projection organization
+1437	GO:0030030	Nk52_evm9s2657	cell projection organization
+1438	GO:0030030	Nk52_evm9s327	cell projection organization
+1439	GO:0030030	Nk52_evm9s77	cell projection organization
+1440	GO:0001843	Nk52_evm28s78	neural tube closure
+1441	GO:0001843	Nk52_evm35s1129	neural tube closure
+1442	GO:0001843	Nk52_evm38s292	neural tube closure
+1443	GO:0001843	Nk52_evm3s343	neural tube closure
+1444	GO:0001843	Nk52_evm9s2085	neural tube closure
+1445	GO:0019048	Nk52_evm14s2309	modulation by virus of host process
+1446	GO:0019048	Nk52_evm15s2309	modulation by virus of host process
+1447	GO:0019048	Nk52_evm1s1458	modulation by virus of host process
+1448	GO:0019048	Nk52_evm1s511	modulation by virus of host process
+1449	GO:0019048	Nk52_evm1s716	modulation by virus of host process
+1450	GO:0019048	Nk52_evm23s216	modulation by virus of host process
+1451	GO:0019048	Nk52_evm4s2656	modulation by virus of host process
+1452	GO:0019048	Nk52_evm82s745	modulation by virus of host process
+1453	GO:0017121	Nk52_evm17s684	plasma membrane phospholipid scrambling
+1454	GO:0017121	Nk52_evm28s238	plasma membrane phospholipid scrambling
+1455	GO:0017121	Nk52_evm3s373	plasma membrane phospholipid scrambling
+1456	GO:0017121	Nk52_evm65s152	plasma membrane phospholipid scrambling
+1457	GO:0009649	Nk52_evm14s442	entrainment of circadian clock
+1458	GO:0009649	Nk52_evm40s1810	entrainment of circadian clock
+1459	GO:0009649	Nk52_evm78s1737	entrainment of circadian clock
+1460	GO:1902455	Nk52_evm3s228	negative regulation of stem cell population maintenance
+1461	GO:1902455	Nk52_evm50s212	negative regulation of stem cell population maintenance
+1462	GO:1902455	Nk52_evm84s554	negative regulation of stem cell population maintenance
+1463	GO:0006306	Nk52_evm1s136	DNA methylation
+1464	GO:0006306	Nk52_evm3s228	DNA methylation
+1465	GO:0006306	Nk52_evm7s2630	DNA methylation
+1466	GO:0048854	Nk52_evm47s2118	brain morphogenesis
+1467	GO:0048854	Nk52_evm49s32	brain morphogenesis
+1468	GO:0048854	Nk52_evm4s495	brain morphogenesis
+1469	GO:0002168	Nk52_evm11s1400	instar larval development
+1470	GO:0002168	Nk52_evm16s317	instar larval development
+1471	GO:0002168	Nk52_evm33s2579	instar larval development
+1472	GO:0002168	Nk52_evm50s230	instar larval development
+1473	GO:0019262	Nk52_evm48s1992	N-acetylneuraminate catabolic process
+1474	GO:0019262	Nk52_evm4s218	N-acetylneuraminate catabolic process
+1475	GO:0035609	Nk52_evm12s294	C-terminal protein deglutamylation
+1476	GO:0035609	Nk52_evm31s2133	C-terminal protein deglutamylation
+1477	GO:1901642	Nk52_evm11s1869	nucleoside transmembrane transport
+1478	GO:1901642	Nk52_evm43s239	nucleoside transmembrane transport
+1479	GO:0060411	Nk52_evm35s1129	cardiac septum morphogenesis
+1480	GO:0060411	Nk52_evm49s32	cardiac septum morphogenesis
+1481	GO:0006929	Nk52_evm17s2635	substrate-dependent cell migration
+1482	GO:0006929	Nk52_evm36s621	substrate-dependent cell migration
+1483	GO:2000050	Nk52_evm17s228	regulation of non-canonical Wnt signaling pathway
+1484	GO:2000050	Nk52_evm35s1129	regulation of non-canonical Wnt signaling pathway
+1485	GO:0120222	Nk52_evm12s294	regulation of blastocyst development
+1486	GO:0120222	Nk52_evm9s1020	regulation of blastocyst development
+1487	GO:0060768	Nk52_evm20s284	regulation of epithelial cell proliferation involved in prostate gland development
+1488	GO:0060768	Nk52_evm26s230	regulation of epithelial cell proliferation involved in prostate gland development
+1489	GO:0072003	Nk52_evm12s301	kidney rudiment formation
+1490	GO:0072003	Nk52_evm39s621	kidney rudiment formation
+1491	GO:1902043	Nk52_evm3s284	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors
+1492	GO:1902043	Nk52_evm73s1444	positive regulation of extrinsic apoptotic signaling pathway via death domain receptors
+1493	GO:0032238	Nk52_evm11s1869	adenosine transport
+1494	GO:0032238	Nk52_evm43s239	adenosine transport
+1495	GO:0036372	Nk52_evm64s343	opsin transport
+1496	GO:0036372	Nk52_evm77s223	opsin transport
+1497	GO:0021794	Nk52_evm26s230	thalamus development
+1498	GO:0021794	Nk52_evm37s78	thalamus development
+1499	GO:0065001	Nk52_evm26s230	specification of axis polarity
+1500	GO:0065001	Nk52_evm54s1992	specification of axis polarity
+1501	GO:2000769	Nk52_evm3s164	regulation of establishment or maintenance of cell polarity regulating cell shape
+1502	GO:2000769	Nk52_evm98s226	regulation of establishment or maintenance of cell polarity regulating cell shape
+1503	GO:0035340	Nk52_evm11s1869	inosine transport
+1504	GO:0035340	Nk52_evm43s239	inosine transport
+1505	GO:0071139	Nk52_evm11s229	resolution of recombination intermediates
+1506	GO:0071139	Nk52_evm1s1030	resolution of recombination intermediates
+1507	GO:0072205	Nk52_evm26s230	metanephric collecting duct development
+1508	GO:0072205	Nk52_evm90s2118	metanephric collecting duct development
+1509	GO:0021871	Nk52_evm16s1129	forebrain regionalization
+1510	GO:0021871	Nk52_evm26s230	forebrain regionalization
+1511	GO:0035456	Nk52_evm38s296	response to interferon-beta
+1512	GO:0035456	Nk52_evm65s152	response to interferon-beta
+1513	GO:0072720	Nk52_evm13s227	response to dithiothreitol
+1514	GO:0072720	Nk52_evm13s247	response to dithiothreitol
+1515	GO:0051764	Nk52_evm125s221	actin crosslink formation
+1516	GO:0051764	Nk52_evm12s1916	actin crosslink formation
+1517	GO:1903791	Nk52_evm11s1869	uracil transmembrane transport
+1518	GO:1903791	Nk52_evm43s239	uracil transmembrane transport
+1519	GO:1903716	Nk52_evm11s1869	guanine transmembrane transport
+1520	GO:1903716	Nk52_evm43s239	guanine transmembrane transport
+1521	GO:1904526	Nk52_evm17s280	regulation of microtubule binding
+1522	GO:1904526	Nk52_evm5s2152	regulation of microtubule binding
+1523	GO:0015861	Nk52_evm11s1869	cytidine transport
+1524	GO:0015861	Nk52_evm43s239	cytidine transport
+1525	GO:0015862	Nk52_evm11s1869	uridine transport
+1526	GO:0015862	Nk52_evm43s239	uridine transport
+1527	GO:0010378	Nk52_evm17s207	temperature compensation of the circadian clock
+1528	GO:0010378	Nk52_evm1s1223	temperature compensation of the circadian clock
+1529	GO:0010457	Nk52_evm2s490	centriole-centriole cohesion
+1530	GO:0010457	Nk52_evm98s226	centriole-centriole cohesion
+1531	GO:0007097	Nk52_evm3s328	nuclear migration
+1532	GO:0007097	Nk52_evm47s2118	nuclear migration
+1533	GO:0007097	Nk52_evm4s495	nuclear migration
+1534	GO:0007097	Nk52_evm9s208	nuclear migration
+1535	GO:0046068	Nk52_evm100s221	cGMP metabolic process
+1536	GO:0046068	Nk52_evm11s237	cGMP metabolic process
+1537	GO:0046068	Nk52_evm14s153	cGMP metabolic process
+1538	GO:0046068	Nk52_evm14s299	cGMP metabolic process
+1539	GO:0046068	Nk52_evm16s48	cGMP metabolic process
+1540	GO:0046068	Nk52_evm30s238	cGMP metabolic process
+1541	GO:0046068	Nk52_evm36s1763	cGMP metabolic process
+1542	GO:0046068	Nk52_evm36s212	cGMP metabolic process
+1543	GO:0046068	Nk52_evm5s1524	cGMP metabolic process
+1544	GO:0046068	Nk52_evm7s283	cGMP metabolic process
+1545	GO:0046068	Nk52_evm90s1073	cGMP metabolic process
+1546	GO:0010761	Nk52_evm13s16	fibroblast migration
+1547	GO:0010761	Nk52_evm17s2635	fibroblast migration
+1548	GO:0010761	Nk52_evm2s2474	fibroblast migration
+1549	GO:0010761	Nk52_evm36s621	fibroblast migration
+1550	GO:0045910	Nk52_evm11s229	negative regulation of DNA recombination
+1551	GO:0045910	Nk52_evm1s2536	negative regulation of DNA recombination
+1552	GO:0045910	Nk52_evm47s222	negative regulation of DNA recombination
+1553	GO:0045910	Nk52_evm68s1810	negative regulation of DNA recombination
+1554	GO:0006584	Nk52_evm14s153	catecholamine metabolic process
+1555	GO:0006584	Nk52_evm16s48	catecholamine metabolic process
+1556	GO:0006584	Nk52_evm18s745	catecholamine metabolic process
+1557	GO:0006584	Nk52_evm36s212	catecholamine metabolic process

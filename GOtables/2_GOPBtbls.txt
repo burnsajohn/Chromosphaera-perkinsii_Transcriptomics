@@ -1,0 +1,93 @@
+GO.ID	Term	Annotated	Significant	Expected	weight
+1	GO:0000272	polysaccharide catabolic process	31	23	7.03	1.1e-06
+2	GO:0042135	neurotransmitter catabolic process	12	10	2.72	1.5e-05
+3	GO:0048193	Golgi vesicle transport	143	55	32.45	2.2e-05
+4	GO:0045184	establishment of protein localization	706	211	160.18	2.8e-05
+5	GO:0007034	vacuolar transport	88	40	19.97	0.00015
+6	GO:0072666	establishment of protein localization to vacuole	29	16	6.58	0.00015
+7	GO:0006520	amino acid metabolic process	285	115	64.66	0.00037
+8	GO:1901565	organonitrogen compound catabolic process	532	177	120.71	0.00056
+9	GO:0034058	endosomal vesicle fusion	6	6	1.36	0.00060
+10	GO:0006536	glutamate metabolic process	23	13	5.22	0.00114
+11	GO:0006568	tryptophan metabolic process	15	9	3.4	0.00202
+12	GO:0048268	clathrin coat assembly	5	5	1.13	0.00264
+13	GO:0046050	UMP catabolic process	4	4	0.91	0.00264
+14	GO:0046079	dUMP catabolic process	4	4	0.91	0.00264
+15	GO:0006248	CMP catabolic process	4	4	0.91	0.00264
+16	GO:0006249	dCMP catabolic process	4	4	0.91	0.00264
+17	GO:0046950	cellular ketone body metabolic process	4	4	0.91	0.00264
+18	GO:1903371	regulation of endoplasmic reticulum tubular network organization	4	4	0.91	0.00264
+19	GO:0015734	taurine transport	6	5	1.36	0.00291
+20	GO:0045493	xylan catabolic process	6	5	1.36	0.00291
+21	GO:0010438	cellular response to sulfur starvation	6	5	1.36	0.00291
+22	GO:0009970	cellular response to sulfate starvation	6	5	1.36	0.00291
+23	GO:0006487	protein N-linked glycosylation	39	17	8.85	0.00294
+24	GO:0007033	vacuole organization	86	32	19.51	0.00494
+25	GO:0060236	regulation of mitotic spindle organization	14	8	3.18	0.00548
+26	GO:0030243	cellulose metabolic process	14	8	3.18	0.00548
+27	GO:0034063	stress granule assembly	9	6	2.04	0.00598
+28	GO:0006145	purine nucleobase catabolic process	9	6	2.04	0.00598
+29	GO:0099022	vesicle tethering	9	6	2.04	0.00598
+30	GO:0006635	fatty acid beta-oxidation	38	17	8.62	0.00612
+31	GO:0071577	zinc ion transmembrane transport	21	11	4.76	0.00671
+32	GO:0010043	response to zinc ion	8	6	1.82	0.00826
+33	GO:1903902	positive regulation of viral life cycle	7	5	1.59	0.00828
+34	GO:0090148	membrane fission	7	5	1.59	0.00828
+35	GO:0070814	hydrogen sulfide biosynthetic process	7	5	1.59	0.00828
+36	GO:0006099	tricarboxylic acid cycle	33	14	7.49	0.00895
+37	GO:0120162	positive regulation of cold-induced thermogenesis	15	8	3.4	0.00943
+38	GO:0051289	protein homotetramerization	15	8	3.4	0.00943
+39	GO:0019344	cysteine biosynthetic process	15	8	3.4	0.00943
+40	GO:0009073	aromatic amino acid family biosynthetic process	18	9	4.08	0.01008
+41	GO:0043605	amide catabolic process	23	12	5.22	0.01021
+42	GO:0140962	multicellular organismal-level chemical homeostasis	8	5	1.82	0.01081
+43	GO:0042059	negative regulation of epidermal growth factor receptor signaling pathway	5	4	1.13	0.01082
+44	GO:1902224	ketone body metabolic process	5	4	1.13	0.01082
+45	GO:0006828	manganese ion transport	5	4	1.13	0.01082
+46	GO:0010996	response to auditory stimulus	3	3	0.68	0.01166
+47	GO:0050995	negative regulation of lipid catabolic process	3	3	0.68	0.01166
+48	GO:1902351	response to imidacloprid	3	3	0.68	0.01166
+49	GO:0051305	chromosome movement towards spindle pole	3	3	0.68	0.01166
+50	GO:0000103	sulfate assimilation	3	3	0.68	0.01166
+51	GO:0006210	thymine catabolic process	3	3	0.68	0.01166
+52	GO:0061003	positive regulation of dendritic spine morphogenesis	3	3	0.68	0.01166
+53	GO:0006524	alanine catabolic process	3	3	0.68	0.01166
+54	GO:0009585	red, far-red light phototransduction	3	3	0.68	0.01166
+55	GO:1900017	positive regulation of cytokine production involved in inflammatory response	3	3	0.68	0.01166
+56	GO:0150103	reactive gliosis	3	3	0.68	0.01166
+57	GO:1902065	response to L-glutamate	3	3	0.68	0.01166
+58	GO:0006491	N-glycan processing	10	6	2.27	0.01209
+59	GO:0034755	iron ion transmembrane transport	13	7	2.95	0.01421
+60	GO:0007032	endosome organization	28	13	6.35	0.01497
+61	GO:0072583	clathrin-dependent endocytosis	19	9	4.31	0.01536
+62	GO:0006639	acylglycerol metabolic process	65	24	14.75	0.01553
+63	GO:0019878	lysine biosynthetic process via aminoadipic acid	8	5	1.82	0.01798
+64	GO:0060425	lung morphogenesis	8	5	1.82	0.01798
+65	GO:0006607	NLS-bearing protein import into nucleus	8	5	1.82	0.01798
+66	GO:0006541	glutamine metabolic process	26	11	5.9	0.02013
+67	GO:0033619	membrane protein proteolysis	13	8	2.95	0.02144
+68	GO:0034394	protein localization to cell surface	13	7	2.95	0.02151
+69	GO:1902116	negative regulation of organelle assembly	11	6	2.5	0.02155
+70	GO:0045116	protein neddylation	11	6	2.5	0.02155
+71	GO:0021761	limbic system development	14	7	3.18	0.02294
+72	GO:0016482	cytosolic transport	69	25	15.66	0.02365
+73	GO:0045444	fat cell differentiation	38	15	8.62	0.02484
+74	GO:1902117	positive regulation of organelle assembly	30	12	6.81	0.02499
+75	GO:1904262	negative regulation of TORC1 signaling	30	12	6.81	0.02499
+76	GO:0009313	oligosaccharide catabolic process	7	5	1.59	0.02658
+77	GO:0019673	GDP-mannose metabolic process	6	4	1.36	0.02662
+78	GO:0071340	skeletal muscle acetylcholine-gated channel clustering	6	4	1.36	0.02662
+79	GO:0010884	positive regulation of lipid storage	6	4	1.36	0.02662
+80	GO:0042331	phototaxis	9	5	2.04	0.03298
+81	GO:0000032	cell wall mannoprotein biosynthetic process	9	5	2.04	0.03298
+82	GO:0046856	phosphatidylinositol dephosphorylation	15	7	3.4	0.03476
+83	GO:0048873	homeostasis of number of cells within a tissue	4	3	0.91	0.03872
+84	GO:0000338	protein deneddylation	4	3	0.91	0.03872
+85	GO:0051292	nuclear pore complex assembly	4	3	0.91	0.03872
+86	GO:0045056	transcytosis	4	3	0.91	0.03872
+87	GO:0006106	fumarate metabolic process	4	3	0.91	0.03872
+88	GO:0034381	plasma lipoprotein particle clearance	4	3	0.91	0.03872
+89	GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization	4	3	0.91	0.03872
+90	GO:2000643	positive regulation of early endosome to late endosome transport	4	3	0.91	0.03872
+91	GO:0006914	autophagy	181	60	41.07	0.03921
+92	GO:0035269	protein O-linked mannosylation	19	8	4.31	0.04655

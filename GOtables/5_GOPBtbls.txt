@@ -1,0 +1,91 @@
+GO.ID	Term	Annotated	Significant	Expected	weight
+1	GO:0042254	ribosome biogenesis	236	101	23.15	< 1e-30
+2	GO:1901862	negative regulation of muscle tissue development	4	4	0.39	9.2e-05
+3	GO:1902570	protein localization to nucleolus	10	6	0.98	0.00013
+4	GO:0043327	chemotaxis to cAMP	14	7	1.37	0.00016
+5	GO:0007288	sperm axoneme assembly	15	7	1.47	0.00027
+6	GO:0006356	regulation of transcription by RNA polymerase I	17	7	1.67	0.00068
+7	GO:0034227	tRNA thio-modification	3	3	0.29	0.00094
+8	GO:0032447	protein urmylation	3	3	0.29	0.00094
+9	GO:0042795	snRNA transcription by RNA polymerase II	3	3	0.29	0.00094
+10	GO:0045760	positive regulation of action potential	3	3	0.29	0.00094
+11	GO:2001169	regulation of ATP biosynthetic process	3	3	0.29	0.00094
+12	GO:0032486	Rap protein signal transduction	6	4	0.59	0.00117
+13	GO:0010613	positive regulation of cardiac muscle hypertrophy	7	4	0.69	0.00252
+14	GO:0031167	rRNA methylation	16	6	1.57	0.00295
+15	GO:1901522	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	4	3	0.39	0.00349
+16	GO:0033137	negative regulation of peptidyl-serine phosphorylation	4	3	0.39	0.00349
+17	GO:0106070	regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	8	4	0.78	0.00466
+18	GO:0140207	tripeptide import across plasma membrane	13	5	1.28	0.00590
+19	GO:0030587	sorocarp development	84	16	8.24	0.00699
+20	GO:0061028	establishment of endothelial barrier	5	3	0.49	0.00808
+21	GO:0098696	regulation of neurotransmitter receptor localization to postsynaptic specialization membrane	5	3	0.49	0.00808
+22	GO:0046697	decidualization	5	3	0.49	0.00808
+23	GO:0006857	oligopeptide transport	37	11	3.63	0.00823
+24	GO:0010460	positive regulation of heart rate	3	3	0.29	0.00959
+25	GO:0010162	seed dormancy process	2	2	0.2	0.00961
+26	GO:0098967	exocytic insertion of neurotransmitter receptor to postsynaptic membrane	2	2	0.2	0.00961
+27	GO:0030536	larval feeding behavior	2	2	0.2	0.00961
+28	GO:0009960	endosperm development	2	2	0.2	0.00961
+29	GO:0003208	cardiac ventricle morphogenesis	2	2	0.2	0.00961
+30	GO:0042796	snRNA transcription by RNA polymerase III	2	2	0.2	0.00961
+31	GO:0032754	positive regulation of interleukin-5 production	2	2	0.2	0.00961
+32	GO:0072160	nephron tubule epithelial cell differentiation	2	2	0.2	0.00961
+33	GO:0043520	regulation of myosin II filament assembly	2	2	0.2	0.00961
+34	GO:0072740	cellular response to anisomycin	2	2	0.2	0.00961
+35	GO:0140986	G protein-coupled chemorepellent receptor signaling pathway	2	2	0.2	0.00961
+36	GO:1901723	negative regulation of cell proliferation involved in kidney development	2	2	0.2	0.00961
+37	GO:0002098	tRNA wobble uridine modification	15	5	1.47	0.01166
+38	GO:2000177	regulation of neural precursor cell proliferation	13	5	1.28	0.01186
+39	GO:0048008	platelet-derived growth factor receptor signaling pathway	10	4	0.98	0.01190
+40	GO:0097009	energy homeostasis	10	4	0.98	0.01190
+41	GO:0099504	synaptic vesicle cycle	47	10	4.61	0.01237
+42	GO:0031646	positive regulation of nervous system process	8	5	0.78	0.01487
+43	GO:0010665	regulation of cardiac muscle cell apoptotic process	6	3	0.59	0.01499
+44	GO:1902004	positive regulation of amyloid-beta formation	6	3	0.59	0.01499
+45	GO:0007270	neuron-neuron synaptic transmission	6	3	0.59	0.01499
+46	GO:0032024	positive regulation of insulin secretion	16	5	1.57	0.01562
+47	GO:0140053	mitochondrial gene expression	35	9	3.43	0.01587
+48	GO:0003352	regulation of cilium movement	22	6	2.16	0.01652
+49	GO:0140206	dipeptide import across plasma membrane	22	6	2.16	0.01652
+50	GO:0030150	protein import into mitochondrial matrix	11	4	1.08	0.01728
+51	GO:0006359	regulation of transcription by RNA polymerase III	11	4	1.08	0.01728
+52	GO:0007018	microtubule-based movement	245	42	24.04	0.01875
+53	GO:0035627	ceramide transport	12	4	1.18	0.02394
+54	GO:2000378	negative regulation of reactive oxygen species metabolic process	12	4	1.18	0.02394
+55	GO:0018200	peptidyl-glutamic acid modification	11	4	1.08	0.02428
+56	GO:0009214	cyclic nucleotide catabolic process	7	3	0.69	0.02434
+57	GO:0035065	regulation of histone acetylation	7	3	0.69	0.02434
+58	GO:0015798	myo-inositol transport	7	3	0.69	0.02434
+59	GO:0015835	peptidoglycan transport	7	3	0.69	0.02434
+60	GO:0045599	negative regulation of fat cell differentiation	7	3	0.69	0.02434
+61	GO:0071456	cellular response to hypoxia	25	7	2.45	0.02504
+62	GO:0016310	phosphorylation	497	70	48.76	0.02603
+63	GO:0018023	peptidyl-lysine trimethylation	4	3	0.39	0.02688
+64	GO:0000389	mRNA 3'-splice site recognition	3	2	0.29	0.02696
+65	GO:0071044	histone mRNA catabolic process	3	2	0.29	0.02696
+66	GO:0002357	defense response to tumor cell	3	2	0.29	0.02696
+67	GO:0090513	L-histidine transmembrane import into vacuole	3	2	0.29	0.02696
+68	GO:0090514	L-tyrosine transmembrane import into vacuole	3	2	0.29	0.02696
+69	GO:0090515	L-glutamate transmembrane import into vacuole	3	2	0.29	0.02696
+70	GO:0090516	L-serine transmembrane import into vacuole	3	2	0.29	0.02696
+71	GO:0090518	L-arginine transmembrane import into vacuole	3	2	0.29	0.02696
+72	GO:0003418	growth plate cartilage chondrocyte differentiation	3	2	0.29	0.02696
+73	GO:0042269	regulation of natural killer cell mediated cytotoxicity	3	2	0.29	0.02696
+74	GO:0071498	cellular response to fluid shear stress	3	2	0.29	0.02696
+75	GO:0007419	ventral cord development	3	2	0.29	0.02696
+76	GO:0045329	carnitine biosynthetic process	3	2	0.29	0.02696
+77	GO:0070900	mitochondrial tRNA modification	3	2	0.29	0.02696
+78	GO:1901481	L-glutamate import involved in cellular response to nitrogen starvation	3	2	0.29	0.02696
+79	GO:1901482	L-lysine import into vacuole involved in cellular response to nitrogen starvation	3	2	0.29	0.02696
+80	GO:0036265	RNA (guanine-N7)-methylation	3	2	0.29	0.02696
+81	GO:1901856	negative regulation of cellular respiration	3	2	0.29	0.02696
+82	GO:1904357	negative regulation of telomere maintenance via telomere lengthening	13	4	1.28	0.03196
+83	GO:0051898	negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	13	4	1.28	0.03196
+84	GO:0071277	cellular response to calcium ion	19	5	1.86	0.03253
+85	GO:0070373	negative regulation of ERK1 and ERK2 cascade	8	3	0.78	0.03615
+86	GO:0031062	positive regulation of histone methylation	8	3	0.78	0.03615
+87	GO:0060216	definitive hemopoiesis	8	3	0.78	0.03615
+88	GO:0086004	regulation of cardiac muscle cell contraction	8	3	0.78	0.03615
+89	GO:0051591	response to cAMP	20	5	1.96	0.03998
+90	GO:0048701	embryonic cranial skeleton morphogenesis	14	4	1.37	0.04137

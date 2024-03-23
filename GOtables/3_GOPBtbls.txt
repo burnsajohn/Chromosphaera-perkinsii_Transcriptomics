@@ -1,0 +1,116 @@
+GO.ID	Term	Annotated	Significant	Expected	weight
+1	GO:0051301	cell division	304	75	17.71	2.0e-22
+2	GO:0007091	metaphase/anaphase transition of mitotic cell cycle	39	15	2.27	9.1e-10
+3	GO:0007049	cell cycle	684	134	39.85	7.4e-09
+4	GO:0032508	DNA duplex unwinding	46	16	2.68	1.5e-08
+5	GO:0006302	double-strand break repair	125	28	7.28	7.5e-08
+6	GO:0030261	chromosome condensation	19	10	1.11	1.1e-07
+7	GO:0031145	anaphase-promoting complex-dependent catabolic process	13	8	0.76	1.2e-07
+8	GO:0006270	DNA replication initiation	28	13	1.63	2.2e-07
+9	GO:0065004	protein-DNA complex assembly	69	18	4.02	7.0e-07
+10	GO:0140013	meiotic nuclear division	54	16	3.15	1.5e-06
+11	GO:0070979	protein K11-linked ubiquitination	9	6	0.52	2.7e-06
+12	GO:0006335	DNA replication-dependent chromatin assembly	7	5	0.41	1.2e-05
+13	GO:0070192	chromosome organization involved in meiotic cell cycle	22	8	1.28	1.9e-05
+14	GO:0050871	positive regulation of B cell activation	13	6	0.76	4.5e-05
+15	GO:0034728	nucleosome organization	32	9	1.86	5.9e-05
+16	GO:0000076	DNA replication checkpoint signaling	9	5	0.52	6.8e-05
+17	GO:0006974	DNA damage response	399	63	23.24	0.00011
+18	GO:0000915	actomyosin contractile ring assembly	6	4	0.35	0.00015
+19	GO:0007059	chromosome segregation	167	46	9.73	0.00022
+20	GO:0006260	DNA replication	200	41	11.65	0.00038
+21	GO:1902975	mitotic DNA replication initiation	4	3	0.23	0.00075
+22	GO:0006357	regulation of transcription by RNA polymerase II	387	39	22.54	0.00168
+23	GO:0085020	protein K6-linked ubiquitination	5	3	0.29	0.00180
+24	GO:0010212	response to ionizing radiation	49	9	2.85	0.00180
+25	GO:0045619	regulation of lymphocyte differentiation	29	8	1.69	0.00201
+26	GO:0045911	positive regulation of DNA recombination	24	6	1.4	0.00206
+27	GO:0007051	spindle organization	86	13	5.01	0.00207
+28	GO:0051383	kinetochore organization	11	4	0.64	0.00270
+29	GO:0070316	regulation of G0 to G1 transition	11	4	0.64	0.00270
+30	GO:0002639	positive regulation of immunoglobulin production	11	4	0.64	0.00270
+31	GO:0048145	regulation of fibroblast proliferation	18	5	1.05	0.00298
+32	GO:0034184	positive regulation of maintenance of mitotic sister chromatid cohesion	2	2	0.12	0.00339
+33	GO:0006279	premeiotic DNA replication	2	2	0.12	0.00339
+34	GO:0043111	replication fork arrest	2	2	0.12	0.00339
+35	GO:0070058	tRNA gene clustering	2	2	0.12	0.00339
+36	GO:0080175	phragmoplast microtubule organization	2	2	0.12	0.00339
+37	GO:0098535	de novo centriole assembly involved in multi-ciliated epithelial cell differentiation	2	2	0.12	0.00339
+38	GO:1900086	positive regulation of peptidyl-tyrosine autophosphorylation	2	2	0.12	0.00339
+39	GO:0072234	metanephric nephron tubule development	6	3	0.35	0.00344
+40	GO:0008608	attachment of spindle microtubules to kinetochore	12	4	0.7	0.00386
+41	GO:0009629	response to gravity	12	4	0.7	0.00386
+42	GO:0000722	telomere maintenance via recombination	13	4	0.76	0.00532
+43	GO:0001824	blastocyst development	29	6	1.69	0.00568
+44	GO:0001755	neural crest cell migration	7	3	0.41	0.00576
+45	GO:0055075	potassium ion homeostasis	7	3	0.41	0.00576
+46	GO:0007020	microtubule nucleation	21	5	1.22	0.00612
+47	GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	14	4	0.82	0.00711
+48	GO:0000002	mitochondrial genome maintenance	31	6	1.81	0.00798
+49	GO:0032986	protein-DNA complex disassembly	8	3	0.47	0.00882
+50	GO:0034109	homotypic cell-cell adhesion	8	3	0.47	0.00882
+51	GO:0035019	somatic stem cell population maintenance	8	3	0.47	0.00882
+52	GO:0071364	cellular response to epidermal growth factor stimulus	8	3	0.47	0.00882
+53	GO:0051865	protein autoubiquitination	15	4	0.87	0.00926
+54	GO:0046580	negative regulation of Ras protein signal transduction	15	4	0.87	0.00926
+55	GO:1990776	response to angiotensin	5	3	0.29	0.00972
+56	GO:1900006	positive regulation of dendrite development	3	2	0.17	0.00976
+57	GO:0036120	cellular response to platelet-derived growth factor stimulus	3	2	0.17	0.00976
+58	GO:0034116	positive regulation of heterotypic cell-cell adhesion	3	2	0.17	0.00976
+59	GO:0042244	spore wall assembly	3	2	0.17	0.00976
+60	GO:0099559	maintenance of alignment of postsynaptic density and presynaptic active zone	3	2	0.17	0.00976
+61	GO:0072015	podocyte development	3	2	0.17	0.00976
+62	GO:0048790	maintenance of presynaptic active zone structure	3	2	0.17	0.00976
+63	GO:0051894	positive regulation of focal adhesion assembly	3	2	0.17	0.00976
+64	GO:0036089	cleavage furrow formation	3	2	0.17	0.00976
+65	GO:0043651	linoleic acid metabolic process	3	2	0.17	0.00976
+66	GO:0016200	synaptic target attraction	3	2	0.17	0.00976
+67	GO:0048013	ephrin receptor signaling pathway	3	2	0.17	0.00976
+68	GO:0051592	response to calcium ion	33	6	1.92	0.01089
+69	GO:0000082	G1/S transition of mitotic cell cycle	49	8	2.85	0.01114
+70	GO:0021955	central nervous system neuron axonogenesis	9	3	0.52	0.01266
+71	GO:0014911	positive regulation of smooth muscle cell migration	9	3	0.52	0.01266
+72	GO:0000075	cell cycle checkpoint signaling	82	17	4.78	0.01417
+73	GO:0045814	negative regulation of gene expression, epigenetic	43	8	2.5	0.01420
+74	GO:0034502	protein localization to chromosome	42	8	2.45	0.01524
+75	GO:0051274	beta-glucan biosynthetic process	11	4	0.64	0.01720
+76	GO:0090305	nucleic acid phosphodiester bond hydrolysis	10	3	0.58	0.01731
+77	GO:0032211	negative regulation of telomere maintenance via telomerase	10	3	0.58	0.01731
+78	GO:0001941	postsynaptic membrane organization	10	3	0.58	0.01731
+79	GO:0031529	ruffle organization	6	3	0.35	0.01869
+80	GO:0090333	regulation of stomatal closure	4	2	0.23	0.01878
+81	GO:0018996	molting cycle, collagen and cuticulin-based cuticle	4	2	0.23	0.01878
+82	GO:0030952	establishment or maintenance of cytoskeleton polarity	4	2	0.23	0.01878
+83	GO:0010832	negative regulation of myotube differentiation	4	2	0.23	0.01878
+84	GO:0010540	basipetal auxin transport	4	2	0.23	0.01878
+85	GO:0097090	presynaptic membrane organization	4	2	0.23	0.01878
+86	GO:0016479	negative regulation of transcription by RNA polymerase I	4	2	0.23	0.01878
+87	GO:1902624	positive regulation of neutrophil migration	4	2	0.23	0.01878
+88	GO:0051974	negative regulation of telomerase activity	4	2	0.23	0.01878
+89	GO:0009555	pollen development	28	5	1.63	0.02116
+90	GO:0046330	positive regulation of JNK cascade	11	3	0.64	0.02280
+91	GO:0007099	centriole replication	20	4	1.17	0.02612
+92	GO:0035303	regulation of dephosphorylation	20	4	1.17	0.02900
+93	GO:0045661	regulation of myoblast differentiation	12	3	0.7	0.02911
+94	GO:0001942	hair follicle development	12	3	0.7	0.02911
+95	GO:0097150	neuronal stem cell population maintenance	5	2	0.29	0.03010
+96	GO:0042262	DNA protection	5	2	0.29	0.03010
+97	GO:2000737	negative regulation of stem cell differentiation	5	2	0.29	0.03010
+98	GO:0045655	regulation of monocyte differentiation	5	2	0.29	0.03010
+99	GO:0046823	negative regulation of nucleocytoplasmic transport	5	2	0.29	0.03010
+100	GO:0051276	chromosome organization	270	65	15.73	0.03485
+101	GO:0008589	regulation of smoothened signaling pathway	32	5	1.86	0.03588
+102	GO:0071852	fungal-type cell wall organization or biogenesis	15	4	0.87	0.03603
+103	GO:0001841	neural tube formation	25	4	1.46	0.03617
+104	GO:0008045	motor neuron axon guidance	13	3	0.76	0.03624
+105	GO:0070293	renal absorption	6	2	0.35	0.04342
+106	GO:0061744	motor behavior	6	2	0.35	0.04342
+107	GO:0006269	DNA replication, synthesis of RNA primer	6	2	0.35	0.04342
+108	GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	6	2	0.35	0.04342
+109	GO:1902893	regulation of miRNA transcription	6	2	0.35	0.04342
+110	GO:0010026	trichome differentiation	6	2	0.35	0.04342
+111	GO:0046596	regulation of viral entry into host cell	6	2	0.35	0.04342
+112	GO:0007266	Rho protein signal transduction	17	4	0.99	0.04395
+113	GO:0044344	cellular response to fibroblast growth factor stimulus	14	3	0.82	0.04419
+114	GO:0042306	regulation of protein import into nucleus	14	3	0.82	0.04419
+115	GO:0010948	negative regulation of cell cycle process	104	23	6.06	0.04786

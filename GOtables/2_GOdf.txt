@@ -1,0 +1,1278 @@
+GO.ID	UNIgene	V3
+1	GO:0000272	Nk52_evm10s312	polysaccharide catabolic process
+2	GO:0000272	Nk52_evm12s1073	polysaccharide catabolic process
+3	GO:0000272	Nk52_evm18s208	polysaccharide catabolic process
+4	GO:0000272	Nk52_evm21s230	polysaccharide catabolic process
+5	GO:0000272	Nk52_evm21s273	polysaccharide catabolic process
+6	GO:0000272	Nk52_evm24s24	polysaccharide catabolic process
+7	GO:0000272	Nk52_evm25s210	polysaccharide catabolic process
+8	GO:0000272	Nk52_evm26s228	polysaccharide catabolic process
+9	GO:0000272	Nk52_evm29s2462	polysaccharide catabolic process
+10	GO:0000272	Nk52_evm2s2391	polysaccharide catabolic process
+11	GO:0000272	Nk52_evm33s2356	polysaccharide catabolic process
+12	GO:0000272	Nk52_evm34s1671	polysaccharide catabolic process
+13	GO:0000272	Nk52_evm39s255	polysaccharide catabolic process
+14	GO:0000272	Nk52_evm47s2579	polysaccharide catabolic process
+15	GO:0000272	Nk52_evm4s152	polysaccharide catabolic process
+16	GO:0000272	Nk52_evm59s745	polysaccharide catabolic process
+17	GO:0000272	Nk52_evm60s1020	polysaccharide catabolic process
+18	GO:0000272	Nk52_evm72s210	polysaccharide catabolic process
+19	GO:0000272	Nk52_evm74s210	polysaccharide catabolic process
+20	GO:0000272	Nk52_evm7s168	polysaccharide catabolic process
+21	GO:0000272	Nk52_evm7s2039	polysaccharide catabolic process
+22	GO:0000272	Nk52_evm84s217	polysaccharide catabolic process
+23	GO:0000272	Nk52_evm9s462	polysaccharide catabolic process
+24	GO:0042135	Nk52_evm12s317	neurotransmitter catabolic process
+25	GO:0042135	Nk52_evm1s1691	neurotransmitter catabolic process
+26	GO:0042135	Nk52_evm1s1866	neurotransmitter catabolic process
+27	GO:0042135	Nk52_evm1s205	neurotransmitter catabolic process
+28	GO:0042135	Nk52_evm1s2132	neurotransmitter catabolic process
+29	GO:0042135	Nk52_evm1s2184	neurotransmitter catabolic process
+30	GO:0042135	Nk52_evm1s2196	neurotransmitter catabolic process
+31	GO:0042135	Nk52_evm1s2259	neurotransmitter catabolic process
+32	GO:0042135	Nk52_evm1s795	neurotransmitter catabolic process
+33	GO:0042135	Nk52_evm67s153	neurotransmitter catabolic process
+34	GO:0048193	Nk52_evm10s214	Golgi vesicle transport
+35	GO:0048193	Nk52_evm12s24	Golgi vesicle transport
+36	GO:0048193	Nk52_evm12s2462	Golgi vesicle transport
+37	GO:0048193	Nk52_evm12s376	Golgi vesicle transport
+38	GO:0048193	Nk52_evm13s2039	Golgi vesicle transport
+39	GO:0048193	Nk52_evm13s232	Golgi vesicle transport
+40	GO:0048193	Nk52_evm13s260	Golgi vesicle transport
+41	GO:0048193	Nk52_evm14s2612	Golgi vesicle transport
+42	GO:0048193	Nk52_evm15s2473	Golgi vesicle transport
+43	GO:0048193	Nk52_evm16s240	Golgi vesicle transport
+44	GO:0048193	Nk52_evm16s304	Golgi vesicle transport
+45	GO:0048193	Nk52_evm17s151	Golgi vesicle transport
+46	GO:0048193	Nk52_evm18s2531	Golgi vesicle transport
+47	GO:0048193	Nk52_evm1s1141	Golgi vesicle transport
+48	GO:0048193	Nk52_evm1s1260	Golgi vesicle transport
+49	GO:0048193	Nk52_evm1s1448	Golgi vesicle transport
+50	GO:0048193	Nk52_evm1s2226	Golgi vesicle transport
+51	GO:0048193	Nk52_evm20s1967	Golgi vesicle transport
+52	GO:0048193	Nk52_evm21s359	Golgi vesicle transport
+53	GO:0048193	Nk52_evm23s136	Golgi vesicle transport
+54	GO:0048193	Nk52_evm27s304	Golgi vesicle transport
+55	GO:0048193	Nk52_evm29s151	Golgi vesicle transport
+56	GO:0048193	Nk52_evm2s1705	Golgi vesicle transport
+57	GO:0048193	Nk52_evm2s238	Golgi vesicle transport
+58	GO:0048193	Nk52_evm31s224	Golgi vesicle transport
+59	GO:0048193	Nk52_evm31s2309	Golgi vesicle transport
+60	GO:0048193	Nk52_evm33s62	Golgi vesicle transport
+61	GO:0048193	Nk52_evm33s805	Golgi vesicle transport
+62	GO:0048193	Nk52_evm34s1020	Golgi vesicle transport
+63	GO:0048193	Nk52_evm35s296	Golgi vesicle transport
+64	GO:0048193	Nk52_evm37s147	Golgi vesicle transport
+65	GO:0048193	Nk52_evm38s221	Golgi vesicle transport
+66	GO:0048193	Nk52_evm39s215	Golgi vesicle transport
+67	GO:0048193	Nk52_evm39s2612	Golgi vesicle transport
+68	GO:0048193	Nk52_evm3s298	Golgi vesicle transport
+69	GO:0048193	Nk52_evm3s299	Golgi vesicle transport
+70	GO:0048193	Nk52_evm3s967	Golgi vesicle transport
+71	GO:0048193	Nk52_evm42s229	Golgi vesicle transport
+72	GO:0048193	Nk52_evm44s2449	Golgi vesicle transport
+73	GO:0048193	Nk52_evm4s2226	Golgi vesicle transport
+74	GO:0048193	Nk52_evm57s164	Golgi vesicle transport
+75	GO:0048193	Nk52_evm5s2542	Golgi vesicle transport
+76	GO:0048193	Nk52_evm69s1737	Golgi vesicle transport
+77	GO:0048193	Nk52_evm6s1779	Golgi vesicle transport
+78	GO:0048193	Nk52_evm70s215	Golgi vesicle transport
+79	GO:0048193	Nk52_evm70s352	Golgi vesicle transport
+80	GO:0048193	Nk52_evm7s16	Golgi vesicle transport
+81	GO:0048193	Nk52_evm7s269	Golgi vesicle transport
+82	GO:0048193	Nk52_evm7s327	Golgi vesicle transport
+83	GO:0048193	Nk52_evm80s151	Golgi vesicle transport
+84	GO:0048193	Nk52_evm80s62	Golgi vesicle transport
+85	GO:0048193	Nk52_evm8s2039	Golgi vesicle transport
+86	GO:0048193	Nk52_evm8s233	Golgi vesicle transport
+87	GO:0048193	Nk52_evm9s215	Golgi vesicle transport
+88	GO:0048193	Nk52_evm9s2438	Golgi vesicle transport
+89	GO:0045184	Nk52_evm106s485	establishment of protein localization
+90	GO:0045184	Nk52_evm10s162	establishment of protein localization
+91	GO:0045184	Nk52_evm10s164	establishment of protein localization
+92	GO:0045184	Nk52_evm10s1705	establishment of protein localization
+93	GO:0045184	Nk52_evm10s210	establishment of protein localization
+94	GO:0045184	Nk52_evm10s214	establishment of protein localization
+95	GO:0045184	Nk52_evm10s219	establishment of protein localization
+96	GO:0045184	Nk52_evm10s230	establishment of protein localization
+97	GO:0045184	Nk52_evm10s272	establishment of protein localization
+98	GO:0045184	Nk52_evm10s296	establishment of protein localization
+99	GO:0045184	Nk52_evm10s304	establishment of protein localization
+100	GO:0045184	Nk52_evm10s859	establishment of protein localization
+101	GO:0045184	Nk52_evm112s352	establishment of protein localization
+102	GO:0045184	Nk52_evm11s2010	establishment of protein localization
+103	GO:0045184	Nk52_evm11s2462	establishment of protein localization
+104	GO:0045184	Nk52_evm121s485	establishment of protein localization
+105	GO:0045184	Nk52_evm12s227	establishment of protein localization
+106	GO:0045184	Nk52_evm12s24	establishment of protein localization
+107	GO:0045184	Nk52_evm12s2462	establishment of protein localization
+108	GO:0045184	Nk52_evm12s262	establishment of protein localization
+109	GO:0045184	Nk52_evm13s2209	establishment of protein localization
+110	GO:0045184	Nk52_evm13s232	establishment of protein localization
+111	GO:0045184	Nk52_evm13s260	establishment of protein localization
+112	GO:0045184	Nk52_evm13s307	establishment of protein localization
+113	GO:0045184	Nk52_evm14s249	establishment of protein localization
+114	GO:0045184	Nk52_evm14s254	establishment of protein localization
+115	GO:0045184	Nk52_evm14s2612	establishment of protein localization
+116	GO:0045184	Nk52_evm14s375	establishment of protein localization
+117	GO:0045184	Nk52_evm15s2473	establishment of protein localization
+118	GO:0045184	Nk52_evm15s307	establishment of protein localization
+119	GO:0045184	Nk52_evm16s2377	establishment of protein localization
+120	GO:0045184	Nk52_evm16s240	establishment of protein localization
+121	GO:0045184	Nk52_evm16s304	establishment of protein localization
+122	GO:0045184	Nk52_evm17s151	establishment of protein localization
+123	GO:0045184	Nk52_evm17s24	establishment of protein localization
+124	GO:0045184	Nk52_evm17s267	establishment of protein localization
+125	GO:0045184	Nk52_evm18s151	establishment of protein localization
+126	GO:0045184	Nk52_evm18s2118	establishment of protein localization
+127	GO:0045184	Nk52_evm18s266	establishment of protein localization
+128	GO:0045184	Nk52_evm18s270	establishment of protein localization
+129	GO:0045184	Nk52_evm18s292	establishment of protein localization
+130	GO:0045184	Nk52_evm18s359	establishment of protein localization
+131	GO:0045184	Nk52_evm19s1178	establishment of protein localization
+132	GO:0045184	Nk52_evm19s241	establishment of protein localization
+133	GO:0045184	Nk52_evm19s2474	establishment of protein localization
+134	GO:0045184	Nk52_evm1s1141	establishment of protein localization
+135	GO:0045184	Nk52_evm1s116	establishment of protein localization
+136	GO:0045184	Nk52_evm1s1178	establishment of protein localization
+137	GO:0045184	Nk52_evm1s1542	establishment of protein localization
+138	GO:0045184	Nk52_evm1s1803	establishment of protein localization
+139	GO:0045184	Nk52_evm1s1866	establishment of protein localization
+140	GO:0045184	Nk52_evm1s1937	establishment of protein localization
+141	GO:0045184	Nk52_evm1s205	establishment of protein localization
+142	GO:0045184	Nk52_evm1s21	establishment of protein localization
+143	GO:0045184	Nk52_evm1s2184	establishment of protein localization
+144	GO:0045184	Nk52_evm1s219	establishment of protein localization
+145	GO:0045184	Nk52_evm1s2208	establishment of protein localization
+146	GO:0045184	Nk52_evm1s2226	establishment of protein localization
+147	GO:0045184	Nk52_evm1s2259	establishment of protein localization
+148	GO:0045184	Nk52_evm1s2517	establishment of protein localization
+149	GO:0045184	Nk52_evm1s2554	establishment of protein localization
+150	GO:0045184	Nk52_evm1s262	establishment of protein localization
+151	GO:0045184	Nk52_evm1s279	establishment of protein localization
+152	GO:0045184	Nk52_evm1s393	establishment of protein localization
+153	GO:0045184	Nk52_evm1s402	establishment of protein localization
+154	GO:0045184	Nk52_evm1s49	establishment of protein localization
+155	GO:0045184	Nk52_evm1s495	establishment of protein localization
+156	GO:0045184	Nk52_evm1s542	establishment of protein localization
+157	GO:0045184	Nk52_evm1s569	establishment of protein localization
+158	GO:0045184	Nk52_evm20s2462	establishment of protein localization
+159	GO:0045184	Nk52_evm20s276	establishment of protein localization
+160	GO:0045184	Nk52_evm20s287	establishment of protein localization
+161	GO:0045184	Nk52_evm20s305	establishment of protein localization
+162	GO:0045184	Nk52_evm21s2506	establishment of protein localization
+163	GO:0045184	Nk52_evm21s310	establishment of protein localization
+164	GO:0045184	Nk52_evm21s352	establishment of protein localization
+165	GO:0045184	Nk52_evm21s359	establishment of protein localization
+166	GO:0045184	Nk52_evm21s745	establishment of protein localization
+167	GO:0045184	Nk52_evm22s2657	establishment of protein localization
+168	GO:0045184	Nk52_evm22s284	establishment of protein localization
+169	GO:0045184	Nk52_evm23s136	establishment of protein localization
+170	GO:0045184	Nk52_evm23s1444	establishment of protein localization
+171	GO:0045184	Nk52_evm23s2085	establishment of protein localization
+172	GO:0045184	Nk52_evm23s210	establishment of protein localization
+173	GO:0045184	Nk52_evm23s2474	establishment of protein localization
+174	GO:0045184	Nk52_evm23s554	establishment of protein localization
+175	GO:0045184	Nk52_evm24s212	establishment of protein localization
+176	GO:0045184	Nk52_evm24s914	establishment of protein localization
+177	GO:0045184	Nk52_evm26s1524	establishment of protein localization
+178	GO:0045184	Nk52_evm26s370	establishment of protein localization
+179	GO:0045184	Nk52_evm26s745	establishment of protein localization
+180	GO:0045184	Nk52_evm26s96	establishment of protein localization
+181	GO:0045184	Nk52_evm27s304	establishment of protein localization
+182	GO:0045184	Nk52_evm27s355	establishment of protein localization
+183	GO:0045184	Nk52_evm28s294	establishment of protein localization
+184	GO:0045184	Nk52_evm29s151	establishment of protein localization
+185	GO:0045184	Nk52_evm29s2356	establishment of protein localization
+186	GO:0045184	Nk52_evm2s1705	establishment of protein localization
+187	GO:0045184	Nk52_evm2s229	establishment of protein localization
+188	GO:0045184	Nk52_evm2s332	establishment of protein localization
+189	GO:0045184	Nk52_evm2s353	establishment of protein localization
+190	GO:0045184	Nk52_evm30s343	establishment of protein localization
+191	GO:0045184	Nk52_evm31s2209	establishment of protein localization
+192	GO:0045184	Nk52_evm31s224	establishment of protein localization
+193	GO:0045184	Nk52_evm31s2309	establishment of protein localization
+194	GO:0045184	Nk52_evm32s2474	establishment of protein localization
+195	GO:0045184	Nk52_evm33s2506	establishment of protein localization
+196	GO:0045184	Nk52_evm33s62	establishment of protein localization
+197	GO:0045184	Nk52_evm33s805	establishment of protein localization
+198	GO:0045184	Nk52_evm34s1705	establishment of protein localization
+199	GO:0045184	Nk52_evm34s485	establishment of protein localization
+200	GO:0045184	Nk52_evm35s1992	establishment of protein localization
+201	GO:0045184	Nk52_evm35s2474	establishment of protein localization
+202	GO:0045184	Nk52_evm35s296	establishment of protein localization
+203	GO:0045184	Nk52_evm36s240	establishment of protein localization
+204	GO:0045184	Nk52_evm36s32	establishment of protein localization
+205	GO:0045184	Nk52_evm37s1401	establishment of protein localization
+206	GO:0045184	Nk52_evm37s147	establishment of protein localization
+207	GO:0045184	Nk52_evm37s207	establishment of protein localization
+208	GO:0045184	Nk52_evm37s2192	establishment of protein localization
+209	GO:0045184	Nk52_evm37s2309	establishment of protein localization
+210	GO:0045184	Nk52_evm38s221	establishment of protein localization
+211	GO:0045184	Nk52_evm39s2612	establishment of protein localization
+212	GO:0045184	Nk52_evm3s1524	establishment of protein localization
+213	GO:0045184	Nk52_evm3s252	establishment of protein localization
+214	GO:0045184	Nk52_evm3s2524	establishment of protein localization
+215	GO:0045184	Nk52_evm3s298	establishment of protein localization
+216	GO:0045184	Nk52_evm3s299	establishment of protein localization
+217	GO:0045184	Nk52_evm3s314	establishment of protein localization
+218	GO:0045184	Nk52_evm3s495	establishment of protein localization
+219	GO:0045184	Nk52_evm3s738	establishment of protein localization
+220	GO:0045184	Nk52_evm3s967	establishment of protein localization
+221	GO:0045184	Nk52_evm40s24	establishment of protein localization
+222	GO:0045184	Nk52_evm42s229	establishment of protein localization
+223	GO:0045184	Nk52_evm43s230	establishment of protein localization
+224	GO:0045184	Nk52_evm43s967	establishment of protein localization
+225	GO:0045184	Nk52_evm44s2449	establishment of protein localization
+226	GO:0045184	Nk52_evm45s1129	establishment of protein localization
+227	GO:0045184	Nk52_evm45s158	establishment of protein localization
+228	GO:0045184	Nk52_evm45s1810	establishment of protein localization
+229	GO:0045184	Nk52_evm45s2309	establishment of protein localization
+230	GO:0045184	Nk52_evm46s226	establishment of protein localization
+231	GO:0045184	Nk52_evm46s2340	establishment of protein localization
+232	GO:0045184	Nk52_evm4s2152	establishment of protein localization
+233	GO:0045184	Nk52_evm4s2226	establishment of protein localization
+234	GO:0045184	Nk52_evm4s2356	establishment of protein localization
+235	GO:0045184	Nk52_evm4s271	establishment of protein localization
+236	GO:0045184	Nk52_evm4s273	establishment of protein localization
+237	GO:0045184	Nk52_evm4s388	establishment of protein localization
+238	GO:0045184	Nk52_evm4s397	establishment of protein localization
+239	GO:0045184	Nk52_evm4s78	establishment of protein localization
+240	GO:0045184	Nk52_evm50s1992	establishment of protein localization
+241	GO:0045184	Nk52_evm50s207	establishment of protein localization
+242	GO:0045184	Nk52_evm50s215	establishment of protein localization
+243	GO:0045184	Nk52_evm51s208	establishment of protein localization
+244	GO:0045184	Nk52_evm53s2367	establishment of protein localization
+245	GO:0045184	Nk52_evm56s217	establishment of protein localization
+246	GO:0045184	Nk52_evm57s1360	establishment of protein localization
+247	GO:0045184	Nk52_evm57s164	establishment of protein localization
+248	GO:0045184	Nk52_evm5s2542	establishment of protein localization
+249	GO:0045184	Nk52_evm5s284	establishment of protein localization
+250	GO:0045184	Nk52_evm5s389	establishment of protein localization
+251	GO:0045184	Nk52_evm5s628	establishment of protein localization
+252	GO:0045184	Nk52_evm60s266	establishment of protein localization
+253	GO:0045184	Nk52_evm61s1810	establishment of protein localization
+254	GO:0045184	Nk52_evm64s1810	establishment of protein localization
+255	GO:0045184	Nk52_evm67s485	establishment of protein localization
+256	GO:0045184	Nk52_evm69s1737	establishment of protein localization
+257	GO:0045184	Nk52_evm69s343	establishment of protein localization
+258	GO:0045184	Nk52_evm69s352	establishment of protein localization
+259	GO:0045184	Nk52_evm69s914	establishment of protein localization
+260	GO:0045184	Nk52_evm6s1224	establishment of protein localization
+261	GO:0045184	Nk52_evm6s155	establishment of protein localization
+262	GO:0045184	Nk52_evm6s2241	establishment of protein localization
+263	GO:0045184	Nk52_evm6s2297	establishment of protein localization
+264	GO:0045184	Nk52_evm6s375	establishment of protein localization
+265	GO:0045184	Nk52_evm6s913	establishment of protein localization
+266	GO:0045184	Nk52_evm70s151	establishment of protein localization
+267	GO:0045184	Nk52_evm70s215	establishment of protein localization
+268	GO:0045184	Nk52_evm70s352	establishment of protein localization
+269	GO:0045184	Nk52_evm71s1810	establishment of protein localization
+270	GO:0045184	Nk52_evm72s239	establishment of protein localization
+271	GO:0045184	Nk52_evm73s217	establishment of protein localization
+272	GO:0045184	Nk52_evm74s2192	establishment of protein localization
+273	GO:0045184	Nk52_evm75s226	establishment of protein localization
+274	GO:0045184	Nk52_evm76s217	establishment of protein localization
+275	GO:0045184	Nk52_evm7s16	establishment of protein localization
+276	GO:0045184	Nk52_evm7s1671	establishment of protein localization
+277	GO:0045184	Nk52_evm7s2377	establishment of protein localization
+278	GO:0045184	Nk52_evm7s2635	establishment of protein localization
+279	GO:0045184	Nk52_evm7s269	establishment of protein localization
+280	GO:0045184	Nk52_evm7s327	establishment of protein localization
+281	GO:0045184	Nk52_evm7s539	establishment of protein localization
+282	GO:0045184	Nk52_evm80s207	establishment of protein localization
+283	GO:0045184	Nk52_evm80s224	establishment of protein localization
+284	GO:0045184	Nk52_evm80s62	establishment of protein localization
+285	GO:0045184	Nk52_evm85s2118	establishment of protein localization
+286	GO:0045184	Nk52_evm86s2367	establishment of protein localization
+287	GO:0045184	Nk52_evm87s207	establishment of protein localization
+288	GO:0045184	Nk52_evm8s2039	establishment of protein localization
+289	GO:0045184	Nk52_evm8s207	establishment of protein localization
+290	GO:0045184	Nk52_evm8s233	establishment of protein localization
+291	GO:0045184	Nk52_evm8s303	establishment of protein localization
+292	GO:0045184	Nk52_evm8s78	establishment of protein localization
+293	GO:0045184	Nk52_evm99s2192	establishment of protein localization
+294	GO:0045184	Nk52_evm9s157	establishment of protein localization
+295	GO:0045184	Nk52_evm9s169	establishment of protein localization
+296	GO:0045184	Nk52_evm9s2039	establishment of protein localization
+297	GO:0045184	Nk52_evm9s215	establishment of protein localization
+298	GO:0045184	Nk52_evm9s2438	establishment of protein localization
+299	GO:0045184	Nk52_evm9s259	establishment of protein localization
+300	GO:0007034	Nk52_evm106s485	vacuolar transport
+301	GO:0007034	Nk52_evm10s235	vacuolar transport
+302	GO:0007034	Nk52_evm10s272	vacuolar transport
+303	GO:0007034	Nk52_evm10s859	vacuolar transport
+304	GO:0007034	Nk52_evm112s352	vacuolar transport
+305	GO:0007034	Nk52_evm11s2010	vacuolar transport
+306	GO:0007034	Nk52_evm11s2462	vacuolar transport
+307	GO:0007034	Nk52_evm13s367	vacuolar transport
+308	GO:0007034	Nk52_evm15s2473	vacuolar transport
+309	GO:0007034	Nk52_evm17s151	vacuolar transport
+310	GO:0007034	Nk52_evm18s2531	vacuolar transport
+311	GO:0007034	Nk52_evm1s219	vacuolar transport
+312	GO:0007034	Nk52_evm20s2449	vacuolar transport
+313	GO:0007034	Nk52_evm21s24	vacuolar transport
+314	GO:0007034	Nk52_evm23s2085	vacuolar transport
+315	GO:0007034	Nk52_evm24s212	vacuolar transport
+316	GO:0007034	Nk52_evm24s914	vacuolar transport
+317	GO:0007034	Nk52_evm30s343	vacuolar transport
+318	GO:0007034	Nk52_evm31s2209	vacuolar transport
+319	GO:0007034	Nk52_evm31s224	vacuolar transport
+320	GO:0007034	Nk52_evm31s239	vacuolar transport
+321	GO:0007034	Nk52_evm33s62	vacuolar transport
+322	GO:0007034	Nk52_evm33s805	vacuolar transport
+323	GO:0007034	Nk52_evm34s1705	vacuolar transport
+324	GO:0007034	Nk52_evm35s2474	vacuolar transport
+325	GO:0007034	Nk52_evm35s32	vacuolar transport
+326	GO:0007034	Nk52_evm3s314	vacuolar transport
+327	GO:0007034	Nk52_evm3s967	vacuolar transport
+328	GO:0007034	Nk52_evm41s153	vacuolar transport
+329	GO:0007034	Nk52_evm43s221	vacuolar transport
+330	GO:0007034	Nk52_evm45s2309	vacuolar transport
+331	GO:0007034	Nk52_evm4s2152	vacuolar transport
+332	GO:0007034	Nk52_evm53s2367	vacuolar transport
+333	GO:0007034	Nk52_evm57s164	vacuolar transport
+334	GO:0007034	Nk52_evm5s2542	vacuolar transport
+335	GO:0007034	Nk52_evm61s1810	vacuolar transport
+336	GO:0007034	Nk52_evm70s151	vacuolar transport
+337	GO:0007034	Nk52_evm71s1810	vacuolar transport
+338	GO:0007034	Nk52_evm7s327	vacuolar transport
+339	GO:0007034	Nk52_evm97s914	vacuolar transport
+340	GO:0072666	Nk52_evm106s485	establishment of protein localization to vacuole
+341	GO:0072666	Nk52_evm10s859	establishment of protein localization to vacuole
+342	GO:0072666	Nk52_evm11s2010	establishment of protein localization to vacuole
+343	GO:0072666	Nk52_evm11s2462	establishment of protein localization to vacuole
+344	GO:0072666	Nk52_evm15s2473	establishment of protein localization to vacuole
+345	GO:0072666	Nk52_evm23s2085	establishment of protein localization to vacuole
+346	GO:0072666	Nk52_evm24s212	establishment of protein localization to vacuole
+347	GO:0072666	Nk52_evm31s224	establishment of protein localization to vacuole
+348	GO:0072666	Nk52_evm34s1705	establishment of protein localization to vacuole
+349	GO:0072666	Nk52_evm35s2474	establishment of protein localization to vacuole
+350	GO:0072666	Nk52_evm3s314	establishment of protein localization to vacuole
+351	GO:0072666	Nk52_evm45s2309	establishment of protein localization to vacuole
+352	GO:0072666	Nk52_evm53s2367	establishment of protein localization to vacuole
+353	GO:0072666	Nk52_evm57s164	establishment of protein localization to vacuole
+354	GO:0072666	Nk52_evm70s151	establishment of protein localization to vacuole
+355	GO:0072666	Nk52_evm7s327	establishment of protein localization to vacuole
+356	GO:0006520	Nk52_evm109s151	amino acid metabolic process
+357	GO:0006520	Nk52_evm10s265	amino acid metabolic process
+358	GO:0006520	Nk52_evm10s578	amino acid metabolic process
+359	GO:0006520	Nk52_evm117s224	amino acid metabolic process
+360	GO:0006520	Nk52_evm13s360	amino acid metabolic process
+361	GO:0006520	Nk52_evm13s628	amino acid metabolic process
+362	GO:0006520	Nk52_evm14s243	amino acid metabolic process
+363	GO:0006520	Nk52_evm15s2085	amino acid metabolic process
+364	GO:0006520	Nk52_evm15s228	amino acid metabolic process
+365	GO:0006520	Nk52_evm16s162	amino acid metabolic process
+366	GO:0006520	Nk52_evm16s250	amino acid metabolic process
+367	GO:0006520	Nk52_evm16s328	amino acid metabolic process
+368	GO:0006520	Nk52_evm17s2612	amino acid metabolic process
+369	GO:0006520	Nk52_evm17s628	amino acid metabolic process
+370	GO:0006520	Nk52_evm18s2340	amino acid metabolic process
+371	GO:0006520	Nk52_evm18s252	amino acid metabolic process
+372	GO:0006520	Nk52_evm18s262	amino acid metabolic process
+373	GO:0006520	Nk52_evm18s564	amino acid metabolic process
+374	GO:0006520	Nk52_evm18s628	amino acid metabolic process
+375	GO:0006520	Nk52_evm19s2506	amino acid metabolic process
+376	GO:0006520	Nk52_evm1s1122	amino acid metabolic process
+377	GO:0006520	Nk52_evm1s1276	amino acid metabolic process
+378	GO:0006520	Nk52_evm1s1609	amino acid metabolic process
+379	GO:0006520	Nk52_evm1s1685	amino acid metabolic process
+380	GO:0006520	Nk52_evm1s1809	amino acid metabolic process
+381	GO:0006520	Nk52_evm1s2038	amino acid metabolic process
+382	GO:0006520	Nk52_evm1s2065	amino acid metabolic process
+383	GO:0006520	Nk52_evm1s2185	amino acid metabolic process
+384	GO:0006520	Nk52_evm1s2374	amino acid metabolic process
+385	GO:0006520	Nk52_evm1s2451	amino acid metabolic process
+386	GO:0006520	Nk52_evm1s409	amino acid metabolic process
+387	GO:0006520	Nk52_evm1s661	amino acid metabolic process
+388	GO:0006520	Nk52_evm1s695	amino acid metabolic process
+389	GO:0006520	Nk52_evm1s815	amino acid metabolic process
+390	GO:0006520	Nk52_evm20s1524	amino acid metabolic process
+391	GO:0006520	Nk52_evm20s248	amino acid metabolic process
+392	GO:0006520	Nk52_evm20s2578	amino acid metabolic process
+393	GO:0006520	Nk52_evm20s553	amino acid metabolic process
+394	GO:0006520	Nk52_evm21s136	amino acid metabolic process
+395	GO:0006520	Nk52_evm21s233	amino acid metabolic process
+396	GO:0006520	Nk52_evm21s271	amino acid metabolic process
+397	GO:0006520	Nk52_evm21s293	amino acid metabolic process
+398	GO:0006520	Nk52_evm22s136	amino acid metabolic process
+399	GO:0006520	Nk52_evm22s225	amino acid metabolic process
+400	GO:0006520	Nk52_evm23s621	amino acid metabolic process
+401	GO:0006520	Nk52_evm25s271	amino acid metabolic process
+402	GO:0006520	Nk52_evm27s2579	amino acid metabolic process
+403	GO:0006520	Nk52_evm28s24	amino acid metabolic process
+404	GO:0006520	Nk52_evm2s155	amino acid metabolic process
+405	GO:0006520	Nk52_evm2s2185	amino acid metabolic process
+406	GO:0006520	Nk52_evm2s449	amino acid metabolic process
+407	GO:0006520	Nk52_evm2s591	amino acid metabolic process
+408	GO:0006520	Nk52_evm2s745	amino acid metabolic process
+409	GO:0006520	Nk52_evm30s2630	amino acid metabolic process
+410	GO:0006520	Nk52_evm31s2657	amino acid metabolic process
+411	GO:0006520	Nk52_evm32s1671	amino acid metabolic process
+412	GO:0006520	Nk52_evm33s1569	amino acid metabolic process
+413	GO:0006520	Nk52_evm33s2568	amino acid metabolic process
+414	GO:0006520	Nk52_evm33s967	amino acid metabolic process
+415	GO:0006520	Nk52_evm34s242	amino acid metabolic process
+416	GO:0006520	Nk52_evm34s356	amino acid metabolic process
+417	GO:0006520	Nk52_evm35s222	amino acid metabolic process
+418	GO:0006520	Nk52_evm35s224	amino acid metabolic process
+419	GO:0006520	Nk52_evm37s236	amino acid metabolic process
+420	GO:0006520	Nk52_evm39s1569	amino acid metabolic process
+421	GO:0006520	Nk52_evm3s123	amino acid metabolic process
+422	GO:0006520	Nk52_evm3s2367	amino acid metabolic process
+423	GO:0006520	Nk52_evm3s305	amino acid metabolic process
+424	GO:0006520	Nk52_evm3s376	amino acid metabolic process
+425	GO:0006520	Nk52_evm40s240	amino acid metabolic process
+426	GO:0006520	Nk52_evm42s2309	amino acid metabolic process
+427	GO:0006520	Nk52_evm45s2579	amino acid metabolic process
+428	GO:0006520	Nk52_evm46s1992	amino acid metabolic process
+429	GO:0006520	Nk52_evm49s914	amino acid metabolic process
+430	GO:0006520	Nk52_evm4s2367	amino acid metabolic process
+431	GO:0006520	Nk52_evm4s32	amino acid metabolic process
+432	GO:0006520	Nk52_evm4s376	amino acid metabolic process
+433	GO:0006520	Nk52_evm50s554	amino acid metabolic process
+434	GO:0006520	Nk52_evm51s2309	amino acid metabolic process
+435	GO:0006520	Nk52_evm51s240	amino acid metabolic process
+436	GO:0006520	Nk52_evm52s217	amino acid metabolic process
+437	GO:0006520	Nk52_evm52s221	amino acid metabolic process
+438	GO:0006520	Nk52_evm52s485	amino acid metabolic process
+439	GO:0006520	Nk52_evm53s2118	amino acid metabolic process
+440	GO:0006520	Nk52_evm54s221	amino acid metabolic process
+441	GO:0006520	Nk52_evm55s221	amino acid metabolic process
+442	GO:0006520	Nk52_evm57s210	amino acid metabolic process
+443	GO:0006520	Nk52_evm57s2391	amino acid metabolic process
+444	GO:0006520	Nk52_evm57s266	amino acid metabolic process
+445	GO:0006520	Nk52_evm59s266	amino acid metabolic process
+446	GO:0006520	Nk52_evm5s2039	amino acid metabolic process
+447	GO:0006520	Nk52_evm5s738	amino acid metabolic process
+448	GO:0006520	Nk52_evm62s210	amino acid metabolic process
+449	GO:0006520	Nk52_evm65s208	amino acid metabolic process
+450	GO:0006520	Nk52_evm68s32	amino acid metabolic process
+451	GO:0006520	Nk52_evm69s32	amino acid metabolic process
+452	GO:0006520	Nk52_evm6s1401	amino acid metabolic process
+453	GO:0006520	Nk52_evm6s168	amino acid metabolic process
+454	GO:0006520	Nk52_evm6s215	amino acid metabolic process
+455	GO:0006520	Nk52_evm6s245	amino acid metabolic process
+456	GO:0006520	Nk52_evm6s247	amino acid metabolic process
+457	GO:0006520	Nk52_evm6s385	amino acid metabolic process
+458	GO:0006520	Nk52_evm6s526	amino acid metabolic process
+459	GO:0006520	Nk52_evm73s239	amino acid metabolic process
+460	GO:0006520	Nk52_evm76s221	amino acid metabolic process
+461	GO:0006520	Nk52_evm77s1444	amino acid metabolic process
+462	GO:0006520	Nk52_evm88s1073	amino acid metabolic process
+463	GO:0006520	Nk52_evm8s1271	amino acid metabolic process
+464	GO:0006520	Nk52_evm8s226	amino acid metabolic process
+465	GO:0006520	Nk52_evm92s158	amino acid metabolic process
+466	GO:0006520	Nk52_evm94s164	amino acid metabolic process
+467	GO:0006520	Nk52_evm96s1810	amino acid metabolic process
+468	GO:0006520	Nk52_evm9s2133	amino acid metabolic process
+469	GO:0006520	Nk52_evm9s2356	amino acid metabolic process
+470	GO:0006520	Nk52_evm9s245	amino acid metabolic process
+471	GO:1901565	Nk52_evm106s485	organonitrogen compound catabolic process
+472	GO:1901565	Nk52_evm10s470	organonitrogen compound catabolic process
+473	GO:1901565	Nk52_evm10s578	organonitrogen compound catabolic process
+474	GO:1901565	Nk52_evm112s352	organonitrogen compound catabolic process
+475	GO:1901565	Nk52_evm11s2462	organonitrogen compound catabolic process
+476	GO:1901565	Nk52_evm11s272	organonitrogen compound catabolic process
+477	GO:1901565	Nk52_evm12s2506	organonitrogen compound catabolic process
+478	GO:1901565	Nk52_evm12s372	organonitrogen compound catabolic process
+479	GO:1901565	Nk52_evm13s2284	organonitrogen compound catabolic process
+480	GO:1901565	Nk52_evm13s238	organonitrogen compound catabolic process
+481	GO:1901565	Nk52_evm13s254	organonitrogen compound catabolic process
+482	GO:1901565	Nk52_evm13s307	organonitrogen compound catabolic process
+483	GO:1901565	Nk52_evm143s226	organonitrogen compound catabolic process
+484	GO:1901565	Nk52_evm14s243	organonitrogen compound catabolic process
+485	GO:1901565	Nk52_evm15s1869	organonitrogen compound catabolic process
+486	GO:1901565	Nk52_evm15s2085	organonitrogen compound catabolic process
+487	GO:1901565	Nk52_evm15s2241	organonitrogen compound catabolic process
+488	GO:1901565	Nk52_evm15s228	organonitrogen compound catabolic process
+489	GO:1901565	Nk52_evm15s2426	organonitrogen compound catabolic process
+490	GO:1901565	Nk52_evm15s2462	organonitrogen compound catabolic process
+491	GO:1901565	Nk52_evm15s2640	organonitrogen compound catabolic process
+492	GO:1901565	Nk52_evm15s272	organonitrogen compound catabolic process
+493	GO:1901565	Nk52_evm15s299	organonitrogen compound catabolic process
+494	GO:1901565	Nk52_evm15s307	organonitrogen compound catabolic process
+495	GO:1901565	Nk52_evm16s157	organonitrogen compound catabolic process
+496	GO:1901565	Nk52_evm16s162	organonitrogen compound catabolic process
+497	GO:1901565	Nk52_evm16s212	organonitrogen compound catabolic process
+498	GO:1901565	Nk52_evm16s224	organonitrogen compound catabolic process
+499	GO:1901565	Nk52_evm16s2640	organonitrogen compound catabolic process
+500	GO:1901565	Nk52_evm17s151	organonitrogen compound catabolic process
+501	GO:1901565	Nk52_evm17s159	organonitrogen compound catabolic process
+502	GO:1901565	Nk52_evm17s162	organonitrogen compound catabolic process
+503	GO:1901565	Nk52_evm17s24	organonitrogen compound catabolic process
+504	GO:1901565	Nk52_evm17s628	organonitrogen compound catabolic process
+505	GO:1901565	Nk52_evm18s147	organonitrogen compound catabolic process
+506	GO:1901565	Nk52_evm18s207	organonitrogen compound catabolic process
+507	GO:1901565	Nk52_evm18s2273	organonitrogen compound catabolic process
+508	GO:1901565	Nk52_evm18s246	organonitrogen compound catabolic process
+509	GO:1901565	Nk52_evm18s252	organonitrogen compound catabolic process
+510	GO:1901565	Nk52_evm18s262	organonitrogen compound catabolic process
+511	GO:1901565	Nk52_evm18s628	organonitrogen compound catabolic process
+512	GO:1901565	Nk52_evm19s2273	organonitrogen compound catabolic process
+513	GO:1901565	Nk52_evm19s2506	organonitrogen compound catabolic process
+514	GO:1901565	Nk52_evm1s1208	organonitrogen compound catabolic process
+515	GO:1901565	Nk52_evm1s1248	organonitrogen compound catabolic process
+516	GO:1901565	Nk52_evm1s1791	organonitrogen compound catabolic process
+517	GO:1901565	Nk52_evm1s1809	organonitrogen compound catabolic process
+518	GO:1901565	Nk52_evm1s2002	organonitrogen compound catabolic process
+519	GO:1901565	Nk52_evm1s2038	organonitrogen compound catabolic process
+520	GO:1901565	Nk52_evm1s2113	organonitrogen compound catabolic process
+521	GO:1901565	Nk52_evm1s2185	organonitrogen compound catabolic process
+522	GO:1901565	Nk52_evm1s2243	organonitrogen compound catabolic process
+523	GO:1901565	Nk52_evm1s2276	organonitrogen compound catabolic process
+524	GO:1901565	Nk52_evm1s2374	organonitrogen compound catabolic process
+525	GO:1901565	Nk52_evm1s2451	organonitrogen compound catabolic process
+526	GO:1901565	Nk52_evm1s2613	organonitrogen compound catabolic process
+527	GO:1901565	Nk52_evm1s494	organonitrogen compound catabolic process
+528	GO:1901565	Nk52_evm1s661	organonitrogen compound catabolic process
+529	GO:1901565	Nk52_evm1s695	organonitrogen compound catabolic process
+530	GO:1901565	Nk52_evm1s848	organonitrogen compound catabolic process
+531	GO:1901565	Nk52_evm20s1524	organonitrogen compound catabolic process
+532	GO:1901565	Nk52_evm20s2273	organonitrogen compound catabolic process
+533	GO:1901565	Nk52_evm20s2578	organonitrogen compound catabolic process
+534	GO:1901565	Nk52_evm21s158	organonitrogen compound catabolic process
+535	GO:1901565	Nk52_evm21s233	organonitrogen compound catabolic process
+536	GO:1901565	Nk52_evm21s24	organonitrogen compound catabolic process
+537	GO:1901565	Nk52_evm21s2579	organonitrogen compound catabolic process
+538	GO:1901565	Nk52_evm22s2657	organonitrogen compound catabolic process
+539	GO:1901565	Nk52_evm22s359	organonitrogen compound catabolic process
+540	GO:1901565	Nk52_evm23s2085	organonitrogen compound catabolic process
+541	GO:1901565	Nk52_evm24s212	organonitrogen compound catabolic process
+542	GO:1901565	Nk52_evm24s2192	organonitrogen compound catabolic process
+543	GO:1901565	Nk52_evm24s238	organonitrogen compound catabolic process
+544	GO:1901565	Nk52_evm24s266	organonitrogen compound catabolic process
+545	GO:1901565	Nk52_evm26s1524	organonitrogen compound catabolic process
+546	GO:1901565	Nk52_evm26s745	organonitrogen compound catabolic process
+547	GO:1901565	Nk52_evm27s2474	organonitrogen compound catabolic process
+548	GO:1901565	Nk52_evm27s294	organonitrogen compound catabolic process
+549	GO:1901565	Nk52_evm28s217	organonitrogen compound catabolic process
+550	GO:1901565	Nk52_evm28s243	organonitrogen compound catabolic process
+551	GO:1901565	Nk52_evm29s2356	organonitrogen compound catabolic process
+552	GO:1901565	Nk52_evm2s155	organonitrogen compound catabolic process
+553	GO:1901565	Nk52_evm2s2185	organonitrogen compound catabolic process
+554	GO:1901565	Nk52_evm2s449	organonitrogen compound catabolic process
+555	GO:1901565	Nk52_evm30s226	organonitrogen compound catabolic process
+556	GO:1901565	Nk52_evm30s2630	organonitrogen compound catabolic process
+557	GO:1901565	Nk52_evm31s239	organonitrogen compound catabolic process
+558	GO:1901565	Nk52_evm32s1485	organonitrogen compound catabolic process
+559	GO:1901565	Nk52_evm32s1671	organonitrogen compound catabolic process
+560	GO:1901565	Nk52_evm32s2474	organonitrogen compound catabolic process
+561	GO:1901565	Nk52_evm33s1444	organonitrogen compound catabolic process
+562	GO:1901565	Nk52_evm33s967	organonitrogen compound catabolic process
+563	GO:1901565	Nk52_evm35s2325	organonitrogen compound catabolic process
+564	GO:1901565	Nk52_evm35s255	organonitrogen compound catabolic process
+565	GO:1901565	Nk52_evm36s304	organonitrogen compound catabolic process
+566	GO:1901565	Nk52_evm37s1073	organonitrogen compound catabolic process
+567	GO:1901565	Nk52_evm37s151	organonitrogen compound catabolic process
+568	GO:1901565	Nk52_evm37s236	organonitrogen compound catabolic process
+569	GO:1901565	Nk52_evm37s239	organonitrogen compound catabolic process
+570	GO:1901565	Nk52_evm38s248	organonitrogen compound catabolic process
+571	GO:1901565	Nk52_evm3s223	organonitrogen compound catabolic process
+572	GO:1901565	Nk52_evm3s314	organonitrogen compound catabolic process
+573	GO:1901565	Nk52_evm40s24	organonitrogen compound catabolic process
+574	GO:1901565	Nk52_evm42s224	organonitrogen compound catabolic process
+575	GO:1901565	Nk52_evm45s1129	organonitrogen compound catabolic process
+576	GO:1901565	Nk52_evm45s2309	organonitrogen compound catabolic process
+577	GO:1901565	Nk52_evm45s2579	organonitrogen compound catabolic process
+578	GO:1901565	Nk52_evm46s207	organonitrogen compound catabolic process
+579	GO:1901565	Nk52_evm47s621	organonitrogen compound catabolic process
+580	GO:1901565	Nk52_evm49s914	organonitrogen compound catabolic process
+581	GO:1901565	Nk52_evm4s2152	organonitrogen compound catabolic process
+582	GO:1901565	Nk52_evm4s2367	organonitrogen compound catabolic process
+583	GO:1901565	Nk52_evm4s371	organonitrogen compound catabolic process
+584	GO:1901565	Nk52_evm4s78	organonitrogen compound catabolic process
+585	GO:1901565	Nk52_evm4s96	organonitrogen compound catabolic process
+586	GO:1901565	Nk52_evm51s2309	organonitrogen compound catabolic process
+587	GO:1901565	Nk52_evm52s215	organonitrogen compound catabolic process
+588	GO:1901565	Nk52_evm53s2118	organonitrogen compound catabolic process
+589	GO:1901565	Nk52_evm53s215	organonitrogen compound catabolic process
+590	GO:1901565	Nk52_evm53s2367	organonitrogen compound catabolic process
+591	GO:1901565	Nk52_evm55s621	organonitrogen compound catabolic process
+592	GO:1901565	Nk52_evm57s164	organonitrogen compound catabolic process
+593	GO:1901565	Nk52_evm57s2391	organonitrogen compound catabolic process
+594	GO:1901565	Nk52_evm58s1444	organonitrogen compound catabolic process
+595	GO:1901565	Nk52_evm58s221	organonitrogen compound catabolic process
+596	GO:1901565	Nk52_evm58s554	organonitrogen compound catabolic process
+597	GO:1901565	Nk52_evm59s485	organonitrogen compound catabolic process
+598	GO:1901565	Nk52_evm5s1705	organonitrogen compound catabolic process
+599	GO:1901565	Nk52_evm5s179	organonitrogen compound catabolic process
+600	GO:1901565	Nk52_evm5s2039	organonitrogen compound catabolic process
+601	GO:1901565	Nk52_evm5s245	organonitrogen compound catabolic process
+602	GO:1901565	Nk52_evm5s2596	organonitrogen compound catabolic process
+603	GO:1901565	Nk52_evm5s299	organonitrogen compound catabolic process
+604	GO:1901565	Nk52_evm5s356	organonitrogen compound catabolic process
+605	GO:1901565	Nk52_evm5s462	organonitrogen compound catabolic process
+606	GO:1901565	Nk52_evm62s266	organonitrogen compound catabolic process
+607	GO:1901565	Nk52_evm63s1737	organonitrogen compound catabolic process
+608	GO:1901565	Nk52_evm66s343	organonitrogen compound catabolic process
+609	GO:1901565	Nk52_evm68s224	organonitrogen compound catabolic process
+610	GO:1901565	Nk52_evm69s1810	organonitrogen compound catabolic process
+611	GO:1901565	Nk52_evm69s1992	organonitrogen compound catabolic process
+612	GO:1901565	Nk52_evm6s116	organonitrogen compound catabolic process
+613	GO:1901565	Nk52_evm6s215	organonitrogen compound catabolic process
+614	GO:1901565	Nk52_evm6s2241	organonitrogen compound catabolic process
+615	GO:1901565	Nk52_evm6s2391	organonitrogen compound catabolic process
+616	GO:1901565	Nk52_evm6s351	organonitrogen compound catabolic process
+617	GO:1901565	Nk52_evm6s385	organonitrogen compound catabolic process
+618	GO:1901565	Nk52_evm6s526	organonitrogen compound catabolic process
+619	GO:1901565	Nk52_evm70s151	organonitrogen compound catabolic process
+620	GO:1901565	Nk52_evm72s215	organonitrogen compound catabolic process
+621	GO:1901565	Nk52_evm76s221	organonitrogen compound catabolic process
+622	GO:1901565	Nk52_evm77s207	organonitrogen compound catabolic process
+623	GO:1901565	Nk52_evm7s1224	organonitrogen compound catabolic process
+624	GO:1901565	Nk52_evm7s2635	organonitrogen compound catabolic process
+625	GO:1901565	Nk52_evm7s295	organonitrogen compound catabolic process
+626	GO:1901565	Nk52_evm7s327	organonitrogen compound catabolic process
+627	GO:1901565	Nk52_evm7s356	organonitrogen compound catabolic process
+628	GO:1901565	Nk52_evm80s207	organonitrogen compound catabolic process
+629	GO:1901565	Nk52_evm80s914	organonitrogen compound catabolic process
+630	GO:1901565	Nk52_evm84s217	organonitrogen compound catabolic process
+631	GO:1901565	Nk52_evm88s1073	organonitrogen compound catabolic process
+632	GO:1901565	Nk52_evm8s1073	organonitrogen compound catabolic process
+633	GO:1901565	Nk52_evm8s1271	organonitrogen compound catabolic process
+634	GO:1901565	Nk52_evm8s2039	organonitrogen compound catabolic process
+635	GO:1901565	Nk52_evm8s207	organonitrogen compound catabolic process
+636	GO:1901565	Nk52_evm8s2171	organonitrogen compound catabolic process
+637	GO:1901565	Nk52_evm8s304	organonitrogen compound catabolic process
+638	GO:1901565	Nk52_evm91s2118	organonitrogen compound catabolic process
+639	GO:1901565	Nk52_evm96s1810	organonitrogen compound catabolic process
+640	GO:1901565	Nk52_evm99s2192	organonitrogen compound catabolic process
+641	GO:1901565	Nk52_evm99s224	organonitrogen compound catabolic process
+642	GO:1901565	Nk52_evm9s1178	organonitrogen compound catabolic process
+643	GO:1901565	Nk52_evm9s166	organonitrogen compound catabolic process
+644	GO:1901565	Nk52_evm9s2133	organonitrogen compound catabolic process
+645	GO:1901565	Nk52_evm9s2438	organonitrogen compound catabolic process
+646	GO:1901565	Nk52_evm9s310	organonitrogen compound catabolic process
+647	GO:1901565	Nk52_evm9s316	organonitrogen compound catabolic process
+648	GO:0034058	Nk52_evm13s2209	endosomal vesicle fusion
+649	GO:0034058	Nk52_evm30s343	endosomal vesicle fusion
+650	GO:0034058	Nk52_evm31s2209	endosomal vesicle fusion
+651	GO:0034058	Nk52_evm31s224	endosomal vesicle fusion
+652	GO:0034058	Nk52_evm35s2474	endosomal vesicle fusion
+653	GO:0034058	Nk52_evm35s32	endosomal vesicle fusion
+654	GO:0006536	Nk52_evm18s252	glutamate metabolic process
+655	GO:0006536	Nk52_evm18s262	glutamate metabolic process
+656	GO:0006536	Nk52_evm1s2374	glutamate metabolic process
+657	GO:0006536	Nk52_evm27s2579	glutamate metabolic process
+658	GO:0006536	Nk52_evm2s155	glutamate metabolic process
+659	GO:0006536	Nk52_evm34s242	glutamate metabolic process
+660	GO:0006536	Nk52_evm37s236	glutamate metabolic process
+661	GO:0006536	Nk52_evm40s240	glutamate metabolic process
+662	GO:0006536	Nk52_evm53s2118	glutamate metabolic process
+663	GO:0006536	Nk52_evm6s245	glutamate metabolic process
+664	GO:0006536	Nk52_evm6s526	glutamate metabolic process
+665	GO:0006536	Nk52_evm96s1810	glutamate metabolic process
+666	GO:0006536	Nk52_evm9s2133	glutamate metabolic process
+667	GO:0006568	Nk52_evm10s578	tryptophan metabolic process
+668	GO:0006568	Nk52_evm1s2038	tryptophan metabolic process
+669	GO:0006568	Nk52_evm1s2185	tryptophan metabolic process
+670	GO:0006568	Nk52_evm20s248	tryptophan metabolic process
+671	GO:0006568	Nk52_evm2s2185	tryptophan metabolic process
+672	GO:0006568	Nk52_evm52s221	tryptophan metabolic process
+673	GO:0006568	Nk52_evm54s221	tryptophan metabolic process
+674	GO:0006568	Nk52_evm55s221	tryptophan metabolic process
+675	GO:0006568	Nk52_evm5s738	tryptophan metabolic process
+676	GO:0048268	Nk52_evm30s255	clathrin coat assembly
+677	GO:0048268	Nk52_evm36s240	clathrin coat assembly
+678	GO:0048268	Nk52_evm6s213	clathrin coat assembly
+679	GO:0048268	Nk52_evm72s239	clathrin coat assembly
+680	GO:0048268	Nk52_evm7s331	clathrin coat assembly
+681	GO:0046050	Nk52_evm15s272	UMP catabolic process
+682	GO:0046050	Nk52_evm24s266	UMP catabolic process
+683	GO:0046050	Nk52_evm30s2630	UMP catabolic process
+684	GO:0046050	Nk52_evm49s914	UMP catabolic process
+685	GO:0046079	Nk52_evm15s272	dUMP catabolic process
+686	GO:0046079	Nk52_evm24s266	dUMP catabolic process
+687	GO:0046079	Nk52_evm30s2630	dUMP catabolic process
+688	GO:0046079	Nk52_evm49s914	dUMP catabolic process
+689	GO:0006248	Nk52_evm15s272	CMP catabolic process
+690	GO:0006248	Nk52_evm24s266	CMP catabolic process
+691	GO:0006248	Nk52_evm30s2630	CMP catabolic process
+692	GO:0006248	Nk52_evm49s914	CMP catabolic process
+693	GO:0006249	Nk52_evm15s272	dCMP catabolic process
+694	GO:0006249	Nk52_evm24s266	dCMP catabolic process
+695	GO:0006249	Nk52_evm30s2630	dCMP catabolic process
+696	GO:0006249	Nk52_evm49s914	dCMP catabolic process
+697	GO:0046950	Nk52_evm1s1406	cellular ketone body metabolic process
+698	GO:0046950	Nk52_evm1s661	cellular ketone body metabolic process
+699	GO:0046950	Nk52_evm1s695	cellular ketone body metabolic process
+700	GO:0046950	Nk52_evm45s2579	cellular ketone body metabolic process
+701	GO:1903371	Nk52_evm1s934	regulation of endoplasmic reticulum tubular network organization
+702	GO:1903371	Nk52_evm3s545	regulation of endoplasmic reticulum tubular network organization
+703	GO:1903371	Nk52_evm57s1360	regulation of endoplasmic reticulum tubular network organization
+704	GO:1903371	Nk52_evm69s343	regulation of endoplasmic reticulum tubular network organization
+705	GO:0015734	Nk52_evm1s1472	taurine transport
+706	GO:0015734	Nk52_evm1s780	taurine transport
+707	GO:0015734	Nk52_evm54s210	taurine transport
+708	GO:0015734	Nk52_evm57s153	taurine transport
+709	GO:0015734	Nk52_evm5s165	taurine transport
+710	GO:0045493	Nk52_evm10s312	xylan catabolic process
+711	GO:0045493	Nk52_evm26s228	xylan catabolic process
+712	GO:0045493	Nk52_evm33s2356	xylan catabolic process
+713	GO:0045493	Nk52_evm60s1020	xylan catabolic process
+714	GO:0045493	Nk52_evm7s2039	xylan catabolic process
+715	GO:0010438	Nk52_evm1s1472	cellular response to sulfur starvation
+716	GO:0010438	Nk52_evm1s780	cellular response to sulfur starvation
+717	GO:0010438	Nk52_evm54s210	cellular response to sulfur starvation
+718	GO:0010438	Nk52_evm57s153	cellular response to sulfur starvation
+719	GO:0010438	Nk52_evm5s165	cellular response to sulfur starvation
+720	GO:0009970	Nk52_evm1s1472	cellular response to sulfate starvation
+721	GO:0009970	Nk52_evm1s780	cellular response to sulfate starvation
+722	GO:0009970	Nk52_evm54s210	cellular response to sulfate starvation
+723	GO:0009970	Nk52_evm57s153	cellular response to sulfate starvation
+724	GO:0009970	Nk52_evm5s165	cellular response to sulfate starvation
+725	GO:0006487	Nk52_evm10s352	protein N-linked glycosylation
+726	GO:0006487	Nk52_evm12s1763	protein N-linked glycosylation
+727	GO:0006487	Nk52_evm14s1763	protein N-linked glycosylation
+728	GO:0006487	Nk52_evm1s1763	protein N-linked glycosylation
+729	GO:0006487	Nk52_evm20s1737	protein N-linked glycosylation
+730	GO:0006487	Nk52_evm21s158	protein N-linked glycosylation
+731	GO:0006487	Nk52_evm23s96	protein N-linked glycosylation
+732	GO:0006487	Nk52_evm26s215	protein N-linked glycosylation
+733	GO:0006487	Nk52_evm26s292	protein N-linked glycosylation
+734	GO:0006487	Nk52_evm2s244	protein N-linked glycosylation
+735	GO:0006487	Nk52_evm37s239	protein N-linked glycosylation
+736	GO:0006487	Nk52_evm48s224	protein N-linked glycosylation
+737	GO:0006487	Nk52_evm5s1671	protein N-linked glycosylation
+738	GO:0006487	Nk52_evm5s2226	protein N-linked glycosylation
+739	GO:0006487	Nk52_evm7s1763	protein N-linked glycosylation
+740	GO:0006487	Nk52_evm8s553	protein N-linked glycosylation
+741	GO:0006487	Nk52_evm94s1073	protein N-linked glycosylation
+742	GO:0007033	Nk52_evm10s272	vacuole organization
+743	GO:0007033	Nk52_evm116s226	vacuole organization
+744	GO:0007033	Nk52_evm121s485	vacuole organization
+745	GO:0007033	Nk52_evm12s372	vacuole organization
+746	GO:0007033	Nk52_evm17s262	vacuole organization
+747	GO:0007033	Nk52_evm18s207	vacuole organization
+748	GO:0007033	Nk52_evm1s1141	vacuole organization
+749	GO:0007033	Nk52_evm1s1791	vacuole organization
+750	GO:0007033	Nk52_evm1s1803	vacuole organization
+751	GO:0007033	Nk52_evm1s219	vacuole organization
+752	GO:0007033	Nk52_evm1s279	vacuole organization
+753	GO:0007033	Nk52_evm20s287	vacuole organization
+754	GO:0007033	Nk52_evm23s2085	vacuole organization
+755	GO:0007033	Nk52_evm23s96	vacuole organization
+756	GO:0007033	Nk52_evm24s914	vacuole organization
+757	GO:0007033	Nk52_evm30s343	vacuole organization
+758	GO:0007033	Nk52_evm31s239	vacuole organization
+759	GO:0007033	Nk52_evm35s32	vacuole organization
+760	GO:0007033	Nk52_evm3s319	vacuole organization
+761	GO:0007033	Nk52_evm41s153	vacuole organization
+762	GO:0007033	Nk52_evm47s745	vacuole organization
+763	GO:0007033	Nk52_evm4s217	vacuole organization
+764	GO:0007033	Nk52_evm50s207	vacuole organization
+765	GO:0007033	Nk52_evm51s208	vacuole organization
+766	GO:0007033	Nk52_evm56s152	vacuole organization
+767	GO:0007033	Nk52_evm57s1360	vacuole organization
+768	GO:0007033	Nk52_evm57s164	vacuole organization
+769	GO:0007033	Nk52_evm57s2367	vacuole organization
+770	GO:0007033	Nk52_evm69s343	vacuole organization
+771	GO:0007033	Nk52_evm76s485	vacuole organization
+772	GO:0007033	Nk52_evm7s269	vacuole organization
+773	GO:0007033	Nk52_evm91s352	vacuole organization
+774	GO:0060236	Nk52_evm112s352	regulation of mitotic spindle organization
+775	GO:0060236	Nk52_evm13s2011	regulation of mitotic spindle organization
+776	GO:0060236	Nk52_evm28s294	regulation of mitotic spindle organization
+777	GO:0060236	Nk52_evm2s332	regulation of mitotic spindle organization
+778	GO:0060236	Nk52_evm36s240	regulation of mitotic spindle organization
+779	GO:0060236	Nk52_evm3s1524	regulation of mitotic spindle organization
+780	GO:0060236	Nk52_evm3s252	regulation of mitotic spindle organization
+781	GO:0060236	Nk52_evm63s239	regulation of mitotic spindle organization
+782	GO:0030243	Nk52_evm15s230	cellulose metabolic process
+783	GO:0030243	Nk52_evm19s230	cellulose metabolic process
+784	GO:0030243	Nk52_evm21s230	cellulose metabolic process
+785	GO:0030243	Nk52_evm21s2496	cellulose metabolic process
+786	GO:0030243	Nk52_evm21s273	cellulose metabolic process
+787	GO:0030243	Nk52_evm25s210	cellulose metabolic process
+788	GO:0030243	Nk52_evm84s217	cellulose metabolic process
+789	GO:0030243	Nk52_evm9s462	cellulose metabolic process
+790	GO:0034063	Nk52_evm12s248	stress granule assembly
+791	GO:0034063	Nk52_evm13s2011	stress granule assembly
+792	GO:0034063	Nk52_evm1s189	stress granule assembly
+793	GO:0034063	Nk52_evm1s2152	stress granule assembly
+794	GO:0034063	Nk52_evm1s406	stress granule assembly
+795	GO:0034063	Nk52_evm4s217	stress granule assembly
+796	GO:0006145	Nk52_evm15s2426	purine nucleobase catabolic process
+797	GO:0006145	Nk52_evm1s2243	purine nucleobase catabolic process
+798	GO:0006145	Nk52_evm49s914	purine nucleobase catabolic process
+799	GO:0006145	Nk52_evm59s485	purine nucleobase catabolic process
+800	GO:0006145	Nk52_evm63s1737	purine nucleobase catabolic process
+801	GO:0006145	Nk52_evm6s2391	purine nucleobase catabolic process
+802	GO:0099022	Nk52_evm13s260	vesicle tethering
+803	GO:0099022	Nk52_evm16s2377	vesicle tethering
+804	GO:0099022	Nk52_evm16s280	vesicle tethering
+805	GO:0099022	Nk52_evm1s1542	vesicle tethering
+806	GO:0099022	Nk52_evm37s147	vesicle tethering
+807	GO:0099022	Nk52_evm3s298	vesicle tethering
+808	GO:0006635	Nk52_evm109s352	fatty acid beta-oxidation
+809	GO:0006635	Nk52_evm13s1178	fatty acid beta-oxidation
+810	GO:0006635	Nk52_evm14s1400	fatty acid beta-oxidation
+811	GO:0006635	Nk52_evm17s2640	fatty acid beta-oxidation
+812	GO:0006635	Nk52_evm20s248	fatty acid beta-oxidation
+813	GO:0006635	Nk52_evm21s2152	fatty acid beta-oxidation
+814	GO:0006635	Nk52_evm21s2506	fatty acid beta-oxidation
+815	GO:0006635	Nk52_evm24s554	fatty acid beta-oxidation
+816	GO:0006635	Nk52_evm27s2506	fatty acid beta-oxidation
+817	GO:0006635	Nk52_evm29s266	fatty acid beta-oxidation
+818	GO:0006635	Nk52_evm33s967	fatty acid beta-oxidation
+819	GO:0006635	Nk52_evm34s2133	fatty acid beta-oxidation
+820	GO:0006635	Nk52_evm45s2579	fatty acid beta-oxidation
+821	GO:0006635	Nk52_evm60s1360	fatty acid beta-oxidation
+822	GO:0006635	Nk52_evm63s485	fatty acid beta-oxidation
+823	GO:0006635	Nk52_evm7s1945	fatty acid beta-oxidation
+824	GO:0006635	Nk52_evm7s351	fatty acid beta-oxidation
+825	GO:0071577	Nk52_evm100s914	zinc ion transmembrane transport
+826	GO:0071577	Nk52_evm10s235	zinc ion transmembrane transport
+827	GO:0071577	Nk52_evm11s2542	zinc ion transmembrane transport
+828	GO:0071577	Nk52_evm14s376	zinc ion transmembrane transport
+829	GO:0071577	Nk52_evm16s208	zinc ion transmembrane transport
+830	GO:0071577	Nk52_evm1s2258	zinc ion transmembrane transport
+831	GO:0071577	Nk52_evm1s2465	zinc ion transmembrane transport
+832	GO:0071577	Nk52_evm20s2426	zinc ion transmembrane transport
+833	GO:0071577	Nk52_evm30s252	zinc ion transmembrane transport
+834	GO:0071577	Nk52_evm46s343	zinc ion transmembrane transport
+835	GO:0071577	Nk52_evm83s151	zinc ion transmembrane transport
+836	GO:0010043	Nk52_evm100s914	response to zinc ion
+837	GO:0010043	Nk52_evm10s235	response to zinc ion
+838	GO:0010043	Nk52_evm14s376	response to zinc ion
+839	GO:0010043	Nk52_evm1s2258	response to zinc ion
+840	GO:0010043	Nk52_evm30s252	response to zinc ion
+841	GO:0010043	Nk52_evm3s1178	response to zinc ion
+842	GO:1903902	Nk52_evm12s262	positive regulation of viral life cycle
+843	GO:1903902	Nk52_evm1s2554	positive regulation of viral life cycle
+844	GO:1903902	Nk52_evm33s1444	positive regulation of viral life cycle
+845	GO:1903902	Nk52_evm53s2367	positive regulation of viral life cycle
+846	GO:1903902	Nk52_evm9s1178	positive regulation of viral life cycle
+847	GO:0090148	Nk52_evm11s2462	membrane fission
+848	GO:0090148	Nk52_evm3s298	membrane fission
+849	GO:0090148	Nk52_evm3s314	membrane fission
+850	GO:0090148	Nk52_evm53s2367	membrane fission
+851	GO:0090148	Nk52_evm71s1810	membrane fission
+852	GO:0070814	Nk52_evm21s271	hydrogen sulfide biosynthetic process
+853	GO:0070814	Nk52_evm35s224	hydrogen sulfide biosynthetic process
+854	GO:0070814	Nk52_evm57s210	hydrogen sulfide biosynthetic process
+855	GO:0070814	Nk52_evm59s210	hydrogen sulfide biosynthetic process
+856	GO:0070814	Nk52_evm62s210	hydrogen sulfide biosynthetic process
+857	GO:0006099	Nk52_evm16s162	tricarboxylic acid cycle
+858	GO:0006099	Nk52_evm1s1079	tricarboxylic acid cycle
+859	GO:0006099	Nk52_evm2s284	tricarboxylic acid cycle
+860	GO:0006099	Nk52_evm2s314	tricarboxylic acid cycle
+861	GO:0006099	Nk52_evm32s1073	tricarboxylic acid cycle
+862	GO:0006099	Nk52_evm34s242	tricarboxylic acid cycle
+863	GO:0006099	Nk52_evm3s346	tricarboxylic acid cycle
+864	GO:0006099	Nk52_evm42s2309	tricarboxylic acid cycle
+865	GO:0006099	Nk52_evm58s164	tricarboxylic acid cycle
+866	GO:0006099	Nk52_evm6s294	tricarboxylic acid cycle
+867	GO:0006099	Nk52_evm77s2192	tricarboxylic acid cycle
+868	GO:0006099	Nk52_evm8s167	tricarboxylic acid cycle
+869	GO:0006099	Nk52_evm8s2426	tricarboxylic acid cycle
+870	GO:0006099	Nk52_evm9s2356	tricarboxylic acid cycle
+871	GO:0120162	Nk52_evm13s2011	positive regulation of cold-induced thermogenesis
+872	GO:0120162	Nk52_evm1s279	positive regulation of cold-induced thermogenesis
+873	GO:0120162	Nk52_evm21s162	positive regulation of cold-induced thermogenesis
+874	GO:0120162	Nk52_evm24s554	positive regulation of cold-induced thermogenesis
+875	GO:0120162	Nk52_evm35s147	positive regulation of cold-induced thermogenesis
+876	GO:0120162	Nk52_evm42s2309	positive regulation of cold-induced thermogenesis
+877	GO:0120162	Nk52_evm52s270	positive regulation of cold-induced thermogenesis
+878	GO:0120162	Nk52_evm7s1444	positive regulation of cold-induced thermogenesis
+879	GO:0051289	Nk52_evm12s367	protein homotetramerization
+880	GO:0051289	Nk52_evm1s2185	protein homotetramerization
+881	GO:0051289	Nk52_evm20s262	protein homotetramerization
+882	GO:0051289	Nk52_evm2s2185	protein homotetramerization
+883	GO:0051289	Nk52_evm30s2630	protein homotetramerization
+884	GO:0051289	Nk52_evm39s2612	protein homotetramerization
+885	GO:0051289	Nk52_evm59s485	protein homotetramerization
+886	GO:0051289	Nk52_evm69s158	protein homotetramerization
+887	GO:0019344	Nk52_evm1s2065	cysteine biosynthetic process
+888	GO:0019344	Nk52_evm1s815	cysteine biosynthetic process
+889	GO:0019344	Nk52_evm21s271	cysteine biosynthetic process
+890	GO:0019344	Nk52_evm21s293	cysteine biosynthetic process
+891	GO:0019344	Nk52_evm35s224	cysteine biosynthetic process
+892	GO:0019344	Nk52_evm57s210	cysteine biosynthetic process
+893	GO:0019344	Nk52_evm62s210	cysteine biosynthetic process
+894	GO:0019344	Nk52_evm6s245	cysteine biosynthetic process
+895	GO:0009073	Nk52_evm1s1609	aromatic amino acid family biosynthetic process
+896	GO:0009073	Nk52_evm21s233	aromatic amino acid family biosynthetic process
+897	GO:0009073	Nk52_evm28s24	aromatic amino acid family biosynthetic process
+898	GO:0009073	Nk52_evm2s745	aromatic amino acid family biosynthetic process
+899	GO:0009073	Nk52_evm52s221	aromatic amino acid family biosynthetic process
+900	GO:0009073	Nk52_evm54s221	aromatic amino acid family biosynthetic process
+901	GO:0009073	Nk52_evm55s221	aromatic amino acid family biosynthetic process
+902	GO:0009073	Nk52_evm5s738	aromatic amino acid family biosynthetic process
+903	GO:0009073	Nk52_evm77s1444	aromatic amino acid family biosynthetic process
+904	GO:0043605	Nk52_evm16s162	amide catabolic process
+905	GO:0043605	Nk52_evm16s212	amide catabolic process
+906	GO:0043605	Nk52_evm1s2243	amide catabolic process
+907	GO:0043605	Nk52_evm2s155	amide catabolic process
+908	GO:0043605	Nk52_evm37s236	amide catabolic process
+909	GO:0043605	Nk52_evm3s223	amide catabolic process
+910	GO:0043605	Nk52_evm53s2118	amide catabolic process
+911	GO:0043605	Nk52_evm6s2391	amide catabolic process
+912	GO:0043605	Nk52_evm6s526	amide catabolic process
+913	GO:0043605	Nk52_evm8s304	amide catabolic process
+914	GO:0043605	Nk52_evm96s1810	amide catabolic process
+915	GO:0043605	Nk52_evm9s2133	amide catabolic process
+916	GO:0140962	Nk52_evm19s2152	multicellular organismal-level chemical homeostasis
+917	GO:0140962	Nk52_evm1s402	multicellular organismal-level chemical homeostasis
+918	GO:0140962	Nk52_evm21s370	multicellular organismal-level chemical homeostasis
+919	GO:0140962	Nk52_evm31s239	multicellular organismal-level chemical homeostasis
+920	GO:0140962	Nk52_evm91s2118	multicellular organismal-level chemical homeostasis
+921	GO:0042059	Nk52_evm1s1385	negative regulation of epidermal growth factor receptor signaling pathway
+922	GO:0042059	Nk52_evm2s332	negative regulation of epidermal growth factor receptor signaling pathway
+923	GO:0042059	Nk52_evm33s2402	negative regulation of epidermal growth factor receptor signaling pathway
+924	GO:0042059	Nk52_evm53s2367	negative regulation of epidermal growth factor receptor signaling pathway
+925	GO:1902224	Nk52_evm1s1406	ketone body metabolic process
+926	GO:1902224	Nk52_evm1s661	ketone body metabolic process
+927	GO:1902224	Nk52_evm1s695	ketone body metabolic process
+928	GO:1902224	Nk52_evm45s2579	ketone body metabolic process
+929	GO:0006828	Nk52_evm1s1372	manganese ion transport
+930	GO:0006828	Nk52_evm22s234	manganese ion transport
+931	GO:0006828	Nk52_evm22s2579	manganese ion transport
+932	GO:0006828	Nk52_evm23s96	manganese ion transport
+933	GO:0010996	Nk52_evm3s214	response to auditory stimulus
+934	GO:0010996	Nk52_evm55s252	response to auditory stimulus
+935	GO:0010996	Nk52_evm5s299	response to auditory stimulus
+936	GO:0050995	Nk52_evm17s1869	negative regulation of lipid catabolic process
+937	GO:0050995	Nk52_evm35s147	negative regulation of lipid catabolic process
+938	GO:0050995	Nk52_evm60s1360	negative regulation of lipid catabolic process
+939	GO:1902351	Nk52_evm1s1372	response to imidacloprid
+940	GO:1902351	Nk52_evm22s234	response to imidacloprid
+941	GO:1902351	Nk52_evm22s2579	response to imidacloprid
+942	GO:0051305	Nk52_evm1s1208	chromosome movement towards spindle pole
+943	GO:0051305	Nk52_evm23s152	chromosome movement towards spindle pole
+944	GO:0051305	Nk52_evm8s376	chromosome movement towards spindle pole
+945	GO:0000103	Nk52_evm57s210	sulfate assimilation
+946	GO:0000103	Nk52_evm59s210	sulfate assimilation
+947	GO:0000103	Nk52_evm62s210	sulfate assimilation
+948	GO:0006210	Nk52_evm15s272	thymine catabolic process
+949	GO:0006210	Nk52_evm49s914	thymine catabolic process
+950	GO:0006210	Nk52_evm4s2367	thymine catabolic process
+951	GO:0061003	Nk52_evm1s189	positive regulation of dendritic spine morphogenesis
+952	GO:0061003	Nk52_evm1s279	positive regulation of dendritic spine morphogenesis
+953	GO:0061003	Nk52_evm23s152	positive regulation of dendritic spine morphogenesis
+954	GO:0006524	Nk52_evm1s1809	alanine catabolic process
+955	GO:0006524	Nk52_evm1s2451	alanine catabolic process
+956	GO:0006524	Nk52_evm6s215	alanine catabolic process
+957	GO:0009585	Nk52_evm1s407	red, far-red light phototransduction
+958	GO:0009585	Nk52_evm54s62	red, far-red light phototransduction
+959	GO:0009585	Nk52_evm5s386	red, far-red light phototransduction
+960	GO:1900017	Nk52_evm12s262	positive regulation of cytokine production involved in inflammatory response
+961	GO:1900017	Nk52_evm1s2554	positive regulation of cytokine production involved in inflammatory response
+962	GO:1900017	Nk52_evm4s675	positive regulation of cytokine production involved in inflammatory response
+963	GO:0150103	Nk52_evm13s1763	reactive gliosis
+964	GO:0150103	Nk52_evm19s233	reactive gliosis
+965	GO:0150103	Nk52_evm70s215	reactive gliosis
+966	GO:1902065	Nk52_evm1s279	response to L-glutamate
+967	GO:1902065	Nk52_evm36s304	response to L-glutamate
+968	GO:1902065	Nk52_evm36s32	response to L-glutamate
+969	GO:0006491	Nk52_evm1s2178	N-glycan processing
+970	GO:0006491	Nk52_evm21s2496	N-glycan processing
+971	GO:0006491	Nk52_evm29s1485	N-glycan processing
+972	GO:0006491	Nk52_evm34s1671	N-glycan processing
+973	GO:0006491	Nk52_evm37s239	N-glycan processing
+974	GO:0006491	Nk52_evm3s2325	N-glycan processing
+975	GO:0034755	Nk52_evm13s2284	iron ion transmembrane transport
+976	GO:0034755	Nk52_evm17s1400	iron ion transmembrane transport
+977	GO:0034755	Nk52_evm1s1372	iron ion transmembrane transport
+978	GO:0034755	Nk52_evm22s234	iron ion transmembrane transport
+979	GO:0034755	Nk52_evm22s2579	iron ion transmembrane transport
+980	GO:0034755	Nk52_evm51s2657	iron ion transmembrane transport
+981	GO:0034755	Nk52_evm55s621	iron ion transmembrane transport
+982	GO:0007032	Nk52_evm10s272	endosome organization
+983	GO:0007032	Nk52_evm11s2462	endosome organization
+984	GO:0007032	Nk52_evm17s310	endosome organization
+985	GO:0007032	Nk52_evm1s219	endosome organization
+986	GO:0007032	Nk52_evm24s914	endosome organization
+987	GO:0007032	Nk52_evm33s236	endosome organization
+988	GO:0007032	Nk52_evm35s2474	endosome organization
+989	GO:0007032	Nk52_evm3s2524	endosome organization
+990	GO:0007032	Nk52_evm3s314	endosome organization
+991	GO:0007032	Nk52_evm50s207	endosome organization
+992	GO:0007032	Nk52_evm53s2367	endosome organization
+993	GO:0007032	Nk52_evm5s2542	endosome organization
+994	GO:0007032	Nk52_evm73s2367	endosome organization
+995	GO:0072583	Nk52_evm14s1705	clathrin-dependent endocytosis
+996	GO:0072583	Nk52_evm20s2449	clathrin-dependent endocytosis
+997	GO:0072583	Nk52_evm21s1444	clathrin-dependent endocytosis
+998	GO:0072583	Nk52_evm36s240	clathrin-dependent endocytosis
+999	GO:0072583	Nk52_evm4s2438	clathrin-dependent endocytosis
+1000	GO:0072583	Nk52_evm52s621	clathrin-dependent endocytosis
+1001	GO:0072583	Nk52_evm72s239	clathrin-dependent endocytosis
+1002	GO:0072583	Nk52_evm7s331	clathrin-dependent endocytosis
+1003	GO:0072583	Nk52_evm8s215	clathrin-dependent endocytosis
+1004	GO:0006639	Nk52_evm12s2506	acylglycerol metabolic process
+1005	GO:0006639	Nk52_evm15s2241	acylglycerol metabolic process
+1006	GO:0006639	Nk52_evm20s157	acylglycerol metabolic process
+1007	GO:0006639	Nk52_evm21s2506	acylglycerol metabolic process
+1008	GO:0006639	Nk52_evm21s2579	acylglycerol metabolic process
+1009	GO:0006639	Nk52_evm27s1178	acylglycerol metabolic process
+1010	GO:0006639	Nk52_evm28s243	acylglycerol metabolic process
+1011	GO:0006639	Nk52_evm28s2612	acylglycerol metabolic process
+1012	GO:0006639	Nk52_evm2s1705	acylglycerol metabolic process
+1013	GO:0006639	Nk52_evm2s1869	acylglycerol metabolic process
+1014	GO:0006639	Nk52_evm31s239	acylglycerol metabolic process
+1015	GO:0006639	Nk52_evm33s554	acylglycerol metabolic process
+1016	GO:0006639	Nk52_evm35s2325	acylglycerol metabolic process
+1017	GO:0006639	Nk52_evm3s2612	acylglycerol metabolic process
+1018	GO:0006639	Nk52_evm4s1315	acylglycerol metabolic process
+1019	GO:0006639	Nk52_evm4s2496	acylglycerol metabolic process
+1020	GO:0006639	Nk52_evm4s78	acylglycerol metabolic process
+1021	GO:0006639	Nk52_evm53s2039	acylglycerol metabolic process
+1022	GO:0006639	Nk52_evm5s2596	acylglycerol metabolic process
+1023	GO:0006639	Nk52_evm5s299	acylglycerol metabolic process
+1024	GO:0006639	Nk52_evm60s1360	acylglycerol metabolic process
+1025	GO:0006639	Nk52_evm6s2241	acylglycerol metabolic process
+1026	GO:0006639	Nk52_evm8s207	acylglycerol metabolic process
+1027	GO:0006639	Nk52_evm98s1073	acylglycerol metabolic process
+1028	GO:0019878	Nk52_evm10s265	lysine biosynthetic process via aminoadipic acid
+1029	GO:0019878	Nk52_evm17s2612	lysine biosynthetic process via aminoadipic acid
+1030	GO:0019878	Nk52_evm34s242	lysine biosynthetic process via aminoadipic acid
+1031	GO:0019878	Nk52_evm51s240	lysine biosynthetic process via aminoadipic acid
+1032	GO:0019878	Nk52_evm9s2356	lysine biosynthetic process via aminoadipic acid
+1033	GO:0060425	Nk52_evm16s224	lung morphogenesis
+1034	GO:0060425	Nk52_evm16s304	lung morphogenesis
+1035	GO:0060425	Nk52_evm17s967	lung morphogenesis
+1036	GO:0060425	Nk52_evm53s153	lung morphogenesis
+1037	GO:0060425	Nk52_evm91s2118	lung morphogenesis
+1038	GO:0006607	Nk52_evm12s262	NLS-bearing protein import into nucleus
+1039	GO:0006607	Nk52_evm14s254	NLS-bearing protein import into nucleus
+1040	GO:0006607	Nk52_evm18s292	NLS-bearing protein import into nucleus
+1041	GO:0006607	Nk52_evm1s2554	NLS-bearing protein import into nucleus
+1042	GO:0006607	Nk52_evm23s554	NLS-bearing protein import into nucleus
+1043	GO:0006541	Nk52_evm117s224	glutamine metabolic process
+1044	GO:0006541	Nk52_evm13s360	glutamine metabolic process
+1045	GO:0006541	Nk52_evm18s262	glutamine metabolic process
+1046	GO:0006541	Nk52_evm1s1276	glutamine metabolic process
+1047	GO:0006541	Nk52_evm33s1569	glutamine metabolic process
+1048	GO:0006541	Nk52_evm33s2568	glutamine metabolic process
+1049	GO:0006541	Nk52_evm3s123	glutamine metabolic process
+1050	GO:0006541	Nk52_evm40s240	glutamine metabolic process
+1051	GO:0006541	Nk52_evm50s554	glutamine metabolic process
+1052	GO:0006541	Nk52_evm52s221	glutamine metabolic process
+1053	GO:0006541	Nk52_evm55s221	glutamine metabolic process
+1054	GO:0033619	Nk52_evm14s316	membrane protein proteolysis
+1055	GO:0033619	Nk52_evm18s1178	membrane protein proteolysis
+1056	GO:0033619	Nk52_evm24s287	membrane protein proteolysis
+1057	GO:0033619	Nk52_evm37s1073	membrane protein proteolysis
+1058	GO:0033619	Nk52_evm6s539	membrane protein proteolysis
+1059	GO:0033619	Nk52_evm79s164	membrane protein proteolysis
+1060	GO:0033619	Nk52_evm91s2118	membrane protein proteolysis
+1061	GO:0033619	Nk52_evm9s1178	membrane protein proteolysis
+1062	GO:0034394	Nk52_evm23s2085	protein localization to cell surface
+1063	GO:0034394	Nk52_evm29s370	protein localization to cell surface
+1064	GO:0034394	Nk52_evm57s164	protein localization to cell surface
+1065	GO:0034394	Nk52_evm58s239	protein localization to cell surface
+1066	GO:0034394	Nk52_evm5s967	protein localization to cell surface
+1067	GO:0034394	Nk52_evm7s327	protein localization to cell surface
+1068	GO:0034394	Nk52_evm8s675	protein localization to cell surface
+1069	GO:1902116	Nk52_evm1s1141	negative regulation of organelle assembly
+1070	GO:1902116	Nk52_evm1s2152	negative regulation of organelle assembly
+1071	GO:1902116	Nk52_evm1s279	negative regulation of organelle assembly
+1072	GO:1902116	Nk52_evm20s2462	negative regulation of organelle assembly
+1073	GO:1902116	Nk52_evm63s239	negative regulation of organelle assembly
+1074	GO:1902116	Nk52_evm7s269	negative regulation of organelle assembly
+1075	GO:0045116	Nk52_evm10s272	protein neddylation
+1076	GO:0045116	Nk52_evm17s210	protein neddylation
+1077	GO:0045116	Nk52_evm1s2357	protein neddylation
+1078	GO:0045116	Nk52_evm38s2496	protein neddylation
+1079	GO:0045116	Nk52_evm4s545	protein neddylation
+1080	GO:0045116	Nk52_evm62s1401	protein neddylation
+1081	GO:0021761	Nk52_evm13s1763	limbic system development
+1082	GO:0021761	Nk52_evm19s233	limbic system development
+1083	GO:0021761	Nk52_evm1s2078	limbic system development
+1084	GO:0021761	Nk52_evm38s210	limbic system development
+1085	GO:0021761	Nk52_evm4s2062	limbic system development
+1086	GO:0021761	Nk52_evm55s252	limbic system development
+1087	GO:0021761	Nk52_evm57s1360	limbic system development
+1088	GO:0016482	Nk52_evm10s1705	cytosolic transport
+1089	GO:0016482	Nk52_evm10s272	cytosolic transport
+1090	GO:0016482	Nk52_evm15s2473	cytosolic transport
+1091	GO:0016482	Nk52_evm16s280	cytosolic transport
+1092	GO:0016482	Nk52_evm23s136	cytosolic transport
+1093	GO:0016482	Nk52_evm23s152	cytosolic transport
+1094	GO:0016482	Nk52_evm23s2474	cytosolic transport
+1095	GO:0016482	Nk52_evm23s316	cytosolic transport
+1096	GO:0016482	Nk52_evm24s914	cytosolic transport
+1097	GO:0016482	Nk52_evm33s805	cytosolic transport
+1098	GO:0016482	Nk52_evm34s164	cytosolic transport
+1099	GO:0016482	Nk52_evm36s240	cytosolic transport
+1100	GO:0016482	Nk52_evm3s1524	cytosolic transport
+1101	GO:0016482	Nk52_evm3s215	cytosolic transport
+1102	GO:0016482	Nk52_evm3s967	cytosolic transport
+1103	GO:0016482	Nk52_evm40s24	cytosolic transport
+1104	GO:0016482	Nk52_evm41s153	cytosolic transport
+1105	GO:0016482	Nk52_evm4s2152	cytosolic transport
+1106	GO:0016482	Nk52_evm56s217	cytosolic transport
+1107	GO:0016482	Nk52_evm57s1020	cytosolic transport
+1108	GO:0016482	Nk52_evm57s164	cytosolic transport
+1109	GO:0016482	Nk52_evm5s2085	cytosolic transport
+1110	GO:0016482	Nk52_evm5s2542	cytosolic transport
+1111	GO:0016482	Nk52_evm8s2039	cytosolic transport
+1112	GO:0016482	Nk52_evm9s215	cytosolic transport
+1113	GO:0045444	Nk52_evm11s312	fat cell differentiation
+1114	GO:0045444	Nk52_evm15s2640	fat cell differentiation
+1115	GO:0045444	Nk52_evm1s388	fat cell differentiation
+1116	GO:0045444	Nk52_evm21s1129	fat cell differentiation
+1117	GO:0045444	Nk52_evm2s1705	fat cell differentiation
+1118	GO:0045444	Nk52_evm35s147	fat cell differentiation
+1119	GO:0045444	Nk52_evm3s319	fat cell differentiation
+1120	GO:0045444	Nk52_evm4s2367	fat cell differentiation
+1121	GO:0045444	Nk52_evm53s215	fat cell differentiation
+1122	GO:0045444	Nk52_evm56s152	fat cell differentiation
+1123	GO:0045444	Nk52_evm5s179	fat cell differentiation
+1124	GO:0045444	Nk52_evm6s319	fat cell differentiation
+1125	GO:0045444	Nk52_evm91s352	fat cell differentiation
+1126	GO:0045444	Nk52_evm99s2192	fat cell differentiation
+1127	GO:0045444	Nk52_evm9s259	fat cell differentiation
+1128	GO:1902117	Nk52_evm13s2011	positive regulation of organelle assembly
+1129	GO:1902117	Nk52_evm18s2118	positive regulation of organelle assembly
+1130	GO:1902117	Nk52_evm1s189	positive regulation of organelle assembly
+1131	GO:1902117	Nk52_evm1s327	positive regulation of organelle assembly
+1132	GO:1902117	Nk52_evm26s1524	positive regulation of organelle assembly
+1133	GO:1902117	Nk52_evm2s332	positive regulation of organelle assembly
+1134	GO:1902117	Nk52_evm3s252	positive regulation of organelle assembly
+1135	GO:1902117	Nk52_evm43s359	positive regulation of organelle assembly
+1136	GO:1902117	Nk52_evm57s1360	positive regulation of organelle assembly
+1137	GO:1902117	Nk52_evm69s343	positive regulation of organelle assembly
+1138	GO:1902117	Nk52_evm76s485	positive regulation of organelle assembly
+1139	GO:1902117	Nk52_evm77s207	positive regulation of organelle assembly
+1140	GO:1904262	Nk52_evm10s224	negative regulation of TORC1 signaling
+1141	GO:1904262	Nk52_evm15s553	negative regulation of TORC1 signaling
+1142	GO:1904262	Nk52_evm18s2402	negative regulation of TORC1 signaling
+1143	GO:1904262	Nk52_evm1s413	negative regulation of TORC1 signaling
+1144	GO:1904262	Nk52_evm24s156	negative regulation of TORC1 signaling
+1145	GO:1904262	Nk52_evm3s359	negative regulation of TORC1 signaling
+1146	GO:1904262	Nk52_evm4s166	negative regulation of TORC1 signaling
+1147	GO:1904262	Nk52_evm62s485	negative regulation of TORC1 signaling
+1148	GO:1904262	Nk52_evm68s210	negative regulation of TORC1 signaling
+1149	GO:1904262	Nk52_evm82s207	negative regulation of TORC1 signaling
+1150	GO:1904262	Nk52_evm97s914	negative regulation of TORC1 signaling
+1151	GO:1904262	Nk52_evm9s2039	negative regulation of TORC1 signaling
+1152	GO:0009313	Nk52_evm18s207	oligosaccharide catabolic process
+1153	GO:0009313	Nk52_evm29s2462	oligosaccharide catabolic process
+1154	GO:0009313	Nk52_evm6s1992	oligosaccharide catabolic process
+1155	GO:0009313	Nk52_evm6s2133	oligosaccharide catabolic process
+1156	GO:0009313	Nk52_evm9s166	oligosaccharide catabolic process
+1157	GO:0019673	Nk52_evm1s1618	GDP-mannose metabolic process
+1158	GO:0019673	Nk52_evm26s153	GDP-mannose metabolic process
+1159	GO:0019673	Nk52_evm26s370	GDP-mannose metabolic process
+1160	GO:0019673	Nk52_evm37s2402	GDP-mannose metabolic process
+1161	GO:0071340	Nk52_evm1s1866	skeletal muscle acetylcholine-gated channel clustering
+1162	GO:0071340	Nk52_evm1s205	skeletal muscle acetylcholine-gated channel clustering
+1163	GO:0071340	Nk52_evm1s2184	skeletal muscle acetylcholine-gated channel clustering
+1164	GO:0071340	Nk52_evm1s2259	skeletal muscle acetylcholine-gated channel clustering
+1165	GO:0010884	Nk52_evm12s2506	positive regulation of lipid storage
+1166	GO:0010884	Nk52_evm17s1869	positive regulation of lipid storage
+1167	GO:0010884	Nk52_evm35s2325	positive regulation of lipid storage
+1168	GO:0010884	Nk52_evm60s1360	positive regulation of lipid storage
+1169	GO:0042331	Nk52_evm14s1401	phototaxis
+1170	GO:0042331	Nk52_evm1s1485	phototaxis
+1171	GO:0042331	Nk52_evm24s2133	phototaxis
+1172	GO:0042331	Nk52_evm35s226	phototaxis
+1173	GO:0042331	Nk52_evm37s147	phototaxis
+1174	GO:0000032	Nk52_evm12s1763	cell wall mannoprotein biosynthetic process
+1175	GO:0000032	Nk52_evm14s1763	cell wall mannoprotein biosynthetic process
+1176	GO:0000032	Nk52_evm1s1763	cell wall mannoprotein biosynthetic process
+1177	GO:0000032	Nk52_evm48s224	cell wall mannoprotein biosynthetic process
+1178	GO:0000032	Nk52_evm7s1763	cell wall mannoprotein biosynthetic process
+1179	GO:0046856	Nk52_evm16s236	phosphatidylinositol dephosphorylation
+1180	GO:0046856	Nk52_evm16s554	phosphatidylinositol dephosphorylation
+1181	GO:0046856	Nk52_evm17s262	phosphatidylinositol dephosphorylation
+1182	GO:0046856	Nk52_evm1s2391	phosphatidylinositol dephosphorylation
+1183	GO:0046856	Nk52_evm29s223	phosphatidylinositol dephosphorylation
+1184	GO:0046856	Nk52_evm41s745	phosphatidylinositol dephosphorylation
+1185	GO:0046856	Nk52_evm49s224	phosphatidylinositol dephosphorylation
+1186	GO:0048873	Nk52_evm31s239	homeostasis of number of cells within a tissue
+1187	GO:0048873	Nk52_evm42s2309	homeostasis of number of cells within a tissue
+1188	GO:0048873	Nk52_evm57s164	homeostasis of number of cells within a tissue
+1189	GO:0000338	Nk52_evm17s210	protein deneddylation
+1190	GO:0000338	Nk52_evm1s1331	protein deneddylation
+1191	GO:0000338	Nk52_evm54s62	protein deneddylation
+1192	GO:0051292	Nk52_evm1s1178	nuclear pore complex assembly
+1193	GO:0051292	Nk52_evm1s262	nuclear pore complex assembly
+1194	GO:0051292	Nk52_evm4s397	nuclear pore complex assembly
+1195	GO:0045056	Nk52_evm13s232	transcytosis
+1196	GO:0045056	Nk52_evm36s240	transcytosis
+1197	GO:0045056	Nk52_evm4s2152	transcytosis
+1198	GO:0006106	Nk52_evm18s252	fumarate metabolic process
+1199	GO:0006106	Nk52_evm32s1073	fumarate metabolic process
+1200	GO:0006106	Nk52_evm42s2309	fumarate metabolic process
+1201	GO:0034381	Nk52_evm12s2506	plasma lipoprotein particle clearance
+1202	GO:0034381	Nk52_evm31s239	plasma lipoprotein particle clearance
+1203	GO:0034381	Nk52_evm35s2325	plasma lipoprotein particle clearance
+1204	GO:0098779	Nk52_evm18s256	positive regulation of mitophagy in response to mitochondrial depolarization
+1205	GO:0098779	Nk52_evm1s279	positive regulation of mitophagy in response to mitochondrial depolarization
+1206	GO:0098779	Nk52_evm23s2085	positive regulation of mitophagy in response to mitochondrial depolarization
+1207	GO:2000643	Nk52_evm34s164	positive regulation of early endosome to late endosome transport
+1208	GO:2000643	Nk52_evm56s217	positive regulation of early endosome to late endosome transport
+1209	GO:2000643	Nk52_evm5s2085	positive regulation of early endosome to late endosome transport
+1210	GO:0006914	Nk52_evm10s224	autophagy
+1211	GO:0006914	Nk52_evm112s352	autophagy
+1212	GO:0006914	Nk52_evm116s226	autophagy
+1213	GO:0006914	Nk52_evm11s2462	autophagy
+1214	GO:0006914	Nk52_evm121s485	autophagy
+1215	GO:0006914	Nk52_evm12s227	autophagy
+1216	GO:0006914	Nk52_evm12s372	autophagy
+1217	GO:0006914	Nk52_evm13s2209	autophagy
+1218	GO:0006914	Nk52_evm13s245	autophagy
+1219	GO:0006914	Nk52_evm13s367	autophagy
+1220	GO:0006914	Nk52_evm17s913	autophagy
+1221	GO:0006914	Nk52_evm18s2402	autophagy
+1222	GO:0006914	Nk52_evm18s256	autophagy
+1223	GO:0006914	Nk52_evm19s2474	autophagy
+1224	GO:0006914	Nk52_evm1s1141	autophagy
+1225	GO:0006914	Nk52_evm1s1791	autophagy
+1226	GO:0006914	Nk52_evm1s1803	autophagy
+1227	GO:0006914	Nk52_evm1s2152	autophagy
+1228	GO:0006914	Nk52_evm1s279	autophagy
+1229	GO:0006914	Nk52_evm1s413	autophagy
+1230	GO:0006914	Nk52_evm1s470	autophagy
+1231	GO:0006914	Nk52_evm1s848	autophagy
+1232	GO:0006914	Nk52_evm20s287	autophagy
+1233	GO:0006914	Nk52_evm20s564	autophagy
+1234	GO:0006914	Nk52_evm21s24	autophagy
+1235	GO:0006914	Nk52_evm23s1444	autophagy
+1236	GO:0006914	Nk52_evm23s2085	autophagy
+1237	GO:0006914	Nk52_evm24s2133	autophagy
+1238	GO:0006914	Nk52_evm26s1524	autophagy
+1239	GO:0006914	Nk52_evm30s343	autophagy
+1240	GO:0006914	Nk52_evm31s2209	autophagy
+1241	GO:0006914	Nk52_evm31s224	autophagy
+1242	GO:0006914	Nk52_evm31s288	autophagy
+1243	GO:0006914	Nk52_evm32s147	autophagy
+1244	GO:0006914	Nk52_evm34s1705	autophagy
+1245	GO:0006914	Nk52_evm36s240	autophagy
+1246	GO:0006914	Nk52_evm36s304	autophagy
+1247	GO:0006914	Nk52_evm39s2612	autophagy
+1248	GO:0006914	Nk52_evm3s298	autophagy
+1249	GO:0006914	Nk52_evm41s153	autophagy
+1250	GO:0006914	Nk52_evm44s2449	autophagy
+1251	GO:0006914	Nk52_evm45s1810	autophagy
+1252	GO:0006914	Nk52_evm45s2309	autophagy
+1253	GO:0006914	Nk52_evm4s2085	autophagy
+1254	GO:0006914	Nk52_evm4s675	autophagy
+1255	GO:0006914	Nk52_evm51s208	autophagy
+1256	GO:0006914	Nk52_evm53s2367	autophagy
+1257	GO:0006914	Nk52_evm57s1360	autophagy
+1258	GO:0006914	Nk52_evm57s2367	autophagy
+1259	GO:0006914	Nk52_evm5s2542	autophagy
+1260	GO:0006914	Nk52_evm69s343	autophagy
+1261	GO:0006914	Nk52_evm6s327	autophagy
+1262	GO:0006914	Nk52_evm6s351	autophagy
+1263	GO:0006914	Nk52_evm6s380	autophagy
+1264	GO:0006914	Nk52_evm70s215	autophagy
+1265	GO:0006914	Nk52_evm76s485	autophagy
+1266	GO:0006914	Nk52_evm7s1224	autophagy
+1267	GO:0006914	Nk52_evm7s2635	autophagy
+1268	GO:0006914	Nk52_evm7s269	autophagy
+1269	GO:0006914	Nk52_evm80s224	autophagy
+1270	GO:0035269	Nk52_evm13s1763	protein O-linked mannosylation
+1271	GO:0035269	Nk52_evm19s233	protein O-linked mannosylation
+1272	GO:0035269	Nk52_evm24s262	protein O-linked mannosylation
+1273	GO:0035269	Nk52_evm26s2391	protein O-linked mannosylation
+1274	GO:0035269	Nk52_evm48s224	protein O-linked mannosylation
+1275	GO:0035269	Nk52_evm6s2630	protein O-linked mannosylation
+1276	GO:0035269	Nk52_evm75s226	protein O-linked mannosylation
+1277	GO:0035269	Nk52_evm81s215	protein O-linked mannosylation
