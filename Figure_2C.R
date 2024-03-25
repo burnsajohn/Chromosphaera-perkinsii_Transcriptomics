@@ -15,8 +15,9 @@ library(matrixStats)
 library(igraph)
 library(topGO)
 
-###required code:
-source("SCRIPTS/run_oneOG_at_atime.v2.r")
+###required code collections:
+source("Scripts/run_oneOG_at_atime.v2.r")
+source("Scripts/animal_analysis2.rscript")
 
 ####read in the C. perkinsii data:
 sampletable <- read.table("Cperk_samples.txt", header = TRUE)
