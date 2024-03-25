@@ -12,6 +12,11 @@ library(scales)
 library(tximport)
 library(edgeR)
 library(matrixStats)
+library(igraph)
+library(topGO)
+
+###required code:
+source("SCRIPTS/run_oneOG_at_atime.v2.r")
 
 ####read in the C. perkinsii data:
 sampletable <- read.table("Cperk_samples.txt", header = TRUE)
@@ -150,11 +155,105 @@ SarcC_OGplot_scale<-SarcC_OGplot_scale[, !(colnames(SarcC_OGplot_scale) %in% c("
 SarcB_OGplot<-SarcB_OGplot_scale
 SarcC_OGplot<-SarcC_OGplot_scale
 
+######Now we have all data loaded and orthogroups assigned for both species####################
 ###need common colnames for downstream steps
 colnames(CperkA_OGplot)<-c("T1","T2","T3","T4","T5","T6","T7","Orthogroup")
 matrices_list<-list(CperkA_OGplot,CperkC_OGplot,SarcB_OGplot,SarcC_OGplot)
 matrices_list<-rename_columns(matrices_list)
 
+###get all orthogroups:
+allogs<-vector()
+for(i in 1:length(matrices_list)){
+	allogs<-c(allogs,matrices_list[[i]]$Orthogroup)
+}
+allogs<-unique(allogs)
+allogs<-allogs[order(allogs)]
+
+# Count the occurrences of each Orthogroup across all matrices
+all_orthogroups <- unlist(lapply(matrices_list, function(dt) dt$Orthogroup))
+orthogroups_table <- table(all_orthogroups)
+
+# Set the tolerance - the number of matrices that can be missing the orthogroup
+tolerance <- 4 #for just these two species, looking at individual replicates a tolerance of 4 will retain all orthogroups for downstream analyses. This code is not strictly necessary here, but is used in other analyses to set a threshold when additional species are being compared.
+
+# If you have N matrices/lists, you want strings present in at least (N - tolerance)
+required_presence <- length(matrices_list) - tolerance
+
+# Filter orthogroups based on the threshold
+common_orthogroups <- names(orthogroups_table[orthogroups_table >= required_presence])
+length(common_orthogroups)
+
+matrices_common<-list()
+for(i in 1:length(matrices_list)){
+matrices_common[[i]]<-matrices_list[[i]][matrices_list[[i]]$Orthogroup %in% common_orthogroups, ]
+}
+
+names(matrices_common)<-c("CperkA","CperkC","SarcB","SarcC")
+names(matrices_list)<-c("CperkA","CperkC","SarcB","SarcC")
+
+# Function to append list element name to row names
+append_list_name_to_rownames <- function(matrix, list_element_name) {
+  rownames(matrix) <- paste(list_element_name, rownames(matrix), sep = "_")
+  return(matrix)
+}
+
+# Apply the function to each matrix in the list
+matrices_common2 <- lapply(names(matrices_common), function(name) {
+  append_list_name_to_rownames(matrices_common[[name]], name)
+})
+
+
+# Apply the function to each matrix in the list
+matrices_list2 <- lapply(names(matrices_list), function(name) {
+  append_list_name_to_rownames(matrices_list[[name]], name)
+})
+
+mylines<-vector()
+for(j in 1:length(matrices_common2)){
+	print(j)
+	mylines<-rbind(mylines,matrices_common2[[j]])#[grep(allogs[i],matrices_common[[j]]$Orthogroup),])
+	
+}
+
+OGgene<-cbind(rownames(mylines),mylines$Orthogroup)
+allOGs<-unique(OGgene[,2])
+
+allOGs<-allOGs[order(allOGs)]
+length(allOGs)
+
+
+###use a network structure to split orthogroups by expression pattern: Each orthogroup might contain several distinct expression patterns across developmental time the following code breaks those patterns up into distinct orthogroup patterns. So: OG1 can become OG1.1, OG1.2, OG1.3 if it has enough genes that have distinct expression patterns.
+
+#initialize OG_matList 
+Cperk_numpatterns<-7
+thresh=0.2
+bccsthresh=2
+degreethresh=2
+pattern_mat<-matrix(nrow=0,ncol=(Cperk_numpatterns+3))
+colnames(pattern_mat)<-c(colnames(mylines)[1:Cperk_numpatterns],"numSpec","CperkPA","SarcPA")
+OG_matList<-getOGpat(allOGs[2],thresh,degreethresh,bccsthresh)
+
+#length(allOGs)
+# Loop through OGs
+for (i in 3:length(allOGs)) {
+  print(i)
+  thisOGmatList<-getOGpat(allOGs[i],thresh,degreethresh,bccsthresh)
+  # Loop through each matrix in the list
+  if(length(rownames(thisOGmatList[[1]][[1]]))>0){
+   for (j in 1:length(OG_matList[[1]])) {
+     # Add new rows to the existing matrix using rbind
+     OG_matList[[1]][[j]] <- rbind(OG_matList[[1]][[j]], thisOGmatList[[1]][[j]])
+   }
+   OG_matList[[2]]<-rbind(OG_matList[[2]], thisOGmatList[[2]])
+   OG_matList[[3]]<-rbind(OG_matList[[3]], thisOGmatList[[3]])
+  }   
+}
+
+for(i in 1:length(OG_matList[[1]])){
+class(OG_matList[[1]][[i]])<-"numeric"
+}
+
+names(OG_matList[[1]])<-c("CperkA","CperkC","SarcB","SarcC")
 
 
 
