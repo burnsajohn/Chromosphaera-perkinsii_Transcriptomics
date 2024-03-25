@@ -287,9 +287,6 @@ GOgenes<-list(GOgenes1,GOgenes2,GOgenes3,GOgenes4,GOgenes5,GOgenes6)
 ###################################################################################################################
 
 ###Map OGs between species for each GO gene and collect plotting order based on clustering in C. perkinsii:
-
-		     
-
 OGorder_cperk<-list()
 OGorder_animal<-list()
 for(i in 1:length(GOgenes)){
@@ -348,8 +345,8 @@ plotAnimalB<-AnimalmatB
 plotAnimalC<-AnimalmatC
 }
 
+###which OGs are expressed across all replicates?
 plottable<-intersect(rownames(plotAnimalC),intersect(rownames(plotcperkC),intersect(rownames(plotcperkA),rownames(plotAnimalB))))
-
 
 plotcperkA<-plotcperkA[plottable,]
 plotcperkA<-rescale(plotcperkA, to = c(-2, 2))   
@@ -362,7 +359,6 @@ plotAnimalB<-rescale(plotAnimalB, to = c(-2, 2))
 
 plotAnimalC<-plotAnimalC[plottable,]
 plotAnimalC<-rescale(plotAnimalC, to = c(-2, 2))   
-
 
 # Perform clustering on the first data frame
 hc <- hclust(dist(plotcperkA))  # Using transposed data for row clustering
