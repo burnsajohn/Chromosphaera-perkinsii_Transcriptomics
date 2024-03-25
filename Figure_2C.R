@@ -286,6 +286,94 @@ GOgenes6<-ls(attributes(attributes(attributes(GOdataBP)$graph)$nodeData)$data$`G
 GOgenes<-list(GOgenes1,GOgenes2,GOgenes3,GOgenes4,GOgenes5,GOgenes6)
 ###################################################################################################################
 
+###Map OGs between species for each GO gene and collect plotting order based on clustering in C. perkinsii:
 
+		     
+
+OGorder_cperk<-list()
+OGorder_animal<-list()
+for(i in 1:length(GOgenes)){
+GOogs<-GOgenes[[i]]
+animal<-3
+cperkplotA<-matrices_list[[1]][matrices_list[[1]]$Orthogroup %in% GOogs,]
+cperkplotB<-matrices_list[[2]][matrices_list[[2]]$Orthogroup %in% GOogs,]
+
+#ANIMAL genes
+animalplotB<-matrices_list[[animal]][matrices_list[[animal]]$Orthogroup %in% GOogs,]
+animalplotC<-matrices_list[[animal+1]][matrices_list[[animal+1]]$Orthogroup %in% GOogs,]
+
+matches <- unique(unlist(lapply(GOogs, function(pattern) grep(pattern, rownames(OG_matList[[1]][[1]]), value = TRUE, fixed = FALSE))))
+cperkmatches<-rownames(na.omit(as.matrix(OG_matList[[1]][[1]][matches,1:Cperk_numpatterns])))
+
+
+##which ones are not present in the animal OGs?
+notAnimalB<-setdiff(cperkmatches,rownames(na.omit(as.matrix(OG_matList[[1]][[animal]][cperkmatches,1:Cperk_numpatterns]))))
+notAnimalmatB<-matrices_list[[animal]][matrices_list[[animal]]$Orthogroup %in% notAnimalB,]
+
+notAnimalC<-setdiff(cperkmatches,rownames(na.omit(as.matrix(OG_matList[[1]][[animal+1]][cperkmatches,1:Cperk_numpatterns]))))
+notAnimalmatC<-matrices_list[[animal+1]][matrices_list[[animal+1]]$Orthogroup %in% notAnimalC,]
+
+library(dplyr)
+# Calculate the mean for each Orthogroup
+getAnimalOGsB <- notAnimalmatB %>%
+  dplyr::group_by(Orthogroup) %>%
+  dplyr::summarize(across(starts_with("T"), ~mean(.x, na.rm = TRUE)), .groups = 'drop')
+
+getAnimalOGsC <- notAnimalmatC %>%
+  dplyr::group_by(Orthogroup) %>%
+  dplyr::summarize(across(starts_with("T"), ~mean(.x, na.rm = TRUE)), .groups = 'drop')
+
+getAnimalOGsB<-as.data.frame(getAnimalOGsB)
+getAnimalOGsC<-as.data.frame(getAnimalOGsC)
+
+# Set the first column as row names
+rownames(getAnimalOGsB) <- getAnimalOGsB[,1]
+rownames(getAnimalOGsC) <- getAnimalOGsC[,1]
+
+# Remove the first column from the data frame
+getAnimalOGsB <- getAnimalOGsB[,-1]
+getAnimalOGsC <- getAnimalOGsC[,-1]
+
+AnimalmatB<-as.data.frame(na.omit(as.matrix(OG_matList[[1]][[animal]][cperkmatches,1:Cperk_numpatterns])))
+AnimalmatC<-as.data.frame(na.omit(as.matrix(OG_matList[[1]][[animal+1]][cperkmatches,1:Cperk_numpatterns])))
+
+plotcperkA<-na.omit(as.matrix(OG_matList[[1]][[1]][cperkmatches,1:Cperk_numpatterns]))
+plotcperkC<-na.omit(as.matrix(OG_matList[[1]][[2]][cperkmatches,1:Cperk_numpatterns]))
+
+if(exists("getAnimalOGsB")){
+plotAnimalB<-as.matrix(rbind(AnimalmatB,getAnimalOGsB))
+plotAnimalC<-as.matrix(rbind(AnimalmatC,getAnimalOGsC))
+}else{
+plotAnimalB<-AnimalmatB
+plotAnimalC<-AnimalmatC
+}
+
+plottable<-intersect(rownames(plotAnimalC),intersect(rownames(plotcperkC),intersect(rownames(plotcperkA),rownames(plotAnimalB))))
+
+
+plotcperkA<-plotcperkA[plottable,]
+plotcperkA<-rescale(plotcperkA, to = c(-2, 2))   
+
+plotcperkC<-plotcperkC[plottable,]
+plotcperkC<-rescale(plotcperkC, to = c(-2, 2))   
+
+plotAnimalB<-plotAnimalB[plottable,]
+plotAnimalB<-rescale(plotAnimalB, to = c(-2, 2))   
+
+plotAnimalC<-plotAnimalC[plottable,]
+plotAnimalC<-rescale(plotAnimalC, to = c(-2, 2))   
+
+
+# Perform clustering on the first data frame
+hc <- hclust(dist(plotcperkA))  # Using transposed data for row clustering
+# Get the order of the rows from the clustering
+row_order <- hc$order
+OGorder_cperk[[i]]<-rownames(plotcperkA)[row_order]
+
+hc <- hclust(dist(plotAnimalB))  # Using transposed data for row clustering
+# Get the order of the rows from the clustering
+row_order <- hc$order
+OGorder_animal[[i]]<-rownames(plotAnimalB)[row_order]
+}
 
 		     
