@@ -131,5 +131,30 @@ plotMDS(SarcC_OGplot)
 SarcB_OGplot_scale <- t(scale(t(SarcB_OGplot)))
 SarcC_OGplot_scale <- t(scale(t(SarcC_OGplot)))
 
+###add column of OG names to data frame
+SarcB_OGplot_scale <- as.data.frame(SarcB_OGplot_scale) %>% rownames_to_column("TRX_name")
+SarcC_OGplot_scale <- as.data.frame(SarcC_OGplot_scale) %>% rownames_to_column("TRX_name")
+
+SarcB_OGplot_scale <- SarcB_OGplot_scale %>% left_join(Sarc_OGs2, by = "TRX_name")
+SarcC_OGplot_scale <- SarcC_OGplot_scale %>% left_join(Sarc_OGs2, by = "TRX_name")
+  
+###rename rows to gene name, remove unneeded columns:
+rownames(SarcB_OGplot_scale)<-SarcB_OGplot_scale$TRX_name
+genecol<-"Sarc4_TRX"
+SarcB_OGplot_scale<-SarcB_OGplot_scale[, !(colnames(SarcB_OGplot_scale) %in% c("TRX_name", genecol, "vars"))]
+
+rownames(SarcC_OGplot_scale)<-SarcC_OGplot_scale$TRX_name
+genecol<-"Sarc4_TRX"
+SarcC_OGplot_scale<-SarcC_OGplot_scale[, !(colnames(SarcC_OGplot_scale) %in% c("TRX_name", genecol, "vars"))]
+
+SarcB_OGplot<-SarcB_OGplot_scale
+SarcC_OGplot<-SarcC_OGplot_scale
+
+###need common colnames for downstream steps
+colnames(CperkA_OGplot)<-c("T1","T2","T3","T4","T5","T6","T7","Orthogroup")
+matrices_list<-list(CperkA_OGplot,CperkC_OGplot,SarcB_OGplot,SarcC_OGplot)
+matrices_list<-rename_columns(matrices_list)
+
+
 
 
