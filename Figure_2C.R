@@ -372,4 +372,161 @@ row_order <- hc$order
 OGorder_animal[[i]]<-rownames(plotAnimalB)[row_order]
 }
 
-		     
+##################################################################################################################
+####Now PLOT the data as heatmaps: OGs from each GO term are ordered within the a GO term based on clustering in Cperk. The ordering is applied to both Cperk and Sarc. If expression patterns were conserved, the plots would look similar. If expression patterns are different, the Sarc plot will look like the order was randomized.
+##################################################################################################################
+				
+GOogs<-unlist(GOgenes)
+animal<-3
+cperkplotA<-matrices_list[[1]][matrices_list[[1]]$Orthogroup %in% GOogs,]
+cperkplotB<-matrices_list[[2]][matrices_list[[2]]$Orthogroup %in% GOogs,]
+
+#ANIMAL genes
+animalplotB<-matrices_list[[animal]][matrices_list[[animal]]$Orthogroup %in% GOogs,]
+animalplotC<-matrices_list[[animal+1]][matrices_list[[animal+1]]$Orthogroup %in% GOogs,]
+
+matches <- unique(unlist(lapply(GOogs, function(pattern) grep(pattern, rownames(OG_matList[[1]][[1]]), value = TRUE, fixed = FALSE))))
+cperkmatches<-rownames(na.omit(as.matrix(OG_matList[[1]][[1]][matches,1:Cperk_numpatterns])))
+
+
+##which ones are not present in the animal OGs?
+notAnimalB<-setdiff(cperkmatches,rownames(na.omit(as.matrix(OG_matList[[1]][[animal]][cperkmatches,1:Cperk_numpatterns]))))
+notAnimalmatB<-matrices_list[[animal]][matrices_list[[animal]]$Orthogroup %in% notAnimalB,]
+
+notAnimalC<-setdiff(cperkmatches,rownames(na.omit(as.matrix(OG_matList[[1]][[animal+1]][cperkmatches,1:Cperk_numpatterns]))))
+notAnimalmatC<-matrices_list[[animal+1]][matrices_list[[animal+1]]$Orthogroup %in% notAnimalC,]
+
+library(dplyr)
+# Calculate the mean for each Orthogroup
+getAnimalOGsB <- notAnimalmatB %>%
+  dplyr::group_by(Orthogroup) %>%
+  dplyr::summarize(across(starts_with("T"), ~mean(.x, na.rm = TRUE)), .groups = 'drop')
+
+getAnimalOGsC <- notAnimalmatC %>%
+  dplyr::group_by(Orthogroup) %>%
+  dplyr::summarize(across(starts_with("T"), ~mean(.x, na.rm = TRUE)), .groups = 'drop')
+
+getAnimalOGsB<-as.data.frame(getAnimalOGsB)
+getAnimalOGsC<-as.data.frame(getAnimalOGsC)
+
+# Set the first column as row names
+rownames(getAnimalOGsB) <- getAnimalOGsB[,1]
+rownames(getAnimalOGsC) <- getAnimalOGsC[,1]
+
+# Remove the first column from the data frame
+getAnimalOGsB <- getAnimalOGsB[,-1]
+getAnimalOGsC <- getAnimalOGsC[,-1]
+
+AnimalmatB<-as.data.frame(na.omit(as.matrix(OG_matList[[1]][[animal]][cperkmatches,1:Cperk_numpatterns])))
+AnimalmatC<-as.data.frame(na.omit(as.matrix(OG_matList[[1]][[animal+1]][cperkmatches,1:Cperk_numpatterns])))
+
+plotcperkA<-na.omit(as.matrix(OG_matList[[1]][[1]][cperkmatches,1:Cperk_numpatterns]))
+plotcperkC<-na.omit(as.matrix(OG_matList[[1]][[2]][cperkmatches,1:Cperk_numpatterns]))
+
+if(exists("getAnimalOGsB")){
+plotAnimalB<-as.matrix(rbind(AnimalmatB,getAnimalOGsB))
+plotAnimalC<-as.matrix(rbind(AnimalmatC,getAnimalOGsC))
+}else{
+plotAnimalB<-AnimalmatB
+plotAnimalC<-AnimalmatC
+}
+
+plottable<-intersect(rownames(plotAnimalC),intersect(rownames(plotcperkC),intersect(rownames(plotcperkA),rownames(plotAnimalB))))
+
+plotcperkA<-plotcperkA[plottable,]
+plotcperkA<-rescale(plotcperkA, to = c(-2, 2))   
+
+plotcperkC<-plotcperkC[plottable,]
+plotcperkC<-rescale(plotcperkC, to = c(-2, 2))   
+
+plotAnimalB<-plotAnimalB[plottable,]
+plotAnimalB<-rescale(plotAnimalB, to = c(-2, 2))   
+
+plotAnimalC<-plotAnimalC[plottable,]
+plotAnimalC<-rescale(plotAnimalC, to = c(-2, 2))   
+
+
+OGorder2_cperk<-unlist(OGorder_cperk)
+OGorder2_animal<-unlist(OGorder_animal)
+
+# Reorder both data frames based on the clustering order
+plotcperkA_ord <- plotcperkA[OGorder2_cperk, ]
+plotcperkC_ord <- plotcperkC[OGorder2_cperk, ]
+
+plotAnimalB_ord <- plotAnimalB[OGorder2_cperk, ]
+plotAnimalC_ord <- plotAnimalC[OGorder2_cperk, ]
+
+
+# Load necessary libraries
+library(pheatmap)
+library(gridExtra)
+library(superheat)
+
+color_ramp <- viridis::cividis(20)
+mybreaks <- seq(-2,2,by=(abs((-2 - 2)/20))) #c(-2.5, -2, -1.5,-1,-0.5,0,0.5,1,1.5,2,2.5)
+
+
+mygaps<-cumsum(unlist(lapply(OGorder_cperk,length)))
+
+
+#colnames(plotcperkA_ord)<-c("T54","T72","T84","T90","T96","T104","T120")
+#colnames(plotcperkC_ord)<-c("T54","T72","T84","T90","T96","T104","T120")
+
+#colnames(plotAnimalB_ord)<-colnames(SarcB_OGplot_scale)[1:7]
+#colnames(plotAnimalC_ord)<-colnames(SarcC_OGplot_scale)[1:7]
+
+
+# Create the heatmaps as grob (graphical object) but don't plot them
+heatmap1 <- pheatmap(as.matrix(plotcperkA_ord), 
+                     scale = "row", 
+					 color = color_ramp,
+                     show_rownames = FALSE, 
+                     show_colnames = TRUE, 
+                     cluster_rows = FALSE, 
+                     cluster_cols = FALSE, 
+					 gaps_row=mygaps,
+					 breaks=mybreaks,
+					 legend=F,
+                     silent = TRUE)
+
+heatmap2 <- pheatmap(as.matrix(plotcperkC_ord), 
+                     scale = "row", 
+					 color = color_ramp,
+                     show_rownames = FALSE, 
+                     show_colnames = TRUE, 
+                     cluster_rows = FALSE, 
+                     cluster_cols = FALSE, 
+					 gaps_row=mygaps,
+					 breaks=mybreaks,
+					 legend=F,
+                     silent = TRUE)
+					 
+heatmap3 <- pheatmap(as.matrix(plotAnimalB_ord), 
+                     scale = "row", 
+					 color = color_ramp,
+                     show_rownames = FALSE, 
+                     show_colnames = TRUE, 
+                     cluster_rows = FALSE, 
+                     cluster_cols = FALSE, 
+					 gaps_row=mygaps,
+					 breaks=mybreaks,
+					 legend=F,
+                     silent = TRUE)
+
+heatmap4 <- pheatmap(as.matrix(plotAnimalC_ord), 
+                     scale = "row", 
+					 color = color_ramp,
+                     show_rownames = FALSE, 
+                     show_colnames = TRUE, 
+                     cluster_rows = FALSE, 
+                     cluster_cols = FALSE, 
+					 gaps_row=mygaps,
+					 breaks=mybreaks,
+					 legend=F,
+                     silent = TRUE)
+
+###This plot is Figure 2C:
+grid.arrange(heatmap1$gtable, heatmap3$gtable,ncol=2)
+
+
+				
