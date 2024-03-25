@@ -64,3 +64,9 @@ CperkC_OGplot<-t(scale(t(CperkC_OGplot_OG[, !(colnames(CperkC_OGplot_OG) %in% c(
 CperkA_OGplot<-as.data.frame(CperkA_OGplot)
 CperkC_OGplot<-as.data.frame(CperkC_OGplot)
 
+colnames(CperkA_OGplot)<-c("T54","T72","T84","T90","T96","T104","T120")
+colnames(CperkC_OGplot)<-c("T54","T72","T84","T90","T96","T104","T120")
+
+CperkA_OGplot$Orthogroup<-CperkA_OGplot_OG$Orthogroup
+CperkC_OGplot$Orthogroup<-CperkC_OGplot_OG$Orthogroup
+
