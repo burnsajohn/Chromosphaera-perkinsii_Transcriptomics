@@ -74,14 +74,13 @@ CperkC_OGplot$Orthogroup<-CperkC_OGplot_OG$Orthogroup
 #####READ in the S. arctica data##########################################################
 ############################################################################################
 
-Sarc.tpm<-read.table("Sarc_EXPRS.txt",header=T)
+Sarc.tpm<-read.table("elife-49801-fig3-data2-v4.txt",header=T)
 
 row_values <- Sarc.tpm[,"gene"]
 # Remove the row from the data frame
 Sarc.tpm <-  Sarc.tpm[, -which(names(Sarc.tpm) == "gene")]
 # Set the extracted values as the new rowname
 rownames(Sarc.tpm) <- row_values
-
 
 minsum<-min(Sarc.tpm[Sarc.tpm>0])/2
 Sarc_logcounts<-log(Sarc.tpm+minsum, base=2)
@@ -90,8 +89,7 @@ Sarc_logcounts<-log(Sarc.tpm+minsum, base=2)
 # [1] "BT12" "BT18" "BT24" "BT30" "BT36" "BT42" "BT48" "BT54" "BT60" "BT66"
 #[11] "CT12" "CT18" "CT24" "CT30" "CT36" "CT42" "CT54" "CT60" "CT66" "CT72"
 
-
-#Whereas maybe removing 3 timepoints from the Sarc data maybe easier (knowing the life cycle) :
+#For comparison of the two developmental time courses, select replicates as follows, based on how data was used in Dudin et. al 2019:
 #Rep 1 : 18, 30, 42, 48, 54, 60, 66
 #Rep2 : 18, 30, 42, 54, 60 ,66 ,72
 #With these timepoints you keep all the key timepoints covering the whole growth type etc.
@@ -99,3 +97,39 @@ SarcB<-Sarc_logcounts[,c(2,4,6,7,8,9,10)]
 SarcC<-Sarc_logcounts[,c(12,14,16,17,18,19,20)]
 colnames(SarcB)<-c("T18","T30","T42","T48","T54","T60","T66")
 colnames(SarcC)<-c("T18","T30","T42","T54","T60","T66","T72")
+
+####read in the S. arctica gene to OG map:
+Sarc_OGs<-read.table("Orthogroups/Sarc4_TRX_OGdf.txt",header=T)
+
+###Here we are collecting common orthogroups between S. arctical and C. perkinsii:
+Sarc_OGs_timeDEs <- Sarc_OGs[Sarc_OGs[,1] %in% Cperk_OGs2[,1], ]
+SarcCons <- unique(Sarc_OGs_timeDEs[,2])
+  
+#get expressed genes (some might not be even if they have an ortholog!)
+SarcConsPres <- rownames(Sarc_logcounts)[rownames(Sarc_logcounts) %in% SarcCons]
+SarcBConsPres <- rownames(SarcB)[rownames(SarcB) %in% SarcCons]
+SarcCConsPres <- rownames(SarcC)[rownames(SarcC) %in% SarcCons]
+
+mygenes <- intersect(SarcBConsPres,SarcCConsPres)
+
+Sarc_OGs2 <- Sarc_OGs[Sarc_OGs[,2] %in% mygenes, ]
+#because had to remove info from gene, and some genes had multiple proteins, end up with duplicate rows per gene. Remove here without consequence for expression analyses
+Sarc_OGs2 <- Sarc_OGs2[!duplicated(Sarc_OGs2$Sarc4_TRX), ]
+colnames(Sarc_OGs2)[2]<-"TRX_name"
+  
+SarcB_OGplot <- as.data.frame(SarcB[mygenes,])
+SarcC_OGplot <- as.data.frame(SarcC[mygenes,])
+
+ntimes="all"
+if(ntimes=="all"){ntimes=length(mygenes)}
+
+Cperk_numpatterns<-length(Cperk_OGplot[1,])-1
+ 
+plotMDS(SarcB_OGplot)
+plotMDS(SarcC_OGplot)
+
+SarcB_OGplot_scale <- t(scale(t(SarcB_OGplot)))
+SarcC_OGplot_scale <- t(scale(t(SarcC_OGplot)))
+
+
+
