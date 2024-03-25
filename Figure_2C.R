@@ -268,3 +268,23 @@ length(myInterestingGenes)
 GOdataBP <- tryCatch(new("topGOdata", ontology = "BP", allGenes = geneList, annot = annFUN.gene2GO, gene2GO = geneID2GO), error=function(e) "error")
 
 
+########################GOs for comparison########################################################################
+###Cell Cycle--GO:0007049
+GOgenes1<-ls(attributes(attributes(attributes(GOdataBP)$graph)$nodeData)$data$`GO:0007049`$genes)
+###Cytokenisis--GO:0000910
+GOgenes2<-ls(attributes(attributes(attributes(GOdataBP)$graph)$nodeData)$data$`GO:0000910`$genes)
+###DNA Replication--GO:0006260
+GOgenes3<-ls(attributes(attributes(attributes(GOdataBP)$graph)$nodeData)$data$`GO:0006260`$genes)
+###Cell Polarity--GO:0007163
+GOgenes4<-ls(attributes(attributes(attributes(GOdataBP)$graph)$nodeData)$data$`GO:0007163`$genes)
+###Vacuolar transport--GO:0007034
+GOgenes5<-ls(attributes(attributes(attributes(GOdataBP)$graph)$nodeData)$data$`GO:0007034`$genes)
+###Cell adhesion--GO:0098609
+GOgenes6<-ls(attributes(attributes(attributes(GOdataBP)$graph)$nodeData)$data$`GO:0098609`$genes)
+
+GOgenes<-list(GOgenes1,GOgenes2,GOgenes3,GOgenes4,GOgenes5,GOgenes6)
+###################################################################################################################
+
+
+
+		     
