@@ -255,5 +255,16 @@ class(OG_matList[[1]][[i]])<-"numeric"
 
 names(OG_matList[[1]])<-c("CperkA","CperkC","SarcB","SarcC")
 
+###################Initialize a GO structure for the orthogroups#####################################
+###UID mapping based GO annotations:
+geneID2GO <- readMappings(file = "Annotations/OGcat.UID.goa", IDsep=";|,")
+geneID2GO<-geneID2GO[grep("^OG",names(geneID2GO))]
+myInterestingGenes <- as.character(na.omit(sample(matrices_list[[1]]$Orthogroup,200)))
+geneNames<-names(geneID2GO)
+geneList <- factor(as.integer(geneNames %in% myInterestingGenes))
+names(geneList) <- geneNames
+sum(as.numeric(as.character(geneList)))
+length(myInterestingGenes)
+GOdataBP <- tryCatch(new("topGOdata", ontology = "BP", allGenes = geneList, annot = annFUN.gene2GO, gene2GO = geneID2GO), error=function(e) "error")
 
 
