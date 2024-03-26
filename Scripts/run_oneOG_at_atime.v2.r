@@ -1,6 +1,6 @@
 
-#degreethresh is how many edges are needed to keep a node -- good number is 4
-#bccs thresh is how many nodes need to be connected to keep a connected components -- good number is 4
+#degreethresh is how many edges are needed to keep a node -- good number is 4, permissive number is 3
+#bccs thresh is how many nodes need to be connected to keep a connected components -- good number is 4, permissive number is 3
 
 getOGpat<-function(thisOG, thresh, degreethresh, bccsthresh){
 mylines.OG<-mylines[grep(thisOG,mylines$Orthogroup),]
