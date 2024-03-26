@@ -2,6 +2,7 @@
 
 #library needed:
 library(topGO)
+library(plyr)
 
 ##############################################################################################################
 ###GO analyses of each cluster################################################################################
@@ -46,7 +47,6 @@ gotblnm<-paste(pat,"_GOPBtbls.txt",sep="")
 
 write.table(allResWeighted,gotblnm,quote=F,sep="\t")
 
-library(plyr)
 ###function to pull genes associated with each GOterm.
 getGOgenes<-function(allResTable,updown,GOdata){
 	GOtermGenes<-list()
