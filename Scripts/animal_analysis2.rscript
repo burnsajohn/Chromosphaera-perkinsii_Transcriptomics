@@ -1,3 +1,5 @@
+###Accessory functions for running analyses across animals 
+
 #libraries needed
 library(gplots)
 library(dplyr)
