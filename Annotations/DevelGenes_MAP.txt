@@ -1,0 +1,37 @@
+Animals	Cperk	Category
+Brachyury	Nk52_evm15s1360	TF
+P53	Nk52_evm78s1737	TF
+Myc	Nk52_evm1s1535	TF
+NFKB	Nk52_evm57s1073	TF
+PIWI	Nk52_evm44s1360	TF
+LIM-Domain/homeobox	Nk52_evm60s152	TF
+RunX	Nk52_evm4s2657	TF
+Churchill	Nk52_evm64s2039	TF
+CBP/300	Nk52_evm98s2192	TF
+Grainyhead	Nk52_evm16s267	TF
+Rbl1	Nk52_evm7s490	TF
+Hippo	Nk52_evm24s1967	TF
+Fibronectin	Nk52_evm90s1737	Adhesion
+Integrin B	Nk52_evm65s270	Adhesion
+Integrin A	Nk52_evm36s621	Adhesion
+Catenin	Nk52_evm4s293	Adhesion
+Vinculin	Nk52_evm20s2474	Adhesion
+Talin	Nk52_evm62s1020	Adhesion
+Paxilin	Nk52_evm18s1967	Adhesion
+Piezo1	Nk52_evm48s153	Adhesion
+Nephrocystin-1	Nk52_evm11s256	Adhesion
+Grancalcin	Nk52_evm45s1569	Adhesion
+Cortactin	Nk52_evm29s2367	Adhesion
+Rcc2	Nk52_evm50s352	Adhesion
+TAO1/STE20	Nk52_evm4s217	Signaling
+MKK	Nk52_evm19s307	Signaling
+ERK1	Nk52_evm18s164	Signaling
+ERK2	Nk52_evm7s2340	Signaling
+p38	Nk52_evm14s2596	Signaling
+Galpha	Nk52_evm88s270	Signaling
+Gbeta	Nk52_evm40s292	Signaling
+RhoA	Nk52_evm1s2634	Signaling
+Cdc42	Nk52_evm50s236	Signaling
+Pak	Nk52_evm8s2462	Signaling
+PKA-C alpha	Nk52_evm55s226	Signaling
+Ras1	Nk52_evm6s217	Signaling
