@@ -27,7 +27,7 @@ sampletable
 
 ###read in all of the quantification files
 files <- file.path("quants", sampletable$quant, "quant.sf")
-filenames<-matrix(unlist(strsplit(files,"/")),ncol=24)[2,]
+filenames<-matrix(unlist(strsplit(files,"/")),ncol=21)[2,]
 
 namearr<-vector(length=length(filenames))
 for(i in 1:length(filenames)){
