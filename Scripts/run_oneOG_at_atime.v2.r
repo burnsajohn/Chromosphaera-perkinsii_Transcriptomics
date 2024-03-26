@@ -1,3 +1,6 @@
+###Code to selct similar expression patterns within an OG using a network structure. 
+###Finds highly correlated expression patterns and splits genes according to those patterns
+###If a gene does not fall into one of the discovered expression patterns, all expression levels for that organism within an OG within a timepoint are averaged.
 
 #degreethresh is how many edges are needed to keep a node -- good number is 4, permissive number is 3
 #bccs thresh is how many nodes need to be connected to keep a connected components -- good number is 4, permissive number is 3
