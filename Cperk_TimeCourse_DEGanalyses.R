@@ -15,12 +15,6 @@ library(dplyr)
 #species specific gene ontology annotation file: "Nk52_Cperk_UID.goa"
 ########################################
 
-#set some plot color parameters
-mypalette <- brewer.pal(11,"RdYlBu")
-morecols <- colorRampPalette(mypalette)
-# Set up colour vector for celltype variable
-col.cell <- c("purple","orange")[sampleTable[,1]]
-
 ###sample table for analyses
 sampletable <- read.table("Cperk_samples.txt", header = TRUE)
 sampletable
