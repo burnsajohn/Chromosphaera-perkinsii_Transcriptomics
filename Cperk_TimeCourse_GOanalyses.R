@@ -9,7 +9,7 @@ library(plyr)
 ##############################################################################################################
 
 ###UID mapping based GO annotations:
-geneID2GO <- readMappings(file = "Nk52_Cperk_UID.goa", IDsep=";|,")
+geneID2GO <- readMappings(file = "Annotations/Nk52_Cperk_UID.goa", IDsep=";|,")
 
 #cluster order was random within the clustering algorithm (based on seed: set.seed(20)). Clusters were reordered according to expression profiles over time:
 #Old Cluster 5 becomes Cluster 1
