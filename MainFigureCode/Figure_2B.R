@@ -11,6 +11,7 @@ library(ggplot2)
 library(DBI)
 library(gridExtra)
 library(Cairo)
+library(scales)
 
 ###clusters renumbered based on expression patterns after initial random assignment (reproducible seed=20).
 #Old Cluster 5 becomes Cluster 1
@@ -50,7 +51,7 @@ df$Term <- factor(sapply(as.character(df$Term), function(t) {
 # Define variable mapping
 map <- aes_string(x = "Term", y = y, fill = "Scores")
 df$Term <- factor(df$Term, levels = df$Term[order(-df$Scores)])
-library(scales)
+  
 my_breaks = c(1e-1, 1e-3, 1e-5, 1e-7, 1e-9, 1e-11)
 
 # Make the ggplot
