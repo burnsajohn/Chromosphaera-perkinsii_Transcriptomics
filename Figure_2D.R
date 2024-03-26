@@ -12,6 +12,7 @@ library(matrixStats)
 library(igraph)
 library(topGO)
 library(dendextend)
+library(pheatmap)
 
 ###required code collections:
 source("Scripts/run_oneOG_at_atime.v2.r")
