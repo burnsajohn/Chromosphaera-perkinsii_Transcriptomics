@@ -2,7 +2,6 @@
 ###It uses count data for C. perkinsii generated for this project and incoporates count data generated for Sphaeroforma arctica previously: https://elifesciences.org/articles/49801
 ###Figure 3—source data 2: https://cdn.elifesciences.org/articles/49801/elife-49801-fig3-data2-v4.txt
 
-
 #libraries needed:
 library(dplyr)
 library(tibble)
