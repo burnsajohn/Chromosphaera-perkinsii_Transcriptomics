@@ -69,11 +69,8 @@ plotclusters2$time <- as.numeric(sapply(strsplit(as.character(plotclusters2$samp
 medians <- plotclusters2 %>% dplyr::group_by(CLUSTER, time) %>% dplyr::summarise(median_value = median(value))
 
 
-
-
 # Merge medians back with original data for plotting
 plot_data <- merge(plotclusters2, medians, by = c("CLUSTER", "time"))
-
 
 ###Figure S2B--clusters were renamed/reordered for the manuscript
 # Create the plot
