@@ -1,5 +1,5 @@
-##First run 
-
+##First run analyses from: "Cperk_TimeCourse_DEGanalyses.R"
+##Then run this script to make the raw plots for Figure S2B. Boxplots were recolored manully outside of R for the manuscript. 
 
 #######facet plot all clusters#########################
 i=1
