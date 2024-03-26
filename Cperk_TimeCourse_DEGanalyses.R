@@ -42,8 +42,8 @@ cts <- txi.salmon$counts
 normMat <- txi.salmon$length
 
 ###collect only A and C replicates due to evidence of infection in B reps.
-cts<-cts[,c(1,3,4,6,7,9,10,12,13,15,16,18,19,21,22,24)]
-normMat<-normMat[,c(1,3,4,6,7,9,10,12,13,15,16,18,19,21,22,24)]
+cts<-cts[,c(1,3,4,6,7,9,10,12,13,15,16,18,19,21)]
+normMat<-normMat[,c(1,3,4,6,7,9,10,12,13,15,16,18,19,21)]
 
 ##########################################################
 
