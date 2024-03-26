@@ -21,16 +21,12 @@ morecols <- colorRampPalette(mypalette)
 # Set up colour vector for celltype variable
 col.cell <- c("purple","orange")[sampleTable[,1]]
 
-###set working directory to location of quant directories from Salmon
-setwd("quants")
-list.files()
-
 ###sample table for analyses
 sampletable <- read.table("Cperk_samples.txt", header = TRUE)
 sampletable
 
 ###read in all of the quantification files
-files <- file.path(".", sampletable$quant, "quant.sf")
+files <- file.path("quants", sampletable$quant, "quant.sf")
 filenames<-matrix(unlist(strsplit(files,"/")),ncol=24)[2,]
 
 namearr<-vector(length=length(filenames))
