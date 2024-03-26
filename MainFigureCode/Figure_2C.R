@@ -14,6 +14,9 @@ library(edgeR)
 library(matrixStats)
 library(igraph)
 library(topGO)
+library(pheatmap)
+library(gridExtra)
+library(superheat)
 
 ###required code collections:
 source("Scripts/run_oneOG_at_atime.v2.r")
@@ -310,7 +313,6 @@ notAnimalmatB<-matrices_list[[animal]][matrices_list[[animal]]$Orthogroup %in% n
 notAnimalC<-setdiff(cperkmatches,rownames(na.omit(as.matrix(OG_matList[[1]][[animal+1]][cperkmatches,1:Cperk_numpatterns]))))
 notAnimalmatC<-matrices_list[[animal+1]][matrices_list[[animal+1]]$Orthogroup %in% notAnimalC,]
 
-library(dplyr)
 # Calculate the mean for each Orthogroup
 getAnimalOGsB <- notAnimalmatB %>%
   dplyr::group_by(Orthogroup) %>%
@@ -396,7 +398,6 @@ notAnimalmatB<-matrices_list[[animal]][matrices_list[[animal]]$Orthogroup %in% n
 notAnimalC<-setdiff(cperkmatches,rownames(na.omit(as.matrix(OG_matList[[1]][[animal+1]][cperkmatches,1:Cperk_numpatterns]))))
 notAnimalmatC<-matrices_list[[animal+1]][matrices_list[[animal+1]]$Orthogroup %in% notAnimalC,]
 
-library(dplyr)
 # Calculate the mean for each Orthogroup
 getAnimalOGsB <- notAnimalmatB %>%
   dplyr::group_by(Orthogroup) %>%
@@ -456,25 +457,16 @@ plotcperkC_ord <- plotcperkC[OGorder2_cperk, ]
 plotAnimalB_ord <- plotAnimalB[OGorder2_cperk, ]
 plotAnimalC_ord <- plotAnimalC[OGorder2_cperk, ]
 
-
-# Load necessary libraries
-library(pheatmap)
-library(gridExtra)
-library(superheat)
-
 color_ramp <- viridis::cividis(20)
 mybreaks <- seq(-2,2,by=(abs((-2 - 2)/20))) #c(-2.5, -2, -1.5,-1,-0.5,0,0.5,1,1.5,2,2.5)
 
-
 mygaps<-cumsum(unlist(lapply(OGorder_cperk,length)))
-
 
 #colnames(plotcperkA_ord)<-c("T54","T72","T84","T90","T96","T104","T120")
 #colnames(plotcperkC_ord)<-c("T54","T72","T84","T90","T96","T104","T120")
 
 #colnames(plotAnimalB_ord)<-colnames(SarcB_OGplot_scale)[1:7]
 #colnames(plotAnimalC_ord)<-colnames(SarcC_OGplot_scale)[1:7]
-
 
 # Create the heatmaps as grob (graphical object) but don't plot them
 heatmap1 <- pheatmap(as.matrix(plotcperkA_ord), 
