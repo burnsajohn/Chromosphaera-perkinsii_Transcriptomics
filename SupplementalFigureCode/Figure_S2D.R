@@ -4,6 +4,7 @@
 #Libraries needed
 library(eulerr)
 library("rstatix")
+library(dplyr)
 
 ###GOs can be changed to any GOs or list of OGs to run through statistical tests.
 ########################GOs for comparison########################################################################
@@ -48,7 +49,7 @@ notAnimalmatB<-matrices_list[[animal]][matrices_list[[animal]]$Orthogroup %in% n
 
 notAnimalC<-setdiff(cperkmatches,rownames(na.omit(as.matrix(OG_matList[[1]][[animal+1]][cperkmatches,1:Cperk_numpatterns]))))
 notAnimalmatC<-matrices_list[[animal+1]][matrices_list[[animal+1]]$Orthogroup %in% notAnimalC,]
-library(dplyr)
+
 # Calculate the mean for each Orthogroup
 getAnimalOGsB <- notAnimalmatB %>%
   dplyr::group_by(Orthogroup) %>%
