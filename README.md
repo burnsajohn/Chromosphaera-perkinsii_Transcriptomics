@@ -10,6 +10,7 @@ For some plots, colors and axis labels were added after plotting, so the colors 
 
 # Before running any code, first expand the directory quants.zip 
 quants.zip contains read mapping information from the RNAseq libraries from Salmon
+Make sure that quants.zip is extracted such that the top directory is quants/ and inside that are the count directories. If it extracts with a nested "quants" directory (e.g. quants/quants/) it will not operate in downstream analyses.
 
 # It may also be useful to run the code line by line or in chunks.
 
