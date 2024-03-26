@@ -14,9 +14,7 @@ Make sure that quants.zip is extracted such that the top directory is quants/ an
 
 # It may also be useful to run the code line by line or in chunks.
 
-# Most plots will require information from one or both main analyses scripts: 
-# Cperk_TimeCourse_DEGanalyses.R
-# Cperk_TimeCourse_GOanalyses.R
+# Most plots will require information from one or both main analyses scripts: Cperk_TimeCourse_DEGanalyses.R, Cperk_TimeCourse_GOanalyses.R
 
 For example to make Figure 2A you can run:
 
@@ -26,7 +24,7 @@ source("Cperk_TimeCourse_DEGanalyses.R")
 
 source("MainFigureCode/Figure_2A.R")
 
-To make Figure 2B you need the output of the GO analyses:
+# To make Figure 2B you need the output of the GO analyses:
 
 source("Cperk_TimeCourse_DEGanalyses.R")
 
