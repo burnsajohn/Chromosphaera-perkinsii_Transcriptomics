@@ -81,10 +81,7 @@ plotMDS(y)
 #Fit a quasi-likelihood negative binomial generalized log-linear model to the data
 fit <- glmQLFit(y,design)
 
-#[1] "conditionF"    "conditionT104" "conditionT120" "conditionT54" 
-#[5] "conditionT72"  "conditionT84"  "conditionT90"  "conditionT96" 
-
-###run statistical tests: All vs. T52 using contrasts:
+###run statistical tests: All vs. T54 using contrasts:
 #########################################
 #parameters in case you want to set FDR or log fold change thresholds. For the manuscript we had no log fold change threshold and used an FDR of 0.05
 thresh<-0.05
