@@ -8,10 +8,14 @@ viridis,superheat,ggplot2,DBI,gridExtra,Cairo,scales,dplyr,tibble,zoo,matrixStat
 # This code and data is sufficient to make all base plots used in the manuscript. 
 For some plots, colors and axis labels were added after plotting, so the colors and labels may not exactly match what is seen in the manuscript, however the data is the same.
 
-# To use the code it should be sufficient to navigate to the base directory and source each script. 
-However, it may also be useful to run the code line by line or in chunks.
+# Before running any code, first expand the directory quants.zip 
+quants.zip contains read mapping information from the RNAseq libraries from Salmon
+
+# It may also be useful to run the code line by line or in chunks.
 
 # Most plots will require information from the main analysis script: Cperk_TimeCourse_DEGanalyses.R
+For example to make Figure 2A you can run:
 setwd("Chromosphaera-perkinsii_Transcriptomics")
 source("Cperk_TimeCourse_DEGanalyses.R")
+source("MainFigureCode/Figure_2A.R")
 
