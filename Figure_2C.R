@@ -230,8 +230,8 @@ Cperk_numpatterns<-7
 thresh=0.2
 bccsthresh=2
 degreethresh=2
-pattern_mat<-matrix(nrow=0,ncol=(Cperk_numpatterns+3))
-colnames(pattern_mat)<-c(colnames(mylines)[1:Cperk_numpatterns],"numSpec","CperkPA","SarcPA")
+pattern_mat<-matrix(nrow=0,ncol=(Cperk_numpatterns+2))
+colnames(pattern_mat)<-c(colnames(mylines)[1:Cperk_numpatterns],"numSpec","CperkPA")
 OG_matList<-getOGpat(allOGs[2],thresh,degreethresh,bccsthresh)
 
 #length(allOGs)
