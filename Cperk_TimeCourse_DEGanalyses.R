@@ -45,8 +45,6 @@ normMat <- txi.salmon$length
 cts<-cts[,c(1,3,4,6,7,9,10,12,13,15,16,18,19,21,22,24)]
 normMat<-normMat[,c(1,3,4,6,7,9,10,12,13,15,16,18,19,21,22,24)]
 
-cts<-cts[,3:16]
-normMat<-normMat[,3:16]
 ##########################################################
 
 # Obtaining per-observation scaling factors for length, adjusted to avoid
