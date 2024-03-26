@@ -1,4 +1,16 @@
-
+#libraries needed
+library(gplots)
+library(dplyr)
+library(purrr)
+library(gridExtra)
+library(reshape2)
+library(cowplot)
+library(ggplot2)
+library(RColorBrewer)
+library(grid) 
+library(tidyr)
+library(data.table)
+library(progress)
 
 
 '%ino%' <- function(x, table) {
@@ -340,22 +352,6 @@ rowwise_max_cos_similarity <- function(matrices_list) {
   return(cos_similarities_ordered)
 }
 
-
-
-library(gplots)
-library(dplyr)
-library(purrr)
-library(gridExtra)
-library(reshape2)
-
-library(cowplot)
-library(ggplot2)
-library(RColorBrewer)
-library(grid) 
-library(tidyr)
-library(gridExtra)
-
-
 select_OGmats<-function(matrices_list,which_average,simtype) {
  # Compute minimum average distances
   if (simtype == "cos") {
@@ -364,7 +360,6 @@ select_OGmats<-function(matrices_list,which_average,simtype) {
     avg_distances_ordered <- rowwise_min_avg_distance(matrices_list,which_average)
   }
 }
-
 
 plot_heatmaps <- function(avg_distances_ordered, which_plot, n, simtype, uorder, plotyn, ncols = 3) {
  
@@ -537,9 +532,6 @@ pairwise_distance_heatmap <- function(list_of_matrices, vect_of_rownames,plotyn)
 	return(distance_matrix)
 }
 
-
-library(data.table)
-
 orthogroup_avg <- function(matrices_list, which_average = seq_along(matrices_list)) {
   # Check that the list is not empty
   if(length(matrices_list) < 1) {
@@ -596,9 +588,6 @@ orthogroup_avg <- function(matrices_list, which_average = seq_along(matrices_lis
   result <- list(distances = orthogroups_ordered, matrices = matrices_ordered)
   return(result)
 }
-
-library(data.table)
-library(progress)
 
 min_distance_rows <- function(matrices_list, matrices_indices = seq_len(length(matrices_list))) {
   # Check that the list and indices are not empty
