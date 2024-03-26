@@ -8,7 +8,6 @@ library(ggplot2)
 library(reshape)
 library(dplyr)
 
-
 ###files needed#########################
 #sample control file: "Cperk_samples.txt"
 #quant directories from Salmon output
