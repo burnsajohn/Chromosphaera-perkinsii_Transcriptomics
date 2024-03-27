@@ -50,6 +50,7 @@ source("MainFigureCode/Figure_2D.R")
 #To plot additional genes, after running the default, go to the following lines in the code and alter the functional class as described, or provide custom OGs for plotting:
 
 ###Here can select which functional class of gene to plot: TF, Adhesion, or Signaling. They are read from file DevelGenes_MAP.txt. Other OGs can be selected from annotation files for comparison. A subset is shown in Figure 2D in the manuscript.
+
 GOgenes<-dgenes[dgenes[,3]=="TF",]
 
 
