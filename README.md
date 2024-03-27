@@ -16,7 +16,7 @@ Make sure that quants.zip is extracted such that the top directory is quants/ an
 
 # Most plots will require information from one or both main analyses scripts: Cperk_TimeCourse_DEGanalyses.R, Cperk_TimeCourse_GOanalyses.R
 
-For example to make Figure 2A you can run:
+# To make Figure 2A you can run:
 
 setwd("Chromosphaera-perkinsii_Transcriptomics-main")
 
