@@ -24,11 +24,15 @@ source("Cperk_TimeCourse_DEGanalyses.R")
 
 source("MainFigureCode/Figure_2A.R")
 
-# To make Figure 2B you need the output of the GO analyses:
+# To make Figure 2B you need the output of the GO analyses. 
+*The script Cperk_TimeCourse_GOanalyses.R is included for transparency, to produce GO enrichment data starting from the gene clusters. To save time for plotting, the output files from GO enrichment are already provided in directory "GOtables", so the running the GO enrichment script is not strictly necessary to generate the plots in Figure 2B.
+**We normalized the scale for the enrichment plots in Figure 2B and manually colored bars with p-values smaller than 1x10^-11 dark blue. The raw plots color those p-values a dark gray.
 
 source("Cperk_TimeCourse_DEGanalyses.R")
 
 source("Cperk_TimeCourse_GOanalyses.R")
 
 source("MainFigureCode/Figure_2B.R")
+
+
 
