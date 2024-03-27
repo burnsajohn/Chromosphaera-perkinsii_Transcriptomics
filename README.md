@@ -2,8 +2,7 @@
 Data and R scripts for direct and comparative transcriptomic analyses of the holozoan Chromosphaera perkinsii during its multicellular developmental period.
 *Note: Most scripts produce plots to the screen, not directly to pdfs. Those plots can be saved, or the code can be altered to export pdfs as desired.
 
-# R Libraries needed
-All of these libraries need to be available in your system to run all of the code and generate all plots:
+# R Libraries needed to run these scripts
 viridis,superheat,ggplot2,DBI,gridExtra,Cairo,scales,dplyr,tibble,zoo,matrixStats,tximport,edgeR,igraph,topGO,pheatmap,dendextend,eulerr,rstatix,plyr,gplots,purrr,reshape2,cowplot,RColorBrewer,grid,tidyr,data.table,progress
 
 # This code and data is sufficient to make all base plots used in the manuscript. 
