@@ -1,5 +1,6 @@
 # Chromosphaera-perkinsii_Transcriptomics
 Data and R scripts for direct and comparative transcriptomic analyses of the holozoan Chromosphaera perkinsii during its multicellular developmental period.
+*Note: Most scripts produce plots to the screen, not directly to pdfs. Those plots can be saved, or the code can be altered to export pdfs as desired.
 
 # R Libraries needed
 All of these libraries need to be available in your system to run all of the code and generate all plots:
@@ -70,8 +71,8 @@ source("MainFigureCode/Figure_2C.R")
 
 # The code in "SupplementalFigureCode/Figure_S2G_H.R" has the code to plot both Figure S2G and Figure S2H. 
 
-
-#The code in "SupplementalFigureCode/Figure_S2G_H.R" has the code to plot both Figure S2G and Figure S2H. 
+#To plot Figure S2G, find the code "#Figure S2G" and run the plotting command after that line.
+#To plot Figure S2F, find the code "#Figure S2F" and run the plotting commands following that line--you can vary the GO term genes are selected from and can vary the number of genes plotted to visualize different sets of genes. 
 
 
 
