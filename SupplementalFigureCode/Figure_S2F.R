@@ -5,7 +5,9 @@
 ###Figure_2D.R
 ###to load and format relevant data structures
 
-og_sample<-allOGs[360]
+par(mfrow=c(2,2))
+
+og_sample<-"OG0000557"
 for(i in 1:length(matrices_list)){
 matrices_common[[i]]<-matrices_list[[i]][matrices_list[[i]]$Orthogroup %in% og_sample, ]
 }
@@ -87,7 +89,7 @@ all_edge_ids <- E(g)
 # Delete all edges except those in specific_edges
 G2 <- delete_edges(g, all_edge_ids[-keep_eids])
 ###Figure S2F-1: original network
-plot(G2)
+plot(G2,vertex.size=4,vertex.label.cex=0.4)
 
 OGccs<-components(G2)
 
