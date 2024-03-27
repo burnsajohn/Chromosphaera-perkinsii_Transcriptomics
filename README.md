@@ -68,6 +68,8 @@ source("MainFigureCode/Figure_2C.R")
 
 #Change the GO terms to those for Figure S2C, or any other categories you would like to compare between C. perkinsii and S. arctica as developmental expression patterns.
 
+#Figure S2C used: GO:0000226 (MT Organization); GO:0030154 (Cell differentiation); GO:0051301 (Cell Division)
+
 
 # The code in "SupplementalFigureCode/Figure_S2G_H.R" has the code to plot both Figure S2G and Figure S2H. 
 
