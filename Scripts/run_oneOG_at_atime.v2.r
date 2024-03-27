@@ -135,11 +135,9 @@ first_elements <- sapply(strsplit(clust, "_"), `[`, 1)
 unique_count <- length(unique(first_elements))
 # Check if "Cperk" is in the unique strings
 contains_cperk <- as.integer("Cperk" %in% first_elements)
-contains_sarc <- as.integer("Sarc" %in% first_elements)
 # Output vector
 pattern_mat_row[length(pattern_mat_row)+1]<-unique_count
 pattern_mat_row[length(pattern_mat_row)+1]<-contains_cperk
-pattern_mat_row[length(pattern_mat_row)+1]<-contains_sarc
 pattern_mat_row<-t(as.data.frame(pattern_mat_row))
 rownames(pattern_mat_row)<-thisOG.name
 pattern_mat<-rbind(pattern_mat,pattern_mat_row)
