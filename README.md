@@ -55,5 +55,8 @@ GOgenes<-dgenes[dgenes[,3]=="TF",]
 
 # Supplementary figures can be generated using a similar code snippets: either by sourcing the plotting files, or by running the code by line or in chunks.
 
-source(
+source("SupplementalFigureCode/Figure_S2A.R")
+
+#And so on.
+
 
