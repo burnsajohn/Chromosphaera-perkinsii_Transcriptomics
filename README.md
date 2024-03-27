@@ -57,6 +57,23 @@ GOgenes<-dgenes[dgenes[,3]=="TF",]
 
 source("SupplementalFigureCode/Figure_S2A.R")
 
-#And so on.
+# For Figure S2C, source the script for Figure 2C:
+
+source("MainFigureCode/Figure_2C.R")
+
+#Then, alter the GO terms that you would like to plot for comparison: In the section labeled:
+
+########################GOs for comparison########################################################################
+
+#Change the GO terms to those for Figure S2C, or any other categories you would like to compare between C. perkinsii and S. arctica as developmental expression patterns.
+
+
+# The code in "SupplementalFigureCode/Figure_S2G_H.R" has the code to plot both Figure S2G and Figure S2H. 
+
+
+#The code in "SupplementalFigureCode/Figure_S2G_H.R" has the code to plot both Figure S2G and Figure S2H. 
+
+
+
 
 
