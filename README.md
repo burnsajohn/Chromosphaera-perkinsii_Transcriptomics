@@ -14,7 +14,8 @@ Make sure that quants.zip is extracted such that the top directory is quants/ an
 
 # It may also be useful to run the code line by line or in chunks.
 
-# Most plots will require information from one or both main analyses scripts: Cperk_TimeCourse_DEGanalyses.R, Cperk_TimeCourse_GOanalyses.R
+# Most plots will require information from one or both main analyses scripts: 
+Cperk_TimeCourse_DEGanalyses.R, Cperk_TimeCourse_GOanalyses.R
 
 # To make Figure 2A you can run:
 
@@ -30,9 +31,24 @@ source("MainFigureCode/Figure_2A.R")
 
 source("Cperk_TimeCourse_DEGanalyses.R")
 
-source("Cperk_TimeCourse_GOanalyses.R")
+#uncomment the next line if you would like to run GO analyses--not strictly necessary for plotting Figure 2B since the output data files are already provided.
+#source("Cperk_TimeCourse_GOanalyses.R")
 
 source("MainFigureCode/Figure_2B.R")
 
+# To make Figure 2C you can run:
+*does not need any other data pre-loaded
+**takes time to run through pattern clustering within orthogroups.
+
+source("MainFigureCode/Figure_2C.R")
+
+# To make Figure 2D you can run:
+
+source("MainFigureCode/Figure_2D.R")
+#The above code will print select transcription factors by default.
+#To plot additional genes, after running the default, go to the following lines in the code and alter the functional class as described, or provide custom OGs for plotting:
+
+###Here can select which functional class of gene to plot: TF, Adhesion, or Signaling. They are read from file DevelGenes_MAP.txt. Other OGs can be selected from annotation files for comparison. A subset is shown in Figure 2D in the manuscript.
+GOgenes<-dgenes[dgenes[,3]=="TF",]
 
 
