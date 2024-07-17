@@ -65,5 +65,5 @@ diag(modified_corr_matrix) <- NA
 
 #Figure S2k--one plot. Change the parameter in line 27 to plot other cluster correlations: GOogs<-GOogs.nt
 # Plot the correlation matrix using the calculated range without diagonal values
-corrplot(corr=modified_corr_matrix, p.mat = myCorDat$P, is.corr = FALSE, col.lim=c(-0.5,0.5), method = 'color', col = COL2('PiYG'), cl.pos = 'b', diag=F, type = 'lower',tl.srt = 45,order="original",sig.level = 0.05, addgrid.col = 'white')
+print(corrplot(corr=modified_corr_matrix, p.mat = myCorDat$P, is.corr = FALSE, col.lim=c(-0.5,0.5), method = 'color', col = COL2('PiYG'), cl.pos = 'b', diag=F, type = 'lower',tl.srt = 45,order="original",sig.level = 0.05, addgrid.col = 'white'))
 
