@@ -7,7 +7,7 @@
 ################################################################################################
 ####empirical stats#############################################################################
 ################################################################################################
-###single_sample
+allOGs<-unique(OGgene[,2])
 
 Cperk_develGenes<-c("Nk52_evm15s1360","Nk52_evm78s1737","Nk52_evm1s1535","Nk52_evm57s1073","Nk52_evm44s1360","Nk52_evm60s152","Nk52_evm4s2657","Nk52_evm64s2039","Nk52_evm98s2192","Nk52_evm16s267","Nk52_evm7s490","Nk52_evm24s1967","Nk52_evm90s1737","Nk52_evm65s270","Nk52_evm36s621","Nk52_evm4s293","Nk52_evm20s2474","Nk52_evm62s1020","Nk52_evm18s1967","Nk52_evm48s153","Nk52_evm11s256","Nk52_evm45s1569","Nk52_evm29s2367","Nk52_evm50s352","Nk52_evm4s217","Nk52_evm19s307","Nk52_evm18s164","Nk52_evm7s2340","Nk52_evm14s2596","Nk52_evm88s270","Nk52_evm40s292","Nk52_evm1s2634","Nk52_evm50s236","Nk52_evm8s2462","Nk52_evm55s226","Nk52_evm6s217")
 Cperk_develOGs<-na.omit(Cperk_OGs2[match(Cperk_develGenes,Cperk_OGs2[,2]),1])
