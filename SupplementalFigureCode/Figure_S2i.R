@@ -114,10 +114,10 @@ print(final_results)
 combined_data$group <- factor(combined_data$group, levels = c("Clust5", "Clust4", "Clust3","Clust2","Clust1","notDE"))
 
 ##Figure S2i--individual colors for each cluster were added manually after plotting, but could also be coded into this function.
-ggplot(combined_data, aes(x = value, y = group)) +
+print(ggplot(combined_data, aes(x = value, y = group)) +
   stat_density_ridges(fill = "lightblue", quantile_lines = TRUE, alpha = 0.5, quantiles = 2)  +
   geom_vline(xintercept = median(combined_data[combined_data$group=="notDE","value"],na.rm=T), linetype = "dashed", color = "red") + # Change xintercept to your desired value
   theme_ridges() + 
-  labs(title = "", x = "Correlation between C. perkinsii and animals", y = "")
+  labs(title = "", x = "Correlation between C. perkinsii and animals", y = ""))
 
 
