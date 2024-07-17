@@ -91,7 +91,7 @@ source("SupplementalFigureCode/Figure_S2k.R")
 
 source("SupplementalFigureCode/Figure_S2l.R")
 
-# code for calculating Kendall's p-value for correspondence among animals for individual genes can be found in the file "KendallsPvalueCalcs.R" in the SupplementalFigureCode directory.
+#code for calculating Kendall's p-value for correspondence among animals for individual genes can be found in the file "KendallsPvalueCalcs.R" in the SupplementalFigureCode directory.
 
 # Package Version Info at the time of publication:
  [1]irr_0.84.1           lpSolve_5.6.20       corrplot_0.92       
