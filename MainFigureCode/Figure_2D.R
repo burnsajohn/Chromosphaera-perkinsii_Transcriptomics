@@ -316,6 +316,6 @@ nCol <- floor(sqrt(n))
 do.call("grid.arrange", c(geneheatmap.l, ncol=nCol))
 
 ###make one plot to print scale
-pheatmap(as.matrix(gene_plot),cluster_cols = FALSE,cluster_rows=my_dendrogram_rotated,scale="none",main=mtitle,fontsize=5,treeheight_row = 5,breaks=mybreaks,color = color_ramp,cellwidth=40, cellheight=20)
+#pheatmap(as.matrix(gene_plot),cluster_cols = FALSE,cluster_rows=my_dendrogram_rotated,scale="none",main=mtitle,fontsize=5,treeheight_row = 5,breaks=mybreaks,color = color_ramp,cellwidth=40, cellheight=20)
 
 
