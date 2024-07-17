@@ -90,6 +90,23 @@ source("SupplementalFigureCode/Figure_S2k.R")
 source("SupplementalFigureCode/Figure_S2l.R")
 
 
+# Package Version Info at the time of publication:
+ [1] irr_0.84.1           lpSolve_5.6.20       corrplot_0.92       
+ [4] ggridges_0.5.6       progress_1.2.3       data.table_1.15.4   
+ [7] tidyr_1.3.0          RColorBrewer_1.1-3   cowplot_1.1.3       
+[10] reshape2_1.4.4       purrr_1.0.2          gplots_3.1.3.1      
+[13] plyr_1.8.9           rstatix_0.7.2        eulerr_7.0.2        
+[16] dendextend_1.17.1    pheatmap_1.0.12      topGO_2.54.0        
+[19] SparseM_1.81         GO.db_3.18.0         AnnotationDbi_1.64.1
+[22] IRanges_2.36.0       S4Vectors_0.40.2     Biobase_2.62.0      
+[25] graph_1.80.0         BiocGenerics_0.48.1  igraph_2.0.3        
+[28] edgeR_4.0.3          limma_3.58.1         tximport_1.30.0     
+[31] matrixStats_1.3.0    zoo_1.8-12           tibble_3.2.1        
+[34] dplyr_1.1.4          scales_1.3.0         Cairo_1.6-2         
+[37] gridExtra_2.3        DBI_1.2.2            ggplot2_3.5.1       
+[40] superheat_1.0.0      viridis_0.6.5        viridisLite_0.4.2 
+
+
 
 
 
