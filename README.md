@@ -66,10 +66,9 @@ source("MainFigureCode/Figure_2C.R")
 ########################GOs for comparison########################################################################
 #Change the GO terms to those for Figure S2C, or any other categories you would like to compare between C. perkinsii and S. arctica as developmental expression patterns.
 #Figure S2C used: GO:0000226 (MT Organization); GO:0030154 (Cell differentiation); GO:0051301 (Cell Division)
-#
 source("SupplementalFigureCode/Figure_S2d.R")
 source("SupplementalFigureCode/Figure_S2e.R")
-# To plot Figure S2F, find the code "#Figure S2F" and run the plotting commands following that line--you can vary the GO term genes are selected from and can vary the number of genes plotted to visualize different sets of genes. 
+#To plot Figure S2F, find the code "#Figure S2F" and run the plotting commands following that line--you can vary the GO term genes are selected from and can vary the number of genes plotted to visualize different sets of genes. 
 source("SupplementalFigureCode/Figure_S2g.R")
 source("SupplementalFigureCode/Figure_S2h.R")
 source("SupplementalFigureCode/Figure_S2i.R")
