@@ -64,8 +64,11 @@ source("SupplementalFigureCode/Figure_S2b.R")
 # For Figure S2C, source the script for Figure 2C:
 source("MainFigureCode/Figure_2C.R")
 #Then, alter the GO terms that you would like to plot for comparison: In the section labeled:
+
 ########################GOs for comparison########################################################################
+
 #Change the GO terms to those for Figure S2C, or any other categories you would like to compare between C. perkinsii and S. arctica as developmental expression patterns.
+
 #Figure S2C used: GO:0000226 (MT Organization); GO:0030154 (Cell differentiation); GO:0051301 (Cell Division)
 
 source("SupplementalFigureCode/Figure_S2d.R")
