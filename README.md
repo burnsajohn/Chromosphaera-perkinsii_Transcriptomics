@@ -5,10 +5,12 @@ Data and R scripts for direct and comparative transcriptomic analyses of the hol
 # R Libraries needed to run these scripts
 viridis, superheat, ggplot2, DBI, gridExtra, Cairo, scales, dplyr, tibble, zoo, matrixStats, tximport, edgeR, igraph, topGO, pheatmap, dendextend, eulerr, rstatix, plyr, gplots, purrr, reshape2, cowplot, RColorBrewer, grid, tidyr, data.table, progress, ggridges, corrplot, irr
 
-#dependencies for individual scripts are listed near the top of the code files.
+#dependencies for individual scripts are listed near the top of the code files. Version info at time of publication can be found at the bottom of this README. Installation time for all dependencies should be around 2 hours.
 
 # This code and data is sufficient to make all base plots used in the manuscript. 
 For some plots, colors and axis labels were added after plotting, so the colors and labels may not exactly match what is seen in the manuscript, however the data is the same.
+
+Run time for each plot varies from seconds to approximately 30 minutes.
 
 # Before running any code, first expand the directory quants.zip 
 quants.zip contains read mapping information from the RNAseq libraries from Salmon
