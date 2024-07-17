@@ -64,8 +64,8 @@ genes_df$Correlation <- correlations
 genes_df <- genes_df[!is.na(genes_df$Correlation), ]
 
 # Now you can plot these correlations with the gene names as labels
-ggplot(genes_df, aes(x = reorder(GeneName, Correlation), y = Correlation, label = GeneName)) +
+print(ggplot(genes_df, aes(x = reorder(GeneName, Correlation), y = Correlation, label = GeneName)) +
   geom_point(stat = "identity") +
   #geom_text(nudge_y = 0.05, check_overlap = TRUE) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
-  labs(x = "Gene Name", y = "Correlation between vectors")
+  labs(x = "Gene Name", y = "Correlation between vectors"))
