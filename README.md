@@ -77,7 +77,9 @@ source("SupplementalFigureCode/Figure_S2d.R")
 
 source("SupplementalFigureCode/Figure_S2e.R")
 
-#To plot Figure S2F, find the code "#Figure S2F" and run the plotting commands following that line--you can vary the GO term genes are selected from and can vary the number of genes plotted to visualize different sets of genes. 
+source("SupplementalFigureCode/Figure_S2f.R")
+
+#To vary Figure S2F you can vary the GO term genes are selected from and can vary the number of genes plotted to visualize different sets of genes. 
 
 source("SupplementalFigureCode/Figure_S2g.R")
 
