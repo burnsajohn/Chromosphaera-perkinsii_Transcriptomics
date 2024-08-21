@@ -1,3 +1,5 @@
+# DOI: 10.5281/zenodo.13352464
+
 # Chromosphaera-perkinsii_Transcriptomics
 Data and R scripts for direct and comparative transcriptomic analyses of the holozoan Chromosphaera perkinsii during its multicellular developmental period.
 *Note: Most scripts produce plots to the screen, not directly to pdfs. Those plots can be savedexported as PDFs, or the code can be altered to export pdfs directly, as desired.
